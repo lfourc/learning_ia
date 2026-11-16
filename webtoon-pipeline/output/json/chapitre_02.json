@@ -1,0 +1,991 @@
+{
+  "chapitre": 2,
+  "titre": "Le sceau",
+  "note": "Importé du montage publié (images finales déjà générées). Les prompts d'origine n'étaient pas dans la page : image_prompt vide. Personnages des bulles à compléter.",
+  "cases": [
+    {
+      "id": "case_01",
+      "id_original": "2.01",
+      "format": "2:3",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "La première neige tomba trois semaines plus tard.",
+          "position": {
+            "x": 4,
+            "y": 3,
+            "w": 52
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_02",
+      "id_original": "2.02",
+      "format": "400:201",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Pour le baron d’Arnsfeld. En main propre.",
+          "position": {
+            "x": 46,
+            "y": 3,
+            "w": 32,
+            "tx": 82,
+            "ty": 24
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "De la part de qui ?",
+          "position": {
+            "x": 30,
+            "y": 50,
+            "w": 20,
+            "tx": 28,
+            "ty": 22
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_03",
+      "id_original": "2.03",
+      "format": "800:349",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_04",
+      "id_original": "2.04",
+      "format": "800:439",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "clop… clop…",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_05",
+      "id_original": "2.05",
+      "format": "400:201",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "… et le sanglier a reculé. Devant moi.",
+          "position": {
+            "x": 2,
+            "y": 3,
+            "w": 30,
+            "tx": 10,
+            "ty": 24
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_06",
+      "id_original": "2.06",
+      "format": "800:391",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Je l’ai regardé dans les yeux.",
+          "position": {
+            "x": 46,
+            "y": 2,
+            "w": 22,
+            "tx": 60,
+            "ty": 30
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Il a reculé devant ta coiffure.",
+          "position": {
+            "x": 76,
+            "y": 16,
+            "w": 23,
+            "tx": 76,
+            "ty": 30
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_07",
+      "id_original": "2.07",
+      "format": "800:403",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Troisième fois qu’on entend ce sanglier. Il grossit à chaque souper.",
+          "position": {
+            "x": 54,
+            "y": 8,
+            "w": 34,
+            "tx": 40,
+            "ty": 32
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_08",
+      "id_original": "2.08",
+      "format": "16:9",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Arrivée à la tombée du jour.",
+          "position": {
+            "x": 26,
+            "y": 3,
+            "w": 22,
+            "tx": 64,
+            "ty": 18
+          }
+        }
+      ],
+      "sfx": "tink",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_09",
+      "id_original": "2.09",
+      "format": "100:47",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_10",
+      "id_original": "2.10",
+      "format": "800:371",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_11",
+      "id_original": "2.11",
+      "format": "40:19",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "FWOOSH",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_12",
+      "id_original": "2.12",
+      "format": "400:191",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_13",
+      "id_original": "2.13",
+      "format": "800:433",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Père ! Vous ne l’avez même pas ouverte !",
+          "position": {
+            "x": 30,
+            "y": 2,
+            "w": 30,
+            "tx": 44,
+            "ty": 32
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_14",
+      "id_original": "2.14",
+      "format": "50:29",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Pas besoin.",
+          "position": {
+            "x": 62,
+            "y": 4,
+            "w": 18,
+            "tx": 52,
+            "ty": 18
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Mange.",
+          "position": {
+            "x": 64,
+            "y": 42,
+            "w": 18,
+            "tx": 54,
+            "ty": 30
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_15",
+      "id_original": "2.15",
+      "format": "200:121",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "pensee",
+          "texte": "Un tilleul… avec une couronne.",
+          "position": {
+            "x": 48,
+            "y": 4,
+            "w": 30,
+            "tx": 30,
+            "ty": 18
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_16",
+      "id_original": "2.16",
+      "format": "800:243",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "crunch",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_17",
+      "id_original": "2.17",
+      "format": "800:399",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Tu l’as vu, toi aussi, le sceau ?",
+          "position": {
+            "x": 12,
+            "y": 4,
+            "w": 26,
+            "tx": 40,
+            "ty": 50
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Je le vois tous les jours, la souris. Regarde.",
+          "position": {
+            "x": 66,
+            "y": 14,
+            "w": 30,
+            "tx": 62,
+            "ty": 50
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_18",
+      "id_original": "2.18",
+      "format": "800:399",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_19",
+      "id_original": "2.19",
+      "format": "80:39",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_20",
+      "id_original": "2.20",
+      "format": "200:89",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "La première Ottilie. Une reine, d’après les vieilles. Il y a très longtemps.",
+          "position": {
+            "x": 2,
+            "y": 6,
+            "w": 34,
+            "tx": 46,
+            "ty": 34
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_21",
+      "id_original": "2.21",
+      "format": "400:231",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "(hors champ)",
+          "type": "dialogue",
+          "texte": "Depuis, chaque génération a son Ottilie. Moi pour le nom.",
+          "position": {
+            "x": 62,
+            "y": 62,
+            "w": 34
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_22",
+      "id_original": "2.22",
+      "format": "32:15",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Toi pour le reste.",
+          "position": {
+            "x": 72,
+            "y": 4,
+            "w": 26,
+            "tx": 64,
+            "ty": 40
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Quel reste ?",
+          "position": {
+            "x": 36,
+            "y": 40,
+            "w": 18,
+            "tx": 33,
+            "ty": 46
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Demande à ton père. Il brûle les lettres, maintenant.",
+          "position": {
+            "x": 56,
+            "y": 50,
+            "w": 42,
+            "tx": 62,
+            "ty": 42
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_23",
+      "id_original": "2.23",
+      "format": "800:321",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Après tout ce temps.",
+          "position": {
+            "x": 68,
+            "y": 6,
+            "w": 24,
+            "tx": 82,
+            "ty": 44
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_24",
+      "id_original": "2.24",
+      "format": "800:637",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Ils savent.",
+          "position": {
+            "x": 2,
+            "y": 6,
+            "w": 20,
+            "tx": 40,
+            "ty": 16
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Qui, « ils » ?",
+          "position": {
+            "x": 80,
+            "y": 30,
+            "w": 19,
+            "tx": 72,
+            "ty": 20
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_25",
+      "id_original": "2.25",
+      "format": "10:3",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_26",
+      "id_original": "2.26",
+      "format": "400:167",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Ceux qui savent compter.",
+          "position": {
+            "x": 60,
+            "y": 6,
+            "w": 32,
+            "tx": 50,
+            "ty": 44
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_27",
+      "id_original": "2.27",
+      "format": "100:63",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Alors je ferme les portes.",
+          "position": {
+            "x": 4,
+            "y": 6,
+            "w": 28,
+            "tx": 46,
+            "ty": 16
+          }
+        }
+      ],
+      "sfx": "tink tink",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_28",
+      "id_original": "2.28",
+      "format": "25:11",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_29",
+      "id_original": "2.29",
+      "format": "25:12",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Que les Sept gardent le seuil.",
+          "position": {
+            "x": 2,
+            "y": 6,
+            "w": 20,
+            "tx": 38,
+            "ty": 22
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_30",
+      "id_original": "2.30",
+      "format": "80:39",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "vmm…",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_31",
+      "id_original": "2.31",
+      "format": "800:423",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Gisela croyait prier.",
+          "position": {
+            "x": 56,
+            "y": 5,
+            "w": 38
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_32",
+      "id_original": "2.32",
+      "format": "400:153",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_33",
+      "id_original": "2.33",
+      "format": "4:3",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_34",
+      "id_original": "2.34",
+      "format": "800:281",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "grrr…",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_35",
+      "id_original": "2.35",
+      "format": "40:19",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_36",
+      "id_original": "2.36",
+      "format": "800:369",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_37",
+      "id_original": "2.37",
+      "format": "16:9",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "VMMM ! / tss",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_38",
+      "id_original": "2.38",
+      "format": "40:19",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "pensee",
+          "texte": "Une bénédiction. Sur une porte de cuisine.",
+          "position": {
+            "x": 60,
+            "y": 4,
+            "w": 36,
+            "tx": 46,
+            "ty": 30
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_39",
+      "id_original": "2.39",
+      "format": "400:209",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "pensee",
+          "texte": "… Qui êtes-vous, vous autres ?",
+          "position": {
+            "x": 40,
+            "y": 4,
+            "w": 26,
+            "tx": 32,
+            "ty": 24
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_40",
+      "id_original": "2.40",
+      "format": "400:199",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_41",
+      "id_original": "2.41",
+      "format": "800:879",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_42",
+      "id_original": "2.42",
+      "format": "800:319",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "degrade_blanc",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_43",
+      "id_original": "2.43",
+      "format": "400:199",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "(hors champ)",
+          "type": "dialogue",
+          "texte": "Père. Cette nuit, il y avait un homme.",
+          "position": {
+            "x": 2,
+            "y": 4,
+            "w": 28
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Un loup.",
+          "position": {
+            "x": 44,
+            "y": 10,
+            "w": 14,
+            "tx": 36,
+            "ty": 10
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_44",
+      "id_original": "2.44",
+      "format": "800:429",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "(hors champ)",
+          "type": "dialogue",
+          "texte": "Un loup avec des bottes ?",
+          "position": {
+            "x": 2,
+            "y": 4,
+            "w": 24
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Reste au manoir.",
+          "position": {
+            "x": 34,
+            "y": 14,
+            "w": 22,
+            "tx": 30,
+            "ty": 14
+          }
+        }
+      ],
+      "sfx": "frrsh",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_45",
+      "id_original": "2.45",
+      "format": "400:181",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_46",
+      "id_original": "2.46",
+      "format": "100:37",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Reste au manoir, reste au manoir…",
+          "position": {
+            "x": 34,
+            "y": 6,
+            "w": 28,
+            "tx": 26,
+            "ty": 14
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_47",
+      "id_original": "2.47",
+      "format": "4:3",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_48",
+      "id_original": "2.48",
+      "format": "800:287",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_49",
+      "id_original": "2.49",
+      "format": "800:253",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "grrr",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_50",
+      "id_original": "2.50",
+      "format": "160:133",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_51",
+      "id_original": "2.51",
+      "format": "800:271",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "… Encore toi.",
+          "position": {
+            "x": 4,
+            "y": 6,
+            "w": 22,
+            "tx": 42,
+            "ty": 72
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 900
+    }
+  ]
+}

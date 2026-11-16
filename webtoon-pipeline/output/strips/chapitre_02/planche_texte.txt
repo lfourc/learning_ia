@@ -1,0 +1,252 @@
+CHAPITRE 2 — Le sceau
+============================================================
+
+[case_01]  format 2:3  |  planche_01, y=0px → 1204px
+   NARRATION — : La première neige tomba trois semaines plus tard.
+             ↳ position dans la case : x=4%, y=3%, w=52%
+   ↓ espace 500px (noir)
+
+[case_02]  format 400:201  |  planche_01, y=1704px → 2106px
+   BULLE     — : Pour le baron d’Arnsfeld. En main propre.
+             ↳ position dans la case : x=46%, y=3%, w=32%, tx=82%, ty=24%
+   BULLE     — : De la part de qui ?
+             ↳ position dans la case : x=30%, y=50%, w=20%, tx=28%, ty=22%
+   ↓ espace 150px (noir)
+
+[case_03]  format 800:349  |  planche_01, y=2256px → 2605px
+   (case muette)
+   ↓ espace 150px (noir)
+
+[case_04]  format 800:439  |  planche_01, y=2755px → 3194px
+   SFX       « clop… clop… »
+   ↓ espace 900px (noir)
+
+[case_05]  format 400:201  |  planche_01, y=4094px → 4496px
+   BULLE     — : … et le sanglier a reculé. Devant moi.
+             ↳ position dans la case : x=2%, y=3%, w=30%, tx=10%, ty=24%
+   ↓ espace 150px (noir)
+
+[case_06]  format 800:391  |  planche_01, y=4646px → 5037px
+   BULLE     — : Je l’ai regardé dans les yeux.
+             ↳ position dans la case : x=46%, y=2%, w=22%, tx=60%, ty=30%
+   BULLE     — : Il a reculé devant ta coiffure.
+             ↳ position dans la case : x=76%, y=16%, w=23%, tx=76%, ty=30%
+   ↓ espace 150px (noir)
+
+[case_07]  format 800:403  |  planche_01, y=5187px → 5590px
+   BULLE     — : Troisième fois qu’on entend ce sanglier. Il grossit à chaque souper.
+             ↳ position dans la case : x=54%, y=8%, w=34%, tx=40%, ty=32%
+   ↓ espace 500px (noir)
+
+[case_08]  format 16:9  |  planche_01, y=6090px → 6536px
+   BULLE     — : Arrivée à la tombée du jour.
+             ↳ position dans la case : x=26%, y=3%, w=22%, tx=64%, ty=18%
+   SFX       « tink »
+   ↓ espace 150px (noir)
+
+[case_09]  format 100:47  |  planche_01, y=6686px → 7062px
+   (case muette)
+   ↓ espace 150px (noir)
+
+[case_10]  format 800:371  |  planche_01, y=7212px → 7583px
+   (case muette)
+   ↓ espace 500px (noir)
+
+[case_11]  format 40:19  |  planche_01, y=8083px → 8463px
+   SFX       « FWOOSH »
+   ↓ espace 150px (noir)
+
+[case_12]  format 400:191  |  planche_01, y=8613px → 8995px
+   (case muette)
+   ↓ espace 150px (noir)
+
+[case_13]  format 800:433  |  planche_01, y=9145px → 9578px
+   BULLE     — : Père ! Vous ne l’avez même pas ouverte !
+             ↳ position dans la case : x=30%, y=2%, w=30%, tx=44%, ty=32%
+   ↓ espace 150px (noir)
+
+[case_14]  format 50:29  |  planche_02, y=0px → 464px
+   BULLE     — : Pas besoin.
+             ↳ position dans la case : x=62%, y=4%, w=18%, tx=52%, ty=18%
+   BULLE     — : Mange.
+             ↳ position dans la case : x=64%, y=42%, w=18%, tx=54%, ty=30%
+   ↓ espace 150px (noir)
+
+[case_15]  format 200:121  |  planche_02, y=614px → 1098px
+   PENSÉE    — : Un tilleul… avec une couronne.
+             ↳ position dans la case : x=48%, y=4%, w=30%, tx=30%, ty=18%
+   ↓ espace 150px (noir)
+
+[case_16]  format 800:243  |  planche_02, y=1248px → 1491px
+   SFX       « crunch »
+   ↓ espace 900px (noir)
+
+[case_17]  format 800:399  |  planche_02, y=2391px → 2790px
+   BULLE     — : Tu l’as vu, toi aussi, le sceau ?
+             ↳ position dans la case : x=12%, y=4%, w=26%, tx=40%, ty=50%
+   BULLE     — : Je le vois tous les jours, la souris. Regarde.
+             ↳ position dans la case : x=66%, y=14%, w=30%, tx=62%, ty=50%
+   ↓ espace 150px (noir)
+
+[case_18]  format 800:399  |  planche_02, y=2940px → 3339px
+   (case muette)
+   ↓ espace 150px (noir)
+
+[case_19]  format 80:39  |  planche_02, y=3489px → 3879px
+   (case muette)
+   ↓ espace 500px (noir)
+
+[case_20]  format 200:89  |  planche_02, y=4379px → 4735px
+   BULLE     — : La première Ottilie. Une reine, d’après les vieilles. Il y a très longtemps.
+             ↳ position dans la case : x=2%, y=6%, w=34%, tx=46%, ty=34%
+   ↓ espace 150px (noir)
+
+[case_21]  format 400:231  |  planche_02, y=4885px → 5347px
+   BULLE     (hors champ) : Depuis, chaque génération a son Ottilie. Moi pour le nom.
+             ↳ position dans la case : x=62%, y=62%, w=34%
+   ↓ espace 150px (noir)
+
+[case_22]  format 32:15  |  planche_02, y=5497px → 5872px
+   BULLE     — : Toi pour le reste.
+             ↳ position dans la case : x=72%, y=4%, w=26%, tx=64%, ty=40%
+   BULLE     — : Quel reste ?
+             ↳ position dans la case : x=36%, y=40%, w=18%, tx=33%, ty=46%
+   BULLE     — : Demande à ton père. Il brûle les lettres, maintenant.
+             ↳ position dans la case : x=56%, y=50%, w=42%, tx=62%, ty=42%
+   ↓ espace 900px (noir)
+
+[case_23]  format 800:321  |  planche_02, y=6772px → 7093px
+   BULLE     — : Après tout ce temps.
+             ↳ position dans la case : x=68%, y=6%, w=24%, tx=82%, ty=44%
+   ↓ espace 150px (noir)
+
+[case_24]  format 800:637  |  planche_02, y=7243px → 7880px
+   BULLE     — : Ils savent.
+             ↳ position dans la case : x=2%, y=6%, w=20%, tx=40%, ty=16%
+   BULLE     — : Qui, « ils » ?
+             ↳ position dans la case : x=80%, y=30%, w=19%, tx=72%, ty=20%
+   ↓ espace 150px (noir)
+
+[case_25]  format 10:3  |  planche_02, y=8030px → 8270px
+   (case muette)
+   ↓ espace 900px (noir)
+
+[case_26]  format 400:167  |  planche_02, y=9170px → 9504px
+   BULLE     — : Ceux qui savent compter.
+             ↳ position dans la case : x=60%, y=6%, w=32%, tx=50%, ty=44%
+   ↓ espace 150px (noir)
+
+[case_27]  format 100:63  |  planche_03, y=0px → 504px
+   BULLE     — : Alors je ferme les portes.
+             ↳ position dans la case : x=4%, y=6%, w=28%, tx=46%, ty=16%
+   SFX       « tink tink »
+   ↓ espace 150px (noir)
+
+[case_28]  format 25:11  |  planche_03, y=654px → 1006px
+   (case muette)
+   ↓ espace 900px (noir)
+
+[case_29]  format 25:12  |  planche_03, y=1906px → 2290px
+   BULLE     — : Que les Sept gardent le seuil.
+             ↳ position dans la case : x=2%, y=6%, w=20%, tx=38%, ty=22%
+   ↓ espace 150px (noir)
+
+[case_30]  format 80:39  |  planche_03, y=2440px → 2830px
+   SFX       « vmm… »
+   ↓ espace 150px (noir)
+
+[case_31]  format 800:423  |  planche_03, y=2980px → 3403px
+   NARRATION — : Gisela croyait prier.
+             ↳ position dans la case : x=56%, y=5%, w=38%
+   ↓ espace 900px (noir)
+
+[case_32]  format 400:153  |  planche_03, y=4303px → 4609px
+   (case muette)
+   ↓ espace 150px (noir)
+
+[case_33]  format 4:3  |  planche_03, y=4759px → 5368px
+   (case muette)
+   ↓ espace 150px (noir)
+
+[case_34]  format 800:281  |  planche_03, y=5518px → 5799px
+   SFX       « grrr… »
+   ↓ espace 500px (noir)
+
+[case_35]  format 40:19  |  planche_03, y=6299px → 6679px
+   (case muette)
+   ↓ espace 150px (noir)
+
+[case_36]  format 800:369  |  planche_03, y=6829px → 7198px
+   (case muette)
+   ↓ espace 150px (noir)
+
+[case_37]  format 16:9  |  planche_03, y=7348px → 7797px
+   SFX       « VMMM ! / tss »
+   ↓ espace 500px (noir)
+
+[case_38]  format 40:19  |  planche_03, y=8297px → 8677px
+   PENSÉE    — : Une bénédiction. Sur une porte de cuisine.
+             ↳ position dans la case : x=60%, y=4%, w=36%, tx=46%, ty=30%
+   ↓ espace 150px (noir)
+
+[case_39]  format 400:209  |  planche_03, y=8827px → 9245px
+   PENSÉE    — : … Qui êtes-vous, vous autres ?
+             ↳ position dans la case : x=40%, y=4%, w=26%, tx=32%, ty=24%
+   ↓ espace 150px (noir)
+
+[case_40]  format 400:199  |  planche_03, y=9395px → 9793px
+   (case muette)
+   ↓ espace 500px (noir)
+
+[case_41]  format 800:879  |  planche_04, y=293px → 1172px
+   (case muette)
+   ↓ espace 150px (noir)
+
+[case_42]  format 800:319  |  planche_04, y=1322px → 1641px
+   (case muette)
+   ↓ espace 900px (degrade_blanc)
+
+[case_43]  format 400:199  |  planche_04, y=2541px → 2939px
+   BULLE     (hors champ) : Père. Cette nuit, il y avait un homme.
+             ↳ position dans la case : x=2%, y=4%, w=28%
+   BULLE     — : Un loup.
+             ↳ position dans la case : x=44%, y=10%, w=14%, tx=36%, ty=10%
+   ↓ espace 150px (blanc)
+
+[case_44]  format 800:429  |  planche_04, y=3089px → 3518px
+   BULLE     (hors champ) : Un loup avec des bottes ?
+             ↳ position dans la case : x=2%, y=4%, w=24%
+   BULLE     — : Reste au manoir.
+             ↳ position dans la case : x=34%, y=14%, w=22%, tx=30%, ty=14%
+   SFX       « frrsh »
+   ↓ espace 150px (blanc)
+
+[case_45]  format 400:181  |  planche_04, y=3668px → 4030px
+   (case muette)
+   ↓ espace 500px (blanc)
+
+[case_46]  format 100:37  |  planche_04, y=4530px → 4826px
+   BULLE     — : Reste au manoir, reste au manoir…
+             ↳ position dans la case : x=34%, y=6%, w=28%, tx=26%, ty=14%
+   ↓ espace 150px (blanc)
+
+[case_47]  format 4:3  |  planche_04, y=4976px → 5582px
+   (case muette)
+   ↓ espace 150px (blanc)
+
+[case_48]  format 800:287  |  planche_04, y=5732px → 6019px
+   (case muette)
+   ↓ espace 900px (blanc)
+
+[case_49]  format 800:253  |  planche_04, y=6919px → 7172px
+   SFX       « grrr »
+   ↓ espace 150px (blanc)
+
+[case_50]  format 160:133  |  planche_04, y=7322px → 7987px
+   (case muette)
+   ↓ espace 500px (blanc)
+
+[case_51]  format 800:271  |  planche_04, y=8487px → 8758px
+   BULLE     — : … Encore toi.
+             ↳ position dans la case : x=4%, y=6%, w=22%, tx=42%, ty=72%
+   ↓ espace 900px (blanc)

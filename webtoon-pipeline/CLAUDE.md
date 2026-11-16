@@ -133,3 +133,17 @@ python scripts/generate_webtoon.py -c 1 --assemble-only    # réassemble sans ap
 Options utiles : `--force` (régénère même si l'image existe), `--seed 42`, `--max-height 10000`, `--format jpg`, `-y` (pas de confirmation de coût), `--no-assemble`.
 Les images déjà générées sont réutilisées (pas de double paiement). L'assemblage prend la version `final` d'une case si elle existe, sinon `draft`.
 Sorties : `output/strips/chapitre_XX/planche_NN.png` + `planche_texte.txt` (dialogues + position Y de chaque case, pour le lettrage).
+
+---
+
+## 8. PROJET EN COURS : « LA LAME-GRISE » (ressources reprises des artifacts claude.ai)
+Ce pipeline est appliqué à **La Lame-Grise** (Konrad von Eichenwald, univers d'Erdheim). Avant tout travail, lire :
+- `source/livre_source.txt` — **Konrad — Livre I : Origines** (7 chapitres), le texte source à adapter.
+- `codex/01_BIBLE_MONDE.md` — tokens visuels de 23 personnages et 19 lieux + blocs de style/négatif (données brutes : `codex/planches.json`).
+- `codex/bibles/` — `bible_personnages.md` (apparence, âges, voix), `bible_decors.md` (lieux, script couleur), `tome0_fondations.md` (magie, dieux, histoire, rangs), `tome1_bestiaire.md`, `bible_univers.md` (transposition hors Warhammer : **ne jamais réutiliser les noms Warhammer** — Reikland, Sigmar, Morr, Ulgu… → voir la table de transposition), `kit_chatgpt.md`.
+- `codex/archives/` — anciens scripts (épisode 1 « La dernière journée », découpage ch. 1 du livre).
+- `output/json/chapitre_01.json` (Les abeilles de Brunhild, 63 cases) et `chapitre_02.json` (Le sceau, 51 cases) — épisodes **déjà publiés**, images finales dans `output/panels/chapitre_0X/final/`. Leurs prompts d'origine sont perdus (`image_prompt` vide) ; les bulles gardent leur position (`x,y,w` = coin et largeur en % de la case, `tx,ty` = pointe de la queue).
+- Prochain épisode : **épisode 3 « Le chasseur »** (`chapitre_03.json`).
+
+Règles propres à la série (priment sur la section 3 en cas de conflit) : jamais de croix chrétienne, crucifix ni fleur de lys ; ne jamais citer de titres de référence dans les prompts ; le Gris = brume grise translucide aux reflets argentés ; les objets récurrents (bague au tilleul couronné, sceau) ont une image de référence obligatoire ; ne pas redécrire les costumes quand une planche de référence est jointe.
+Les images de référence des planches sont dans l'artifact « Planches — Livre I » : les exporter dans `codex/references/<id>_ref.png` (ex. `c1_ref.png` pour Konrad) pour activer `flux-pulid` en mode final.

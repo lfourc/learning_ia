@@ -93,7 +93,7 @@ def validate_chapter(data: dict) -> list[str]:
             warnings.append(f"{cid} : id dupliqué.")
         seen.add(cid)
         if not case.get("image_prompt"):
-            warnings.append(f"{cid} : 'image_prompt' vide.")
+            warnings.append(f"{cid} : 'image_prompt' vide (impossible de (re)générer cette case).")
         try:
             parse_ratio(case.get("format", "9:16"))
         except ValueError as e:
@@ -111,7 +111,7 @@ def validate_chapter(data: dict) -> list[str]:
             if d.get("type") not in VALID_DIALOGUE_TYPES:
                 warnings.append(f"{cid} : type de dialogue '{d.get('type')}' inconnu.")
             n = len(str(d.get("texte", "")).split())
-            if n > MAX_WORDS_PER_BUBBLE:
+            if n > MAX_WORDS_PER_BUBBLE and d.get("type") != "narration":
                 warnings.append(
                     f"{cid} : bulle de {n} mots (> {MAX_WORDS_PER_BUBBLE}) — "
                     f"« {str(d.get('texte'))[:50]}… »"
@@ -250,8 +250,9 @@ def best_panel(slug: str, case_id: str) -> Path | None:
     """Pour l'assemblage : prend la meilleure version disponible (final > draft > factice)."""
     for m in ("final", "draft", "dryrun"):
         p = panel_path(slug, m, case_id)
-        if p.exists():
-            return p
+        for cand in (p, p.with_suffix(".jpg"), p.with_suffix(".jpeg"), p.with_suffix(".webp")):
+            if cand.exists():
+                return cand
     return None
 
 
@@ -370,6 +371,9 @@ def export_lettering(data: dict, slug: str, positions: list[dict]) -> Path:
             label = TYPE_LABEL.get(d.get("type", ""), str(d.get("type", "?")).upper())
             who = d.get("personnage") or "—"
             lines.append(f"   {label:<9} {who} : {d.get('texte', '')}")
+            if d.get("position"):
+                pos_txt = ", ".join(f"{k}={v}%" for k, v in d["position"].items())
+                lines.append(f"   {'':<9} ↳ position dans la case : {pos_txt}")
         if case.get("sfx"):
             lines.append(f"   {'SFX':<9} « {case['sfx']} »")
         if not (case.get("dialogues") or case.get("sfx")):
@@ -425,7 +429,9 @@ def main() -> None:
     if not args.assemble_only:
         targets = [c for c in data["cases"] if not args.case or c["id"] in args.case]
         force = args.force or bool(args.case)  # --case implique une régénération
-        todo = [c for c in targets if force or not panel_path(slug, gen_mode, c["id"]).exists()]
+        todo = [c for c in targets
+                if force or not any(panel_path(slug, gen_mode, c["id"]).with_suffix(x).exists()
+                                    for x in (".png", ".jpg", ".jpeg", ".webp"))]
         skipped = len(targets) - len(todo)
         if skipped:
             log(f"  ↷ {skipped} case(s) déjà générée(s) en mode {gen_mode} (utiliser --force pour refaire)")

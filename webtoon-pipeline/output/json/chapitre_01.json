@@ -1,0 +1,1454 @@
+{
+  "chapitre": 1,
+  "titre": "Les abeilles de Brunhild",
+  "note": "Importé du montage publié (images finales déjà générées). Les prompts d'origine n'étaient pas dans la page : image_prompt vide. Personnages des bulles à compléter.",
+  "cases": [
+    {
+      "id": "case_01",
+      "id_original": "1.01",
+      "format": "16:9",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "plic",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_02",
+      "id_original": "1.02",
+      "format": "32:35",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "tchk",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_03",
+      "id_original": "1.03",
+      "format": "1:1",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Quelqu’un, quelque part, préparait un cadeau.",
+          "position": {
+            "x": 3,
+            "y": 80,
+            "w": 58
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_04",
+      "id_original": "1.04",
+      "format": "2:3",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "L’Eldwald. Automne 790.",
+          "position": {
+            "x": 3,
+            "y": 3,
+            "w": 40
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_05",
+      "id_original": "1.05",
+      "format": "160:81",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "On disait que la forêt écoutait.",
+          "position": {
+            "x": 3,
+            "y": 5,
+            "w": 40
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_06",
+      "id_original": "1.06",
+      "format": "800:229",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "On avait raison.",
+          "position": {
+            "x": 62,
+            "y": 14,
+            "w": 32
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_07",
+      "id_original": "1.07",
+      "format": "200:139",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "À sa lisière vivaient les Arnsfeld. Une petite maison noble, quatre villages, beaucoup d’arbres.",
+          "position": {
+            "x": 28,
+            "y": 3,
+            "w": 64
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "degrade_blanc",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_08",
+      "id_original": "1.08",
+      "format": "400:199",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "Ottilie von Arnsfeld",
+          "type": "narration",
+          "texte": "FICHE — Ottilie von Arnsfeld : 18 ans. Cadette du baron. Presque partie.",
+          "position": {
+            "x": 2,
+            "y": 66,
+            "w": 40
+          }
+        }
+      ],
+      "sfx": "pof… pof…",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_09",
+      "id_original": "1.09",
+      "format": "400:217",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Où tu cours, le ventre vide ?",
+          "position": {
+            "x": 2,
+            "y": 3,
+            "w": 28,
+            "tx": 18,
+            "ty": 24
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Je ne cours pas !",
+          "position": {
+            "x": 76,
+            "y": 50,
+            "w": 22,
+            "tx": 74,
+            "ty": 40
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_10",
+      "id_original": "1.10",
+      "format": "800:363",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "Mathilde",
+          "type": "narration",
+          "texte": "FICHE — Mathilde : Nourrice. A élevé Ottilie sans mère. N’a jamais perdu une dispute.",
+          "position": {
+            "x": 2,
+            "y": 68,
+            "w": 38
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Alors mange en marchant.",
+          "position": {
+            "x": 24,
+            "y": 4,
+            "w": 24,
+            "tx": 16,
+            "ty": 22
+          }
+        }
+      ],
+      "sfx": "crounch",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_11",
+      "id_original": "1.11",
+      "format": "800:353",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "Moustache",
+          "type": "narration",
+          "texte": "FICHE — Moustache : Vieux chien du baron. Ne vole jamais rien.",
+          "position": {
+            "x": 60,
+            "y": 68,
+            "w": 37
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_12",
+      "id_original": "1.12",
+      "format": "400:149",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "tink… tink…",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_13",
+      "id_original": "1.13",
+      "format": "16:11",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "Tante Gisela",
+          "type": "narration",
+          "texte": "FICHE — Tante Gisela : Sœur du baron. Tient les clés, les comptes et tout le monde.",
+          "position": {
+            "x": 2,
+            "y": 72,
+            "w": 38
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Plus de cire pour les cierges d’hiver. Plus d’abeilles au verger.",
+          "position": {
+            "x": 2,
+            "y": 3,
+            "w": 36,
+            "tx": 50,
+            "ty": 34
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Brunhild a des essaims. Elle te supporte, toi.",
+          "position": {
+            "x": 2,
+            "y": 0,
+            "w": 36
+          },
+          "reliee_a_la_precedente": true
+        }
+      ],
+      "sfx": "frrt",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_14",
+      "id_original": "1.14",
+      "format": "5:2",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Si tu insistes.",
+          "position": {
+            "x": 68,
+            "y": 58,
+            "w": 26,
+            "tx": 52,
+            "ty": 62
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_15",
+      "id_original": "1.15",
+      "format": "200:83",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Les Hollberg soupent ici jeudi. Sans mousse dans les cheveux.",
+          "position": {
+            "x": 39,
+            "y": 3,
+            "w": 27,
+            "tx": 72,
+            "ty": 30
+          }
+        }
+      ],
+      "sfx": "tic",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_16",
+      "id_original": "1.16",
+      "format": "200:87",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Range ta langue.",
+          "position": {
+            "x": 30,
+            "y": 4,
+            "w": 22,
+            "tx": 58,
+            "ty": 18
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Elle est rangée.",
+          "position": {
+            "x": 2,
+            "y": 40,
+            "w": 20,
+            "tx": 20,
+            "ty": 46
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_17",
+      "id_original": "1.17",
+      "format": "800:193",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "cri",
+          "texte": "MOUSTACHE !",
+          "position": {
+            "x": 26,
+            "y": 8,
+            "w": 44
+          }
+        }
+      ],
+      "sfx": "fwip",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_18",
+      "id_original": "1.18",
+      "format": "800:323",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "griiii",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_19",
+      "id_original": "1.19",
+      "format": "160:99",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "♪ La la… lalère… ♪",
+          "position": {
+            "x": 50,
+            "y": 6,
+            "w": 22,
+            "tx": 42,
+            "ty": 16
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_20",
+      "id_original": "1.20",
+      "format": "200:93",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Ici commençait la forêt du Vieux Cerf. On y entrait poliment.",
+          "position": {
+            "x": 2,
+            "y": 4,
+            "w": 46
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_21",
+      "id_original": "1.21",
+      "format": "800:431",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Dix ans, et toujours peur des abeilles ?",
+          "position": {
+            "x": 40,
+            "y": 46,
+            "w": 26,
+            "tx": 30,
+            "ty": 30
+          }
+        }
+      ],
+      "sfx": "bzzzzz",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_22",
+      "id_original": "1.22",
+      "format": "5:1",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "pfff",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_23",
+      "id_original": "1.23",
+      "format": "4:3",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_24",
+      "id_original": "1.24",
+      "format": "160:143",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "Brunhild",
+          "type": "narration",
+          "texte": "FICHE — Brunhild : Apicultrice. Personne ne connaît son âge. Les abeilles, si.",
+          "position": {
+            "x": 62,
+            "y": 4,
+            "w": 35
+          }
+        }
+      ],
+      "sfx": "bzz bzz",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_25",
+      "id_original": "1.25",
+      "format": "5:3",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Elles t’ont encore coiffée ?",
+          "position": {
+            "x": 2,
+            "y": 4,
+            "w": 28,
+            "tx": 40,
+            "ty": 16
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Elles, au moins, ne posent pas de questions, la mouche.",
+          "position": {
+            "x": 60,
+            "y": 18,
+            "w": 32,
+            "tx": 82,
+            "ty": 52
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_26",
+      "id_original": "1.26",
+      "format": "400:199",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Ils attendent depuis l’aube.",
+          "position": {
+            "x": 30,
+            "y": 3,
+            "w": 26,
+            "tx": 74,
+            "ty": 22
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Montre-moi ce que tu as retenu.",
+          "position": {
+            "x": 30,
+            "y": 0,
+            "w": 26
+          },
+          "reliee_a_la_precedente": true
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_27",
+      "id_original": "1.27",
+      "format": "800:399",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Tu as voulu attraper une braise ?",
+          "position": {
+            "x": 36,
+            "y": 3,
+            "w": 26,
+            "tx": 34,
+            "ty": 24
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "… Elle était jolie.",
+          "position": {
+            "x": 78,
+            "y": 46,
+            "w": 19,
+            "tx": 74,
+            "ty": 32
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Elles le sont toutes.",
+          "position": {
+            "x": 2,
+            "y": 74,
+            "w": 26,
+            "tx": 24,
+            "ty": 52
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_28",
+      "id_original": "1.28",
+      "format": "800:391",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "fiiiin",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_29",
+      "id_original": "1.29",
+      "format": "800:249",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_30",
+      "id_original": "1.30",
+      "format": "50:31",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_31",
+      "id_original": "1.31",
+      "format": "16:9",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Trop. Pour une braise, tu lui as donné tout le feu.",
+          "position": {
+            "x": 26,
+            "y": 3,
+            "w": 28,
+            "tx": 52,
+            "ty": 28
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Il avait mal.",
+          "position": {
+            "x": 2,
+            "y": 44,
+            "w": 20,
+            "tx": 16,
+            "ty": 40
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Ce soir, ta main paiera ce que ton cœur a donné.",
+          "position": {
+            "x": 74,
+            "y": 64,
+            "w": 24,
+            "tx": 70,
+            "ty": 56
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_32",
+      "id_original": "1.32",
+      "format": "400:209",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Pour le verger de ta tante. Il est jeune, il a peur de tout.",
+          "position": {
+            "x": 30,
+            "y": 3,
+            "w": 30,
+            "tx": 78,
+            "ty": 20
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Comme Moustache.",
+          "position": {
+            "x": 2,
+            "y": 64,
+            "w": 28,
+            "tx": 16,
+            "ty": 40
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_33",
+      "id_original": "1.33",
+      "format": "800:517",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Ne cours pas avec. Elles détestent qu’on coure.",
+          "position": {
+            "x": 40,
+            "y": 3,
+            "w": 26,
+            "tx": 66,
+            "ty": 28
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Je ne cours jamais.",
+          "position": {
+            "x": 2,
+            "y": 44,
+            "w": 22,
+            "tx": 22,
+            "ty": 30
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_34",
+      "id_original": "1.34",
+      "format": "400:127",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_35",
+      "id_original": "1.35",
+      "format": "32:13",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_36",
+      "id_original": "1.36",
+      "format": "400:231",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Non. Non non non. Assis.",
+          "position": {
+            "x": 26,
+            "y": 3,
+            "w": 26,
+            "tx": 56,
+            "ty": 22
+          }
+        }
+      ],
+      "sfx": "WOUF !",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_37",
+      "id_original": "1.37",
+      "format": "800:407",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "flop",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_38",
+      "id_original": "1.38",
+      "format": "25:27",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "BZZZZZZZZ",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_39",
+      "id_original": "1.39",
+      "format": "800:333",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_40",
+      "id_original": "1.40",
+      "format": "800:371",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "cri",
+          "texte": "REVENEZ !",
+          "position": {
+            "x": 34,
+            "y": 60,
+            "w": 30
+          }
+        }
+      ],
+      "sfx": "tap tap tap",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_41",
+      "id_original": "1.41",
+      "format": "800:369",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Pardon, Hedda !",
+          "position": {
+            "x": 2,
+            "y": 70,
+            "w": 24,
+            "tx": 24,
+            "ty": 55
+          }
+        }
+      ],
+      "sfx": "flap flap",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_42",
+      "id_original": "1.42",
+      "format": "16:9",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "KWAAK",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_43",
+      "id_original": "1.43",
+      "format": "400:193",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Les abeilles de la vieille ! Fermez tout !",
+          "position": {
+            "x": 22,
+            "y": 3,
+            "w": 32,
+            "tx": 14,
+            "ty": 18
+          }
+        }
+      ],
+      "sfx": "CLAC ! CLAC !",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_44",
+      "id_original": "1.44",
+      "format": "1:1",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "POUF",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_45",
+      "id_original": "1.45",
+      "format": "800:381",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "BZZZZ…",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_46",
+      "id_original": "1.46",
+      "format": "800:413",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "… Bon.",
+          "position": {
+            "x": 3,
+            "y": 3,
+            "w": 17,
+            "tx": 26,
+            "ty": 28
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_47",
+      "id_original": "1.47",
+      "format": "400:199",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "♪ Hmm… hmmm… ♪",
+          "position": {
+            "x": 48,
+            "y": 4,
+            "w": 30,
+            "tx": 40,
+            "ty": 30
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Pardon d’avoir couru…",
+          "position": {
+            "x": 48,
+            "y": 0,
+            "w": 30
+          },
+          "reliee_a_la_precedente": true
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Elle fait comment, déjà ?",
+          "position": {
+            "x": 48,
+            "y": 0,
+            "w": 30
+          },
+          "reliee_a_la_precedente": true
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "degrade_noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_48",
+      "id_original": "1.48",
+      "format": "400:273",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Au même instant, à deux lieues de là.",
+          "position": {
+            "x": 58,
+            "y": 4,
+            "w": 38
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_49",
+      "id_original": "1.49",
+      "format": "800:651",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "…",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_50",
+      "id_original": "1.50",
+      "format": "1:1",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "vvvvmmmm",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_51",
+      "id_original": "1.51",
+      "format": "160:81",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_52",
+      "id_original": "1.52",
+      "format": "200:87",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "sniff",
+      "transition_fond": "degrade_blanc",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_53",
+      "id_original": "1.53",
+      "format": "80:43",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Celle-là, tu ne l’as pas volée.",
+          "position": {
+            "x": 36,
+            "y": 4,
+            "w": 22,
+            "tx": 58,
+            "ty": 24
+          }
+        }
+      ],
+      "sfx": "kaï",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_54",
+      "id_original": "1.54",
+      "format": "400:203",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "degrade_noir",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_55",
+      "id_original": "1.55",
+      "format": "400:193",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Elle chauffe, ta main ?",
+          "position": {
+            "x": 56,
+            "y": 6,
+            "w": 26,
+            "tx": 86,
+            "ty": 38
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Pas du tout.",
+          "position": {
+            "x": 24,
+            "y": 40,
+            "w": 16,
+            "tx": 20,
+            "ty": 26
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_56",
+      "id_original": "1.56",
+      "format": "800:427",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Tu les as rappelées. D’ici.",
+          "position": {
+            "x": 2,
+            "y": 3,
+            "w": 26,
+            "tx": 30,
+            "ty": 24
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Moi ? Je fumais.",
+          "position": {
+            "x": 44,
+            "y": 22,
+            "w": 18,
+            "tx": 62,
+            "ty": 26
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Avec du sang sur la manche ?",
+          "position": {
+            "x": 2,
+            "y": 70,
+            "w": 26,
+            "tx": 28,
+            "ty": 48
+          }
+        }
+      ],
+      "sfx": "pffff",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_57",
+      "id_original": "1.57",
+      "format": "160:79",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Et toi, tu as couru.",
+          "position": {
+            "x": 72,
+            "y": 2,
+            "w": 26,
+            "tx": 70,
+            "ty": 30
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Écoute, la mouche. Ce que tu as vu, tu ne l’as pas vu.",
+          "position": {
+            "x": 72,
+            "y": 0,
+            "w": 26
+          },
+          "reliee_a_la_precedente": true
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "C’est comme ça qu’on vit vieille, par ici.",
+          "position": {
+            "x": 72,
+            "y": 0,
+            "w": 26
+          },
+          "reliee_a_la_precedente": true
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_58",
+      "id_original": "1.58",
+      "format": "2:3",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "… J’ai rien vu.",
+          "position": {
+            "x": 46,
+            "y": 40,
+            "w": 24,
+            "tx": 50,
+            "ty": 58
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Pas mal, la mouche.",
+          "position": {
+            "x": 6,
+            "y": 48,
+            "w": 24,
+            "tx": 28,
+            "ty": 62
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_59",
+      "id_original": "1.59",
+      "format": "800:327",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Cette nuit-là, quelque part.",
+          "position": {
+            "x": 2,
+            "y": 4,
+            "w": 30
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_60",
+      "id_original": "1.60",
+      "format": "800:573",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "La cadette d’Arnsfeld. Elle soigne. À mains nues.",
+          "position": {
+            "x": 16,
+            "y": 3,
+            "w": 30,
+            "tx": 52,
+            "ty": 24
+          }
+        },
+        {
+          "personnage": "(hors champ)",
+          "type": "dialogue",
+          "texte": "Tu en es sûr ?",
+          "position": {
+            "x": 2,
+            "y": 46,
+            "w": 22
+          }
+        },
+        {
+          "personnage": "",
+          "type": "dialogue",
+          "texte": "Le fils du charbonnier n’a plus de brûlure.",
+          "position": {
+            "x": 56,
+            "y": 56,
+            "w": 30,
+            "tx": 54,
+            "ty": 30
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_61",
+      "id_original": "1.61",
+      "format": "100:37",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "(hors champ)",
+          "type": "dialogue",
+          "texte": "Alors le sang n’est pas éteint.",
+          "position": {
+            "x": 4,
+            "y": 6,
+            "w": 32
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_62",
+      "id_original": "1.62",
+      "format": "80:89",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Le cadeau partirait avec la première neige.",
+          "position": {
+            "x": 56,
+            "y": 85,
+            "w": 40
+          }
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_63",
+      "id_original": "1.63",
+      "format": "800:309",
+      "image_prompt": "",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "pssh",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    }
+  ]
+}
