@@ -66,6 +66,19 @@ Interdiction formelle d'écrire des dialogues littéraires, théâtraux ou expli
 - **Passe 1 (Extraction) :** ce que le personnage veut dire selon le livre.
 - **Passe 2 (Charcutage) :** couper 60 % des mots. Supprimer les sujets (« Je », « Tu ») quand le contexte est évident. Oralité française réelle (« T'es », « Y a », « Fous », « Putain », « Sérieux ? »). Remplacer les explications par du sarcasme, des questions rhétoriques ou du silence (`...`).
 
+**Registre propre à La Lame-Grise (prime sur les exemples d'oralité ci-dessus) :**
+Court, sec, sous-entendu, mais **langue d'époque**. Référence : les épisodes 1 et 2 (« Range ta langue. », « Pas mal, la mouche. », « Albrecht. Entre. Et dis-le vite. », « Je ne cours jamais. »).
+- **Interdit** : argot et tics modernes (« putain », « fous », « sérieux ? », « genre », « grave », « pisser le sang », « ok ») et contractions écrites (« j'vous », « t'as », « t'étais », « y a »). Le « ne » peut tomber dans une réplique orale (« J'ai rien vu. »), sans plus.
+- **À la place de l'insulte** : la pique, l'ironie, le mot retourné contre l'autre, le surnom moqueur et tendre (Brunhild : « la mouche » ; Gisela : « la souris »).
+- **Vouvoiement** : les enfants vouvoient leur père ; on vouvoie un inconnu ; Wolfram tutoie Ottilie (il la regarde de haut), elle le vouvoie.
+- **Profils vocaux** :
+  - *Ottilie* : effrontée, réplique du tac au tac, reprend les mots des autres pour les retourner, nie l'évidence (« Pas du tout. »).
+  - *Wolfram* : le moins de mots possible, impératifs, n'explique jamais, ne donne pas son nom.
+  - *Gisela* : attaque par l'observation (« Tu as de la mousse dans les cheveux. »), ordres brefs.
+  - *Ruprecht* : impératifs en trois temps, ne justifie rien.
+  - *Matthias* : vantard, exclamations, exagère tout.
+  - *Brunhild* : proverbes, pipe, « la mouche ».
+
 **Toujours valable :**
 - **Show, don't tell :** pas de narration descriptive reprise du livre ; si l'image montre l'émotion ou l'action, le texte disparaît.
 - **15 mots maximum par bulle** (viser 2 à 6). Une réplique longue = deux bulles ou deux cases.

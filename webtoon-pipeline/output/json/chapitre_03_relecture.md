@@ -22,8 +22,8 @@
 - Prompt : `Dutch angle, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) stepping between the growling hound and the wounded man, one arm stretched out to stop the dog, basket swinging, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, motion blur on the cloak, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_05** · 4:5 · réf. `c2_jeune_ref.jpg` · espace après 200px (blanc)
-- Bulle Wolfram : « ...Dégage. »
-- Bulle Ottilie : « Vous pissez le sang, là. »
+- Bulle Wolfram : « Va-t'en. »
+- Bulle Ottilie : « Vous saignez sur ma neige. »
 - Prompt : `Medium close-up from below, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) leaning against the oak, pale and sweating, glaring up through wet black hair, translucent grey mist with faint silver glints weakly rising from his shoulders, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_06** · 1:1 · espace après 200px (blanc)
@@ -32,15 +32,15 @@
 
 **case_07** · 16:9 · réf. `c3_ref.jpg` · espace après 150px (blanc)
 - Bulle Wolfram : « Un sanglier. »
-- Bulle Ottilie : « Sérieux ? Le sanglier de Matthias ? »
+- Bulle Ottilie : « Le sanglier de Matthias ? Il existe, alors. »
 - Prompt : `Two-shot at eye level, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) crouching in the snow facing Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) against the oak, Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) lying down sulking behind her, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, soft cold light, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_08** · 1:1 · réf. `c2_jeune_ref.jpg` · espace après 250px (blanc)
-- Pensée Wolfram : « ...La cadette. Évidemment. »
+- Pensée Wolfram : « ...La cadette. »
 - Prompt : `Close-up on eyes, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak)'s pitch black eyes narrowing as he studies the young woman, a strand of black hair across his face, the corner of his mouth almost smiling, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_09** · 4:5 · réf. `c3_ref.jpg` · espace après 600px (blanc)
-- Bulle Wolfram : « Touche pas— »
+- Bulle Wolfram : « Ne me touche pas. »
 - Bulle Ottilie : « Trop tard. »
 - Prompt : `Medium shot, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) kneeling and pulling off her glove with her teeth, determined, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) raising a hand to stop her, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
@@ -72,15 +72,15 @@
 - Prompt : `Close-up on eyes, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak)'s pitch black eyes reflecting a thin golden thread glowing around the young woman, second sight, translucent grey mist with faint silver glints in his irises, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_17** · 16:9 · réf. `c2_jeune_ref.jpg` · espace après 200px (blanc)
-- Bulle Wolfram : « Qu'est-ce que t'as fait... ? »
-- Bulle Ottilie : « Vous êtes pas mort. De rien. »
+- Bulle Wolfram : « Qu'as-tu fait... ? »
+- Bulle Ottilie : « Vous respirez. Inutile de remercier. »
 - Prompt : `Two-shot, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) grabbing Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak)'s wrist, tense, faces close, her chin raised, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_18** · 1:1 · réf. `c3_ref.jpg` · espace après 150px (blanc)
 - Prompt : `Close-up of a young woman's hands wrapping a linen handkerchief embroidered with a small golden bee around a man's forearm, snow on the fabric, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_19** · 4:5 · réf. `c3_ref.jpg` · espace après 500px (blanc)
-- Bulle Ottilie : « Brodé main. Perdez-le pas. »
+- Bulle Ottilie : « Brodé par ma tante. Rendez-le-moi. »
 - Prompt : `Medium close-up, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) tying the knot with a small stubborn smile, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 ## C. Le loup
@@ -91,12 +91,12 @@
 - Prompt : `Over-the-shoulder shot from behind Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak), Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) sitting back on her heels in the snow facing him, Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) resting its head on her knee, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, pale sun through the branches, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_21** · 4:5 · réf. `c3_ref.jpg` · espace après 200px (blanc)
-- Bulle Ottilie : « Père a dit « un loup ». »
+- Bulle Ottilie : « Père a vu vos traces. « Un loup », il a dit. »
 - Bulle Wolfram : « Il a raison. »
 - Prompt : `Medium close-up, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) tilting her head, half amused, half wary, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_22** · 1:1 · réf. `c2_jeune_ref.jpg` · espace après 150px (blanc)
-- Bulle Ottilie : « Et ça ? ...La cuisine, hein ? »
+- Bulle Ottilie : « Et vos doigts ? ...La porte de la cuisine. »
 - Prompt : `Extreme close-up of a man's fingertips, burned black at the tips, a faint pattern of a stylized key and antlers seared into the skin, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_23** · 4:5 · réf. `c2_jeune_ref.jpg` · espace après 250px (blanc)
@@ -104,7 +104,7 @@
 
 **case_24** · 16:9 · réf. `c3_ref.jpg` · espace après 150px (blanc)
 - Bulle Ottilie : « Les portes de ma tante mordent. »
-- Bulle Wolfram : « J'ai juste regardé. »
+- Bulle Wolfram : « J'ai seulement regardé. »
 - Prompt : `Two-shot, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) leaning forward and speaking low, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) turning his gaze back to her, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_25** · 4:5 · réf. `c3_ref.jpg` · espace après 150px (blanc)
@@ -115,7 +115,7 @@
 - Prompt : `Silent close-up, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) looking straight at her, unreadable, snow on his eyelashes, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_27** · 9:16 · réf. `c2_jeune_ref.jpg` · espace après 150px (blanc)
-- Bulle Wolfram : « Rentre. Volets fermés. Tous les soirs. »
+- Bulle Wolfram : « Rentre. Ferme tes volets. Tous les soirs. »
 - Prompt : `Extreme low-angle shot, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) rising to his full height against the oak, cloak unfolding, translucent grey mist with faint silver glints pouring from his shoulders, the young woman small at the bottom of the frame looking up, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_28** · 4:5 · réf. `c3_ref.jpg` · espace après 150px (blanc)
@@ -123,7 +123,7 @@
 - Prompt : `Medium shot, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) getting to her feet, defiant, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_29** · 1:1 · réf. `c2_jeune_ref.jpg` · espace après 250px (blanc)
-- Bulle Wolfram : « ...Y a d'autres loups. »
+- Bulle Wolfram : « ...Il y a d'autres loups. »
 - Prompt : `Close-up, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak)'s face half swallowed by the hood's shadow, only one black eye visible, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_30** · 4:5 · réf. `c2_jeune_ref.jpg` · espace après 150px (blanc)
@@ -144,8 +144,8 @@
 - Prompt : `Wide establishing shot at dusk, pale stone noble manor with half-timbered upper floors and a low crenellated wall, green banner with a silver linden tree under snow, every window glowing warm, blue evening, smoke from the chimneys, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_34** · 16:9 · réf. `c17_ref.jpg` · espace après 150px (noir)
-- Bulle Ruprecht : « T'étais où. »
-- Bulle Ottilie : « Chez Brunhild. »
+- Bulle Ruprecht : « D'où viens-tu ? »
+- Bulle Ottilie : « De chez Brunhild. »
 - Prompt : `Medium shot, great hall of the manor, long oak table, huge stone fireplace, a faded antique tapestry of a linden tree, family dinner in warm candlelight, Baron Ruprecht (tall upright nobleman about 52, short greying blond beard, tired blue eyes, dark green doublet with burgundy trim, silver chain with a linden tree pendant) at the head of the table looking at Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak), high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_35** · 1:1 · réf. `c3_ref.jpg` · espace après 150px (noir)
@@ -155,8 +155,8 @@
 - Prompt : `Extreme close-up, Gisela (sharp lean noblewoman about 50, greying blond hair in a tight bun under a simple veil, keen blue eyes, long burgundy gown, ring of household keys at her waist)'s keen eyes sliding sideways toward the hidden hand, one eyebrow slightly raised, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_37** · 4:5 · réf. `c18_ref.jpg` · espace après 150px (noir)
-- Bulle Matthias : « Énorme, j'vous dis ! Comme ça ! »
-- Bulle Ottilie : « J'te crois. »
+- Bulle Matthias : « Énorme, je vous dis ! Un bœuf ! »
+- Bulle Ottilie : « Je te crois. »
 - Prompt : `Medium shot, Matthias (athletic young nobleman about 24, tousled blond hair, easy grin, green coat with burgundy trim) gesturing wide with a chicken leg, telling a story, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_38** · 1:1 · réf. `c18_ref.jpg` · espace après 500px (noir)
@@ -169,7 +169,7 @@
 - Prompt : `Night corridor of the manor lit by a single lantern, Gisela (sharp lean noblewoman about 50, greying blond hair in a tight bun under a simple veil, keen blue eyes, long burgundy gown, ring of household keys at her waist) catching Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak)'s wrist and unwrapping the cloth to reveal the burned palm, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_40** · 1:1 · réf. `c19_ref.jpg` · espace après 150px (noir)
-- Bulle Gisela : « Mes portes ont mordu. Cette nuit. »
+- Bulle Gisela : « Mes portes ont mordu, cette nuit. »
 - Prompt : `Close-up, Gisela (sharp lean noblewoman about 50, greying blond hair in a tight bun under a simple veil, keen blue eyes, long burgundy gown, ring of household keys at her waist)'s fingers on a carved wooden door sigil (anchor, key, antlers, open hand), the sigil glowing faintly gold at her touch, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_41** · 4:5 · réf. `c19_ref.jpg` · espace après 800px (degrade_noir)

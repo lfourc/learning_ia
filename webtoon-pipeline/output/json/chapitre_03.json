@@ -69,12 +69,12 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "...Dégage."
+          "texte": "Va-t'en."
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Vous pissez le sang, là."
+          "texte": "Vous saignez sur ma neige."
         }
       ],
       "sfx": "",
@@ -113,7 +113,7 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Sérieux ? Le sanglier de Matthias ?"
+          "texte": "Le sanglier de Matthias ? Il existe, alors."
         }
       ],
       "sfx": "",
@@ -130,7 +130,7 @@
         {
           "personnage": "Wolfram",
           "type": "pensee",
-          "texte": "...La cadette. Évidemment."
+          "texte": "...La cadette."
         }
       ],
       "sfx": "",
@@ -147,7 +147,7 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Touche pas—"
+          "texte": "Ne me touche pas."
         },
         {
           "personnage": "Ottilie",
@@ -258,12 +258,12 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Qu'est-ce que t'as fait... ?"
+          "texte": "Qu'as-tu fait... ?"
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Vous êtes pas mort. De rien."
+          "texte": "Vous respirez. Inutile de remercier."
         }
       ],
       "sfx": "",
@@ -291,7 +291,7 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Brodé main. Perdez-le pas."
+          "texte": "Brodé par ma tante. Rendez-le-moi."
         }
       ],
       "sfx": "",
@@ -330,7 +330,7 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Père a dit « un loup »."
+          "texte": "Père a vu vos traces. « Un loup », il a dit."
         },
         {
           "personnage": "Wolfram",
@@ -352,7 +352,7 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Et ça ? ...La cuisine, hein ?"
+          "texte": "Et vos doigts ? ...La porte de la cuisine."
         }
       ],
       "sfx": "",
@@ -385,7 +385,7 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "J'ai juste regardé."
+          "texte": "J'ai seulement regardé."
         }
       ],
       "sfx": "",
@@ -430,7 +430,7 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Rentre. Volets fermés. Tous les soirs."
+          "texte": "Rentre. Ferme tes volets. Tous les soirs."
         }
       ],
       "sfx": "",
@@ -464,7 +464,7 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "...Y a d'autres loups."
+          "texte": "...Il y a d'autres loups."
         }
       ],
       "sfx": "",
@@ -537,12 +537,12 @@
         {
           "personnage": "Ruprecht",
           "type": "dialogue",
-          "texte": "T'étais où."
+          "texte": "D'où viens-tu ?"
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Chez Brunhild."
+          "texte": "De chez Brunhild."
         }
       ],
       "sfx": "",
@@ -581,12 +581,12 @@
         {
           "personnage": "Matthias",
           "type": "dialogue",
-          "texte": "Énorme, j'vous dis ! Comme ça !"
+          "texte": "Énorme, je vous dis ! Un bœuf !"
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "J'te crois."
+          "texte": "Je te crois."
         }
       ],
       "sfx": "",
@@ -642,7 +642,7 @@
         {
           "personnage": "Gisela",
           "type": "dialogue",
-          "texte": "Mes portes ont mordu. Cette nuit."
+          "texte": "Mes portes ont mordu, cette nuit."
         }
       ],
       "sfx": "",

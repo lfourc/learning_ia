@@ -62,6 +62,8 @@ ANTI_ROBOT = [
     (r"\b(colère|tristesse|désespoir|rancœur|jalousie) (face|envers)\b", "émotion nommée"),
     (r"\bje vais \w+ .{0,40}\bpour\b", "explicatif (le personnage raconte son action)"),
     (r"\bje ne m'attendais pas\b|\bque viens-tu\b|\bdans ce lieu\b", "théâtral"),
+    (r"\b(putain|fous|foutre|genre|grave|pisse[rz]?|ok)\b|\bsérieux ?\?|\bj'(vous|te|vais)\b|\bt'(as|es|étais)\b|(?<!il )\by a\b",
+     "anachronisme / argot moderne (registre La Lame-Grise)"),
 ]
 
 
