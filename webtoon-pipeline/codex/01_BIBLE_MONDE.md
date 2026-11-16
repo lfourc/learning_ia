@@ -28,7 +28,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** héros. Bâtard officiel du baron, en réalité fils de Wolfram et dernier du sang ottilien.
 - **Palette :** #2B2D31 #6B6E73 #4A3A2C #E8E1D3 #B8963E (accent #B8963E)
-- **Référence :** `references/c1_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c1_ref.jpg`
 
 **18 ans, planche de référence**
 
@@ -58,7 +58,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** sorcier gris, Magister Vigilant, vrai père de Konrad. Ne peut rien dire.
 - **Palette :** #3A3D42 #8A5E42 #1C1B1A #1E1F22 #C9CED6 (accent #C9CED6)
-- **Référence :** `references/c2_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c2_ref.jpg`
 
 **52 ans, planche de référence**
 
@@ -80,7 +80,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** mère de Konrad, dernière du sang ottilien, devenue guérisseuse à Moosbach. Morte en 2502.
 - **Palette :** #5A4632 #3F4A36 #D8CDB6 #6E2233 #B8963E (accent #6E2233)
-- **Référence :** `references/c3_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c3_ref.jpg`
 
 **Mathilde, planche de référence**
 
@@ -102,7 +102,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** père officiel. Baron de campagne, chasseur, croit que Konrad est son fils et le méprise pour ça.
 - **Palette :** #3E4A2E #6B4A2E #8A5E42 #1C1B1A #4F5F35 (accent #4F5F35)
-- **Référence :** `references/c4_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c4_ref.jpg`
 
 **Planche de référence**
 
@@ -120,7 +120,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** épouse d'Ottokar. Dit « celui-là ». Ne regarde jamais Wolfram.
 - **Palette :** #1F2A44 #E6E2DA #C9B27A #5B7BA6 (accent #5B7BA6)
-- **Référence :** `references/c5_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c5_ref.jpg`
 
 **Planche de référence**
 
@@ -138,7 +138,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** héritier, brute. Frappe Konrad « à l'entraînement », le pousse dans la Stir.
 - **Palette :** #4A3A2C #3E4A2E #8E3B2A (accent #8E3B2A)
-- **Référence :** `references/c6_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c6_ref.jpg`
 
 **20 ans**
 
@@ -156,7 +156,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** fille du baron. Moqueuse, manipulatrice. Fait accuser Konrad du vol de la dague ; le coffret de nacre la brise.
 - **Palette :** #E9D9C4 #C9A86A #7A8FA6 #E3C4C8 (accent #E3C4C8)
-- **Référence :** `references/c7_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c7_ref.jpg`
 
 **16 ans**
 
@@ -170,7 +170,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** cadet légitime, un an de moins que Konrad. Suiveur, puis témoin qui avoue (« J'ai vu ce qu'il a fait »).
 - **Palette :** #6B4A2E #3E4A2E #B07A3A (accent #B07A3A)
-- **Référence :** `references/c8_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c8_ref.jpg`
 
 **17 ans**
 
@@ -188,7 +188,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** chapelain de Sigmar, précepteur. Hostile, frappe avec sa règle ; laisse pourtant la bibliothèque entrouverte.
 - **Palette :** #3B3530 #6E2A26 #A88A5C (accent #A88A5C)
-- **Référence :** `references/c9_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c9_ref.jpg`
 
 **Planche de référence**
 
@@ -202,7 +202,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** vieux maître d'armes à la jambe raide. Premier à reconnaître le talent de Konrad. « Bats-toi comme une guêpe. »
 - **Palette :** #5C5A52 #4A3A2C #9AA3AD (accent #9AA3AD)
-- **Référence :** `references/c10_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c10_ref.jpg`
 
 **Planche de référence**
 
@@ -220,7 +220,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** sorcier gris de la Main Grise, assassin d'Ottilie (2502). Tué par Wolfram. Sans nom pour l'instant.
 - **Palette :** #6B5E4E #8A8378 (accent #8A8378)
-- **Référence :** `references/c11_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c11_ref.jpg`
 
 **Planche de référence**
 
@@ -230,7 +230,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** deuxième héros (personnage de l'autre joueur). Nain, ranger, chasseur de primes.
 - **Palette :** #5A4433 #6E6A62 #8C4A2A #3A3A3A #2FA36B (accent #2FA36B)
-- **Référence :** `references/c12_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c12_ref.jpg`
 
 **planche de référence**
 
@@ -244,7 +244,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** vieille apicultrice à la lisière de la forêt d'Arnsfeld. Sauve Ottilie sans le savoir (chapitre 1).
 - **Palette :** #C9A24A #6B5A3E #3F4A36 #E0B341 (accent #E0B341)
-- **Référence :** `references/c13_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c13_ref.jpg`
 
 **planche de référence**
 
@@ -254,7 +254,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** tient le registre où Ottokar barre « père non déclaré ». Au chevet de Mathilde, l'enterre.
 - **Palette :** #1E1E22 #5C5A60 #8A7CA8 (accent #8A7CA8)
-- **Référence :** `references/c14_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c14_ref.jpg`
 
 **planche de référence**
 
@@ -264,7 +264,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** premier soutien de Mathilde à Moosbach ; témoin de la naissance de Konrad et de la mort de sa mère.
 - **Palette :** #5D6E86 #EDE6D6 #B5553C (accent #B5553C)
-- **Référence :** `references/c15_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c15_ref.jpg`
 
 **planche de référence**
 
@@ -274,7 +274,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** sorcier de village corrompu par le Dhar (chapitre 6). Première vision du mal pour Konrad.
 - **Palette :** #1A1C17 #3B4031 #2A1F33 (accent #2A1F33)
-- **Référence :** `references/c16_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c16_ref.jpg`
 
 **silhouette**
 
@@ -284,7 +284,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Épisode webtoon 1. Père d'Ottilie, veuf, 52 ans. Jette au feu les lettres des douze familles ; lui donne la bague.
 - **Palette :** #2F3B2A #6E2233 #C9B27A #C9CED6 (accent #C9CED6)
-- **Référence :** `references/c17_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c17_ref.jpg`
 
 **52 ans, planche de référence**
 
@@ -294,7 +294,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Épisode webtoon 1. Frère aîné d'Ottilie, l'héritier, 24 ans. Bon cavalier, mauvais diplomate.
 - **Palette :** #3F4A36 #6E2233 #4A3A2C #C9B27A (accent #6E2233)
-- **Référence :** `references/c18_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c18_ref.jpg`
 
 **24 ans, planche de référence**
 
@@ -304,7 +304,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Épisode webtoon 1. Sœur du baron, veuve, 48 ans. Tient la maison, les comptes et tout le monde.
 - **Palette :** #5A1F28 #A89A80 #4A3A2C #A88A5C (accent #A88A5C)
-- **Référence :** `references/c19_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c19_ref.jpg`
 
 **48 ans, planche de référence**
 
@@ -314,7 +314,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Épisode webtoon 1. Cousine, fille de Gisela, 24 ans. Couronne de tresses, la plus coquette de la maison.
 - **Palette :** #B07A2A #D9B45A #7A2A2A #C9A86A (accent #B07A2A)
-- **Référence :** `references/c20_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c20_ref.jpg`
 
 **24 ans, planche de référence**
 
@@ -324,7 +324,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Épisode webtoon 1. Cousin, fils de Gisela, 26 ans. Nage partout, cheveux toujours mouillés.
 - **Palette :** #6B4A2E #E3DCCF #4A3A2C #8FA6B5 (accent #8FA6B5)
-- **Référence :** `references/c21_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c21_ref.jpg`
 
 **26 ans, planche de référence**
 
@@ -334,7 +334,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Épisode webtoon 1. Nourrice des Arnsfeld depuis quarante ans, 64 ans. A élevé Ottilie, qui prendra son nom.
 - **Palette :** #5A2A30 #4A4236 #D8CDB6 #E8E1D3 (accent #E8E1D3)
-- **Référence :** `references/c22_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c22_ref.jpg`
 
 **64 ans, planche de référence**
 
@@ -344,7 +344,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Épisode webtoon 1. Comte d'Eldenheim, chef des restaurationnistes, environ 55 ans. Toujours poli.
 - **Palette :** #1F2A44 #2E2F33 #C9CED6 #9AA0A6 (accent #9AA0A6)
-- **Référence :** `references/c23_ref.png` (à exporter depuis l'artifact Planches)
+- **Référence :** `references/c23_ref.jpg`
 
 **55 ans, planche de référence**
 
@@ -356,7 +356,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Région : Talabecland. Chapitre : 1. Scènes : Ottilie qui rentre de chez Brunhild ; la fumée qu'elle sent avant de voir.
 - **Palette :** #1F3326 #5B6E3A #C9A24A #E07A2E
-- **Référence :** `references/L1_ref.png`
+- **Référence :** `references/L1_ref.jpg`
 
 **la lisière au crépuscule**
 
@@ -366,7 +366,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Région : Talabecland. Chapitre : 1. Scènes : l'incendie vu depuis la colline ; les deux silhouettes immobiles à la lisière du parc.
 - **Palette :** #0F1626 #2A3B2C #F2762E #FFD08A
-- **Référence :** `references/L2_ref.png`
+- **Référence :** `references/L2_ref.jpg`
 
 **l'incendie**
 
@@ -376,7 +376,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Région : route du sud, Talabecland. Chapitre : 1. Scène : Wolfram baisse la lame.
 - **Palette :** #1D2430 #5A626E #AFC3D6
-- **Référence :** `references/L3_ref.png`
+- **Référence :** `references/L3_ref.jpg`
 
 **sous la pluie**
 
@@ -386,7 +386,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Région : frontière Talabecland / Stirland. Chapitre : 1. Scène : la traversée en janvier.
 - **Palette :** #7D8A92 #D9DCD8 #3A3F35 #8C6A44
-- **Référence :** `references/L4_ref.png`
+- **Référence :** `references/L4_ref.jpg`
 
 **la traversée**
 
@@ -396,7 +396,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Région : Stirland, domaine d'Eichenwald. Chapitres : 2 à 7. Scènes : la place du marché, la taverne, la fontaine, le cimetière de Morr sous la neige, le moulin.
 - **Palette :** #4B4237 #6E6658 #3E4A2E #C98B3A
-- **Référence :** `references/L5_ref.png`
+- **Référence :** `references/L5_ref.jpg`
 
 **jour de marché**
 
@@ -410,7 +410,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Région : Moosbach. Chapitres : 2 à 4, puis 6 (vide). Scènes : la jambe d'Ottokar recousue sur la table ; Wolfram dans l'angle à l'aube ; les lettres brûlées dans la cheminée ; Mathilde sur le seuil.
 - **Palette :** #5A4632 #6E7A4A #E8C27A #F08A3A
-- **Référence :** `references/L6_ref.png`
+- **Référence :** `references/L6_ref.jpg`
 
 **intérieur, le soir**
 
@@ -424,7 +424,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Région : Stirland. Chapitres : 2 à 7. Scène : vue d'ensemble, retour au domaine.
 - **Palette :** #5E5F5C #4A3A2C #3E4A2E #4F5F35
-- **Référence :** `references/L7_ref.png`
+- **Référence :** `references/L7_ref.jpg`
 
 **vue d'ensemble**
 
@@ -434,7 +434,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitres : 3, 5, 6. Scènes : Lothar frappe, Rüdiger regarde ailleurs ; Wolfram contre le pilier, dans l'ombre de l'auvent ; Konrad désarme Lothar, Ottokar sur la galerie ; les entraînements à l'aube à la lanterne.
 - **Palette :** #6B6A64 #4A3A2C #E3B15A
-- **Référence :** `references/L8_ref.png`
+- **Référence :** `references/L8_ref.jpg`
 
 **sous la pluie**
 
@@ -448,7 +448,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitres : 3, 5. Scènes : le bout de la table ; la famille réunie pour juger le vol de la dague ; l'émissaire de Wurtbad.
 - **Palette :** #2C2420 #6B4A2E #8E3B2A #E8B060
-- **Référence :** `references/L9_ref.png`
+- **Référence :** `references/L9_ref.jpg`
 
 **le bout de la table**
 
@@ -458,7 +458,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitres : 5 à 7. Scènes : la bague dans la paume ; Ottokar ivre sur le seuil ; Wolfram assis sur le coffre ; la brume à la lucarne ; le sac préparé.
 - **Palette :** #3B3128 #B59A5E #C9CED6
-- **Référence :** `references/L10_ref.png`
+- **Référence :** `references/L10_ref.jpg`
 
 **le réduit**
 
@@ -468,7 +468,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitres : 3, 5, 6. Scènes : la règle sur les doigts ; la porte de la bibliothèque laissée entrouverte ; les armoriaux où Konrad cherche les armes de la bague.
 - **Palette :** #4A4440 #6E2A26 #E8C27A
-- **Référence :** `references/L11_ref.png`
+- **Référence :** `references/L11_ref.jpg`
 
 **la bibliothèque la nuit**
 
@@ -478,7 +478,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitre : 5. Scène : Lothar pousse Konrad dans la rivière ; la brume grise monte en plein jour au-dessus de lui seul.
 - **Palette :** #6B5A3E #9DB0A2 #B9BEC4
-- **Référence :** `references/L12_ref.png`
+- **Référence :** `references/L12_ref.jpg`
 
 **la brume en plein jour**
 
@@ -488,7 +488,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitre : 6. Scènes : la nuit de silence ; Wolfram qui montre les vents ; les lettres de Magick dans la cendre.
 - **Palette :** #1C2A22 #4E5E3A #9BBF7A #C9B060
-- **Référence :** `references/L13_ref.png`
+- **Référence :** `references/L13_ref.jpg`
 
 **la Seconde vue**
 
@@ -498,7 +498,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitre : 6. Scène : le village vide ; la chapelle profanée ; le courant noir vers la cabane de roseaux.
 - **Palette :** #2B2E26 #5C6250 #8A8F86 #2A1F33
-- **Référence :** `references/L14_ref.png`
+- **Référence :** `references/L14_ref.jpg`
 
 **le hameau vide**
 
@@ -508,7 +508,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitre : 4. Scène : Wolfram face au copiste ; le feu qui baisse, la salle envahie de brume grise.
 - **Palette :** #2E2620 #D99A4E #9EA4AA
-- **Référence :** `references/L15_ref.png`
+- **Référence :** `references/L15_ref.jpg`
 
 **la brume dans l'auberge**
 
@@ -518,7 +518,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitre : 7. Scènes : les péniches sur le Reik ; les tours de temple ; Konrad qui voudrait s'arrêter partout.
 - **Palette :** #6E8C5A #7C93A6 #C8B48A #D9A441
-- **Référence :** `references/L16_ref.png`
+- **Référence :** `references/L16_ref.jpg`
 
 **le Reik**
 
@@ -528,7 +528,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitre : 7 (et chapitre 1 de la campagne). Scènes : le feu au pied des montagnes ; la chapelle noire au sommet ; « Ce chemin-là, un jour, tu le reprendras dans l'autre sens. Seul. »
 - **Palette :** #3C4049 #8E99A8 #1A1B1E #E6EAF0
-- **Référence :** `references/L17_ref.png`
+- **Référence :** `references/L17_ref.jpg`
 
 **la chapelle du col**
 
@@ -538,7 +538,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Région : Bretonnie. Chapitre : 7. Scènes : la ville perchée ; les pégases autour des tours du duc ; Konrad à la porte de la ville face aux montagnes.
 - **Palette :** #C9B994 #6C7F95 #F2F0EA #E2B755
-- **Référence :** `references/L18_ref.png`
+- **Référence :** `references/L18_ref.jpg`
 
 **la ville perchée**
 
@@ -548,7 +548,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 - **Rôle :** Chapitre : 7. Scène : le réveil ; la chambre vide ; la boîte de métal et la lettre cachetée de cire grise.
 - **Palette :** #8C7B66 #B9C2CC #9AA0A6
-- **Référence :** `references/L19_ref.png`
+- **Référence :** `references/L19_ref.jpg`
 
 **la chambre vide**
 
