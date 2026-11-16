@@ -2,13 +2,13 @@
 
 Nov 14, 2026 · @Lyes Fourcroy
 
-La vie de Konrad von Eichenwald, de l'incendie du manoir Arnsfeld à son départ de Parravon. Premier jet, à relire et à itérer. La suite commence avec la campagne : Le Col de la Dame Grise.
+La vie de Konrad von Eichenwald, de l'incendie du manoir Arnsfeld à son départ de Hautepierre. Premier jet, à relire et à itérer. La suite commence avec la campagne : Le Col de la Dame Voilée.
 
 ## Chapitre 1 — Le chasseur et la survivante
 
 ### I. L'incendie
 
-*Talabecland, automne 2491.*
+*Eldwald, automne 791.*
 
 La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée.
 
@@ -34,11 +34,11 @@ Ottilie recula dans le noir, un pas après l'autre, jusqu'à ce que la forêt la
 
 On parla d'un accident. Une bougie, une tenture, un hiver trop sec.
 
-Puis, au printemps, on parla de malchance. Son cousin Lorenz se noya dans la Talabec en traversant à gué, un homme qui nageait comme une loutre. Sa cousine Ottilie l'aînée, celle dont elle portait le prénom, mourut d'une fièvre qui ne toucha personne d'autre au village. Un oncle éloigné fut tué en duel à Talabheim, par un inconnu qui disparut le lendemain.
+Puis, au printemps, on parla de malchance. Son cousin Lorenz se noya dans l'Elda en traversant à gué, un homme qui nageait comme une loutre. Sa cousine Ottilie l'aînée, celle dont elle portait le prénom, mourut d'une fièvre qui ne toucha personne d'autre au village. Un oncle éloigné fut tué en duel à Eldenheim, par un inconnu qui disparut le lendemain.
 
-À la fin de l'été 2492, la maison von Arnsfeld ne comptait plus qu'une vivante. Et personne ne savait où elle était.
+À la fin de l'été 792, la maison von Arnsfeld ne comptait plus qu'une vivante. Et personne ne savait où elle était.
 
-Ottilie avait compris dès la première nuit. Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer. Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.
+Ottilie avait compris dès la première nuit. Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer. Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves d'Eldwald libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.
 
 Alors elle avait fait ce qu'il lui avait appris, sans savoir qu'il le lui apprenait : disparaître. Elle avait vendu ses bagues, sauf une. Elle avait coupé ses cheveux, changé de nom à chaque village, soigné des fièvres contre un toit, et marché vers le sud, toujours vers le sud.
 
@@ -48,9 +48,9 @@ Elle ne savait pas qu'on la suivait.
 
 Wolfram von Eichenwald n'aimait pas cette mission, et c'était une raison suffisante pour qu'on la lui confie.
 
-L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre du Collège, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Talabheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.
+L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.
 
-Il la suivit tout l'été. Ulgu rendait les choses simples, c'était là son vice : les gens laissent des traces dans les ombres comme dans la boue. Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen. Une jeune femme aux cheveux courts qui avait payé un passeur avec une broche. Une silhouette, un soir, au bord d'un champ, qui s'était retournée comme si elle le sentait.
+Il la suivit tout l'été. Le Courant Gris rendait les choses simples, c'était là son vice : les gens laissent des traces dans les ombres comme dans la boue. Une guérisseuse sans nom qui avait soigné un enfant à Hollenhof. Une jeune femme aux cheveux courts qui avait payé un passeur avec une broche. Une silhouette, un soir, au bord d'un champ, qui s'était retournée comme si elle le sentait.
 
 Elle le sentait. C'est ce qui l'intrigua d'abord. Elle n'avait aucun don, il en aurait juré, mais elle avait appris à vivre en proie, et les proies ont leur propre magie.
 
@@ -62,7 +62,7 @@ Il ne le fit pas. Il se dit que c'était de la prudence. Il se dit qu'il voulait
 
 Ce fut un soir de novembre, sur la route du sud, quand la pluie tombait si fort qu'on n'entendait plus ses propres pas.
 
-Elle s'était réfugiée dans une chapelle de Morr abandonnée, au bord d'un bois. Il entra sans ouvrir la porte. Il fut simplement là, entre elle et l'autel, une lame à la main, gris dans le gris.
+Elle s'était réfugiée dans une chapelle de la Gardienne abandonnée, au bord d'un bois. Il entra sans ouvrir la porte. Il fut simplement là, entre elle et l'autel, une lame à la main, gris dans le gris.
 
 Elle ne cria pas. Elle se leva lentement, et il vit qu'elle tenait un couteau à écorcer les racines, minuscule, tenu à l'envers, comme quelqu'un qui n'a jamais appris.
 
@@ -84,21 +84,21 @@ Elle le fixa longtemps. Puis elle comprit, et quelque chose dans son visage chan
 
 — Alors qu'est-ce que vous allez faire ?
 
-Wolfram regarda la pluie par la porte ouverte. Il pensa au Collège, à la pièce sans fenêtre, au mouchoir brodé. Il pensa au serment qu'il avait prêté, et qu'il était en train de rompre sans même avoir pris la décision.
+Wolfram regarda la pluie par la porte ouverte. Il pensa à l'Ordre, à la pièce sans fenêtre, au mouchoir brodé. Il pensa au serment qu'il avait prêté, et qu'il était en train de rompre sans même avoir pris la décision.
 
 — Je vais vous emmener là où personne ne cherchera une Ottilienne, dit-il. Chez ceux qui vous détestent le plus.
 
 ### V. Moosbach
 
-Ils traversèrent la Stir en janvier, sur un bac de passeur qu'il paya trop cher pour qu'on se souvienne de lui.
+Ils traversèrent la Nebel en janvier, sur un bac de passeur qu'il paya trop cher pour qu'on se souvienne de lui.
 
-Le Stirland était pauvre, humide et méfiant. Des collines basses, des forêts noires, des villages serrés autour de leur chapelle, des volets fermés avant la nuit parce qu'à l'est, de l'autre côté des collines, commençait la Sylvanie. Personne ici n'aimait le Talabecland. Personne ici ne poserait de questions à une étrangère qui saurait soigner.
+La Nebelmark était pauvre, humide et méfiante. Des collines basses, des forêts noires, des villages serrés autour de leur chapelle, des volets fermés avant la nuit parce qu'à l'est, de l'autre côté des collines, commençait l'Aschenland. Personne ici n'aimait l'Eldwald. Personne ici ne poserait de questions à une étrangère qui saurait soigner.
 
-Il la conduisit à Eichenwald, sur les terres de son frère : une poignée de hameaux, une forêt de chênes, un moulin sur un affluent de la Stir, et une maison forte où l'on ne prononçait pas son nom à table. Les von Eichenwald étaient des barons de campagne. Leur nom pesait à Moosbach et ne signifiait rien à Wurtbad.
+Il la conduisit à Eichenwald, sur les terres de son frère : une poignée de hameaux, une forêt de chênes, un moulin sur un affluent de la Nebel, et une maison forte où l'on ne prononçait pas son nom à table. Les von Eichenwald étaient des barons de campagne. Leur nom pesait à Moosbach et ne signifiait rien à Wendelstadt.
 
 C'était exactement ce qu'il fallait.
 
-Il lui trouva une maison au bord de la forêt, abandonnée depuis la mort d'une vieille femme. Il paya le notaire de Moosbach avec l'argent de l'Ordre. Il rédigea son rapport : *piste perdue au sud de Kreutzhofen, cible probablement morte de froid ou passée en Averland.* Il le signa d'une main qui ne tremblait pas.
+Il lui trouva une maison au bord de la forêt, abandonnée depuis la mort d'une vieille femme. Il paya le notaire de Moosbach avec l'argent de l'Ordre. Il rédigea son rapport : *piste perdue au sud de Hollenhof, cible probablement morte de froid ou passée en Westerau.* Il le signa d'une main qui ne tremblait pas.
 
 Le dernier soir, avant de repartir, il s'arrêta sur le seuil.
 
@@ -110,7 +110,7 @@ Elle réfléchit un moment. Dehors, il neigeait sur les chênes.
 
 Il hocha la tête et disparut dans le gris.
 
-Au printemps 2493, les gens de Moosbach virent une femme ouvrir les volets de la vieille maison au bord de la forêt. Elle soignait les fièvres, recousait les plaies, savait lire, écrire et compter. On la payait en œufs, en bois, parfois en silence.
+Au printemps 793, les gens de Moosbach virent une femme ouvrir les volets de la vieille maison au bord de la forêt. Elle soignait les fièvres, recousait les plaies, savait lire, écrire et compter. On la payait en œufs, en bois, parfois en silence.
 
 Elle portait au doigt une bague sans éclat, qu'elle ne quittait jamais.
 
@@ -120,7 +120,7 @@ Elle portait au doigt une bague sans éclat, qu'elle ne quittait jamais.
 
 Moosbach mit un mois à lui parler, et trois à lui faire confiance.
 
-Au début, on la regarda passer comme on regarde un chien inconnu : sans hostilité, mais sans tendre la main. Une femme seule, jeune, qui venait d'ailleurs et ne disait pas d'où. Les commères de la fontaine lui inventèrent trois passés en une semaine : une veuve d'Averland, une fille de marchand déshonorée, une sorcière. La troisième version plaisait moins que les autres, et on l'oublia vite, parce que Mathilde allait à la chapelle de Morr comme tout le monde et baissait la tête au bon moment.
+Au début, on la regarda passer comme on regarde un chien inconnu : sans hostilité, mais sans tendre la main. Une femme seule, jeune, qui venait d'ailleurs et ne disait pas d'où. Les commères de la fontaine lui inventèrent trois passés en une semaine : une veuve de Westerau, une fille de marchand déshonorée, une sorcière. La troisième version plaisait moins que les autres, et on l'oublia vite, parce que Mathilde allait à la chapelle de la Gardienne comme tout le monde et baissait la tête au bon moment.
 
 Puis le fils du meunier se fendit la jambe sur une meule, et elle recousit la plaie sur la table de la cuisine pendant que la mère hurlait. L'enfant garda sa jambe. Le meunier apporta deux sacs de farine et ne dit rien, ce qui, à Moosbach, valait un discours.
 
@@ -134,7 +134,7 @@ Wolfram venait sans prévenir, et elle finit par le sentir arriver.
 
 Ce n'était rien de précis. Une ombre dans l'angle de la pièce qui se faisait un peu plus épaisse. Un silence dans la forêt, comme si les oiseaux retenaient leur souffle. Elle levait les yeux de son mortier, et il était là, appuyé contre le chambranle, sa cape grise encore humide de pluie.
 
-La première fois, il resta une heure et parla de prudence : ne jamais écrire son vrai nom, ne jamais parler du Talabecland, garder une sacoche prête sous le lit. La deuxième fois, il resta une nuit, sur le banc près du feu, parce que l'orage empêchait de repartir. La troisième fois, il n'invoqua pas d'orage.
+La première fois, il resta une heure et parla de prudence : ne jamais écrire son vrai nom, ne jamais parler de l'Eldwald, garder une sacoche prête sous le lit. La deuxième fois, il resta une nuit, sur le banc près du feu, parce que l'orage empêchait de repartir. La troisième fois, il n'invoqua pas d'orage.
 
 Ils ne parlaient pas beaucoup. Il n'était pas homme à parler, et elle avait appris à se taire. Mais il lui racontait parfois les endroits où ses missions l'envoyaient : des cités où les tours touchaient les nuages, des marais où les morts ne restaient pas couchés, des cours de princes où l'on mentait mieux que lui. Elle lui apprenait le nom des plantes. Il faisait semblant de les retenir.
 
@@ -152,11 +152,11 @@ Elle posa la main sur la sienne. Il ne la retira pas.
 
 ### III. Le sanglier
 
-À la fin de l'été 2493, Ottilie sut qu'elle était enceinte.
+À la fin de l'été 793, Ottilie sut qu'elle était enceinte.
 
 Elle le sut avant les signes, comme le savent les femmes qui ont soigné d'autres femmes. Elle resta assise une nuit entière sans allumer le feu, et elle fit ses comptes, froidement, comme son père le lui avait appris pour les récoltes.
 
-Un sorcier gris ne pouvait pas avoir d'enfant. Pas un enfant qu'on puisse lui rattacher. L'Ordre surveillait les siens, et si quelqu'un, un jour, se demandait pourquoi Wolfram von Eichenwald revenait si souvent dans le trou le plus humide du Stirland, il trouverait une femme et un enfant, et il tirerait le fil. Au bout du fil, il y avait le Talabecland, l'incendie, et un rapport signé d'une main qui ne tremblait pas.
+Un sorcier gris ne pouvait pas avoir d'enfant. Pas un enfant qu'on puisse lui rattacher. L'Ordre surveillait les siens, et si quelqu'un, un jour, se demandait pourquoi Wolfram von Eichenwald revenait si souvent dans le trou le plus humide de la Nebelmark, il trouverait une femme et un enfant, et il tirerait le fil. Au bout du fil, il y avait l'Eldwald, l'incendie, et un rapport signé d'une main qui ne tremblait pas.
 
 Il fallait un autre père.
 
@@ -200,7 +200,7 @@ Il partit avant l'aube, et ne revint pas de tout l'automne.
 
 ### V. Konrad
 
-L'enfant naquit au printemps 2494, par une nuit de pluie, avec la sage-femme de Moosbach et la femme du meunier pour seules témoins.
+L'enfant naquit au printemps 794, par une nuit de pluie, avec la sage-femme de Moosbach et la femme du meunier pour seules témoins.
 
 C'était un garçon maigre et silencieux, qui ne cria qu'une fois, puis ouvrit des yeux sombres et regarda la pièce comme s'il cherchait quelqu'un dans les coins.
 
@@ -230,7 +230,7 @@ Quand le jour se leva, le coin de la pièce était vide, et l'enfant dormait, un
 
 Konrad avait deux ans quand le baron décida de lui donner son nom.
 
-Ce ne fut pas une cérémonie. Un matin d'hiver, Ottokar entra dans la chapelle de Morr de Moosbach, où le vieux prêtre tenait le registre des naissances et des morts. Il demanda le livre, trouva la ligne où l'on avait écrit, deux ans plus tôt, *Konrad, fils de Mathilde, guérisseuse, père non déclaré*, et barra les trois derniers mots de sa propre main. Au-dessus, il écrivit : *von Eichenwald.*
+Ce ne fut pas une cérémonie. Un matin d'hiver, Ottokar entra dans la chapelle de la Gardienne de Moosbach, où le vieux prêtre tenait le registre des naissances et des morts. Il demanda le livre, trouva la ligne où l'on avait écrit, deux ans plus tôt, *Konrad, fils de Mathilde, guérisseuse, père non déclaré*, et barra les trois derniers mots de sa propre main. Au-dessus, il écrivit : *von Eichenwald.*
 
 Puis il rendit la plume et sortit sans un regard pour personne.
 
@@ -244,7 +244,7 @@ Ce fut la seule fois qu'elle le prononça devant lui.
 
 Elle lui apprit tout ce qu'elle savait, et ce qu'elle savait était beaucoup trop pour une guérisseuse.
 
-À quatre ans, il connaissait ses lettres. À cinq, il lisait les étiquettes de ses pots et les prières de Morr. Elle lui apprit les plantes qui guérissent et celles qui tuent, et pourquoi c'étaient souvent les mêmes. Elle lui apprit à compter les étoiles et à s'orienter avec elles, à écouter la forêt, à reconnaître le pas d'un homme qui ment.
+À quatre ans, il connaissait ses lettres. À cinq, il lisait les étiquettes de ses pots et les prières de la Gardienne. Elle lui apprit les plantes qui guérissent et celles qui tuent, et pourquoi c'étaient souvent les mêmes. Elle lui apprit à compter les étoiles et à s'orienter avec elles, à écouter la forêt, à reconnaître le pas d'un homme qui ment.
 
 Et elle lui apprit une règle, qu'elle lui fit répéter jusqu'à ce qu'il la dise sans y penser :
 
@@ -272,13 +272,13 @@ Personne ne sut si c'était l'idée de Mathilde ou la sienne. Elle avait dit, un
 
 Konrad y découvrit un monde où chaque geste avait une règle, et où il les ignorait toutes.
 
-Il y avait le père Anselm, le chapelain de Sigmar, qui enseignait l'histoire de l'Empire, la théologie, le Reikspiel correct et un peu de classique. Il y avait Rüdiger, le vieux maître d'armes à la jambe raide, qui enseignait l'épée dans la cour, sous la pluie de préférence. Il y avait l'écuyer, pour les chevaux. Et il y avait la table du soir, où l'on apprenait à se tenir, à saluer, à couper la viande sans la déchirer, à parler aux supérieurs et à ne pas parler aux inférieurs.
+Il y avait le père Anselm, le chapelain d'Haldor, qui enseignait l'histoire de l'Empire, la théologie, le kronlandais correct et un peu de classique. Il y avait Rüdiger, le vieux maître d'armes à la jambe raide, qui enseignait l'épée dans la cour, sous la pluie de préférence. Il y avait l'écuyer, pour les chevaux. Et il y avait la table du soir, où l'on apprenait à se tenir, à saluer, à couper la viande sans la déchirer, à parler aux supérieurs et à ne pas parler aux inférieurs.
 
 On le fit asseoir au bout de la table, plus bas que Dietrich, qui avait un an de moins que lui mais qui était légitime. Il comprit le message sans qu'on ait besoin de le dire.
 
 Lothar, l'héritier, avait quatorze ans et la carrure de son père. Il ne frappait jamais Konrad devant les adultes : il le faisait dans la cour d'armes, avec une épée de bois, au nom de l'entraînement, et Rüdiger regardait ailleurs. Adelheid, dix ans, ne le frappait pas. Elle riait. Elle riait de ses vêtements de laine, de ses mains abîmées par les plantes de sa mère, de sa façon de tenir un couteau. Son rire était pire que les coups de Lothar, parce qu'il ne laissait pas de marques qu'on pouvait montrer. Dietrich suivait les deux, comme font les petits, et répétait ce qu'il entendait.
 
-Le père Anselm l'aimait encore moins que les autres, pour une raison plus simple : Konrad savait. Quand le chapelain demandait qui avait fondé Talabheim ou combien de comtes élisaient l'Empereur, c'était le bâtard qui levait la main, pas l'héritier. La première fois, Anselm le félicita. La deuxième, il le regarda longtemps. La troisième, il le frappa sur les doigts avec sa règle pour avoir « parlé sans y être invité ».
+Le père Anselm l'aimait encore moins que les autres, pour une raison plus simple : Konrad savait. Quand le chapelain demandait qui avait fondé Eldenheim ou combien de princes élisaient l'Empereur, c'était le bâtard qui levait la main, pas l'héritier. La première fois, Anselm le félicita. La deuxième, il le regarda longtemps. La troisième, il le frappa sur les doigts avec sa règle pour avoir « parlé sans y être invité ».
 
 Konrad rentra ce soir-là les doigts gonflés. Mathilde les soigna sans poser de questions. Puis elle lui dit :
 
@@ -286,15 +286,15 @@ Konrad rentra ce soir-là les doigts gonflés. Mathilde les soigna sans poser de
 
 Il hocha la tête.
 
-Le lendemain, quand Anselm demanda combien de comtes élisaient l'Empereur, Konrad ne leva pas la main. Il laissa Lothar se tromper. Il regarda le chapelain le corriger. Et il apprit, ce jour-là, qu'on pouvait savoir sans le montrer, et que c'était une forme de pouvoir.
+Le lendemain, quand Anselm demanda combien de princes élisaient l'Empereur, Konrad ne leva pas la main. Il laissa Lothar se tromper. Il regarda le chapelain le corriger. Et il apprit, ce jour-là, qu'on pouvait savoir sans le montrer, et que c'était une forme de pouvoir.
 
 ### IV. Le masque
 
 Il apprit tout, et il apprit surtout à leur ressembler.
 
-À huit ans, Konrad saluait mieux que Dietrich, coupait sa viande mieux qu'Adelheid, et parlait un Reikspiel plus propre que Lothar, qui avait gardé l'accent épais des chasseurs du Stirland. Il ne le faisait pas pour leur plaire. Il le faisait parce qu'il avait compris que les manières étaient une armure : on ne pouvait pas rire d'un geste parfait. On ne pouvait que le haïr en silence.
+À huit ans, Konrad saluait mieux que Dietrich, coupait sa viande mieux qu'Adelheid, et parlait un kronlandais plus propre que Lothar, qui avait gardé l'accent épais des chasseurs de la Nebelmark. Il ne le faisait pas pour leur plaire. Il le faisait parce qu'il avait compris que les manières étaient une armure : on ne pouvait pas rire d'un geste parfait. On ne pouvait que le haïr en silence.
 
-Ottokar le remarqua. Il ne dit rien. Mais un soir, à table, quand Konrad salua un émissaire de Wurtbad avec la juste inclinaison de tête, le baron eut un regard qui ressemblait à de la fierté, et qui se changea presque aussitôt en autre chose, de plus sombre, quand il croisa les yeux de sa femme.
+Ottokar le remarqua. Il ne dit rien. Mais un soir, à table, quand Konrad salua un émissaire de Wendelstadt avec la juste inclinaison de tête, le baron eut un regard qui ressemblait à de la fierté, et qui se changea presque aussitôt en autre chose, de plus sombre, quand il croisa les yeux de sa femme.
 
 Ce regard-là, Konrad le connaissait. C'était celui d'un homme qui voit en vous la preuve d'une faute. Il ne l'oublia jamais.
 
@@ -326,19 +326,19 @@ Le soir, en partant, Wolfram s'arrêta devant la maison du bord de la forêt. Il
 
 — Pas encore. Il est trop petit.
 
-C'était l'automne 2501. L'hiver suivant, l'Empereur mourrait, et tout l'Empire se mettrait à parler d'élection.
+C'était l'automne 801. L'hiver suivant, l'Empereur mourrait, et tout l'Empire se mettrait à parler d'élection.
 
 ## Chapitre 4 — L'hiver des lettres brûlées
 
 ### I. La nouvelle
 
-La nouvelle arriva à Moosbach avec un marchand de sel, au début de l'hiver 2502, et elle mit trois jours à faire le tour du village : l'Empereur était mort.
+La nouvelle arriva à Moosbach avec un marchand de sel, au début de l'hiver 802, et elle mit trois jours à faire le tour du village : l'Empereur était mort.
 
-Personne à Moosbach n'avait jamais vu l'Empereur. Personne ne savait vraiment à quoi il servait, sinon à lever des impôts et à donner son nom aux pièces. Mais on en parla quand même, à la taverne, à la fontaine, à la sortie de la chapelle. On parla des comtes électeurs, qui allaient se réunir. On parla du fils, qui n'était pas sûr d'être élu. On parla du Middenland, du Talabecland, de vieilles guerres dont personne ne se souvenait mais dont tout le monde avait un avis.
+Personne à Moosbach n'avait jamais vu l'Empereur. Personne ne savait vraiment à quoi il servait, sinon à lever des impôts et à donner son nom aux pièces. Mais on en parla quand même, à la taverne, à la fontaine, à la sortie de la chapelle. On parla des princes électeurs, qui allaient se réunir. On parla du fils, qui n'était pas sûr d'être élu. On parla de la Nordmark, de l'Eldwald, de vieilles guerres dont personne ne se souvenait mais dont tout le monde avait un avis.
 
 Konrad écoutait. Il avait huit ans, et il aimait les histoires d'Empire que le père Anselm racontait mal et que sa mère racontait bien.
 
-Mais ce soir-là, quand il répéta à table ce qu'il avait entendu, que le Talabecland voterait peut-être contre le fils, sa mère posa sa cuillère et ne la reprit pas.
+Mais ce soir-là, quand il répéta à table ce qu'il avait entendu, que l'Eldwald voterait peut-être contre le fils, sa mère posa sa cuillère et ne la reprit pas.
 
 — Qui a dit ça ?
 
@@ -352,7 +352,7 @@ Elle ne mangea plus. Plus tard, quand il fut couché, il l'entendit marcher long
 
 L'homme arriva dix jours après le marchand de sel.
 
-Il n'avait rien de remarquable, et c'était ce qu'il y avait de plus remarquable chez lui. Un visage qu'on oubliait en le regardant. Un manteau brun, ni neuf ni usé. Il se présenta à la taverne comme un copiste qui allait à Wurtbad et qu'un mauvais rhume retenait en route. Il paya d'avance, ne but pas trop, posa peu de questions. Les gens de Moosbach, qui se méfiaient de tout, ne se méfièrent pas de lui.
+Il n'avait rien de remarquable, et c'était ce qu'il y avait de plus remarquable chez lui. Un visage qu'on oubliait en le regardant. Un manteau brun, ni neuf ni usé. Il se présenta à la taverne comme un copiste qui allait à Wendelstadt et qu'un mauvais rhume retenait en route. Il paya d'avance, ne but pas trop, posa peu de questions. Les gens de Moosbach, qui se méfiaient de tout, ne se méfièrent pas de lui.
 
 Konrad le croisa sur la place, le deuxième jour, et s'arrêta net.
 
@@ -400,7 +400,7 @@ Elle ne vint pas le chercher.
 
 Le cinquième jour, à la maison forte, un valet dit à la cuisine que la guérisseuse était malade. Le sixième, qu'elle ne se levait plus. Konrad l'entendit en passant devant la porte. Il ne demanda la permission à personne. Il sortit par la poterne des écuries, celle que Lothar croyait secrète, et courut jusqu'au village dans la neige, sans manteau.
 
-La maison sentait la sueur et les herbes. La femme du meunier était là, et le vieux prêtre de Morr, et ils parlaient bas.
+La maison sentait la sueur et les herbes. La femme du meunier était là, et le vieux prêtre de la Gardienne, et ils parlaient bas.
 
 Sa mère était couchée, les joues creusées, les lèvres grises. Elle brûlait. Quand elle le vit, elle voulut se fâcher, et n'en eut pas la force. Elle tendit la main.
 
@@ -420,11 +420,11 @@ Elle le regarda longtemps. Il crut qu'elle allait répondre. Puis elle ferma les
 
 Elle mourut avant l'aube.
 
-Le prêtre de Morr dit que c'était une fièvre d'hiver, de celles qui emportent les plus forts en trois jours. Konrad lui dit que c'était l'homme au manteau brun. Il le dit au prêtre, à la femme du meunier, au valet qui vint le chercher, au baron lui-même, qui monta à la maison du bord de la forêt pour la première fois depuis des années et resta sur le seuil, sans entrer, ses gants à la main.
+Le prêtre de la Gardienne dit que c'était une fièvre d'hiver, de celles qui emportent les plus forts en trois jours. Konrad lui dit que c'était l'homme au manteau brun. Il le dit au prêtre, à la femme du meunier, au valet qui vint le chercher, au baron lui-même, qui monta à la maison du bord de la forêt pour la première fois depuis des années et resta sur le seuil, sans entrer, ses gants à la main.
 
-Personne ne l'écouta. Le copiste était parti pour Wurtbad le lendemain de sa visite. Il avait payé son dû. C'était un homme comme les autres.
+Personne ne l'écouta. Le copiste était parti pour Wendelstadt le lendemain de sa visite. Il avait payé son dû. C'était un homme comme les autres.
 
-On enterra Mathilde au petit cimetière de Morr, sous la neige. Konrad avait passé la bague dans un lacet de cuir, parce qu'elle était trop grande pour son doigt, et il la portait sous sa chemise, contre la peau.
+On enterra Mathilde au petit cimetière de la Gardienne, sous la neige. Konrad avait passé la bague dans un lacet de cuir, parce qu'elle était trop grande pour son doigt, et il la portait sous sa chemise, contre la peau.
 
 ### V. L'oncle
 
@@ -450,13 +450,13 @@ Wolfram ferma les yeux une seconde. Puis il se releva, et posa la main sur l'ép
 
 — Où tu vas ?
 
-Wolfram regarda la route de Wurtbad, blanche sous la lune.
+Wolfram regarda la route de Wendelstadt, blanche sous la lune.
 
 — Rendre une visite.
 
 ---
 
-Il le retrouva deux nuits plus tard, dans une auberge de relais à mi-chemin de Wurtbad, assis seul près du feu, une écritoire sur les genoux.
+Il le retrouva deux nuits plus tard, dans une auberge de relais à mi-chemin de Wendelstadt, assis seul près du feu, une écritoire sur les genoux.
 
 L'homme ne leva pas la tête quand Wolfram s'assit en face de lui. Il savait. Ils se connaissaient : dix ans plus tôt, ils avaient reçu leurs ordres dans la même pièce sans fenêtre.
 
@@ -486,7 +486,7 @@ Il brûla tout, page par page, à la flamme d'une lanterne, comme Ottilie avait 
 
 Il ne pouvait pas l'emmener. Un agent de l'Ordre venait de disparaître à deux jours des terres de sa famille. Dans quelques semaines, on poserait des questions. Le meilleur endroit pour cacher l'enfant, c'était encore là où il était : dans la boue d'un domaine de campagne, sous le nom d'un baron qui n'était pas son père.
 
-Wolfram remonta à cheval et prit la route du nord, vers Altdorf, pour aller mentir une deuxième fois.
+Wolfram remonta à cheval et prit la route du nord, vers Kaltenburg, pour aller mentir une deuxième fois.
 
 ## Chapitre 5 — La maison forte
 
@@ -494,7 +494,7 @@ Wolfram remonta à cheval et prit la route du nord, vers Altdorf, pour aller men
 
 On vendit la maison du bord de la forêt avant la fin de l'hiver.
 
-Ce fut la baronne qui l'exigea, et le baron qui céda, comme toujours. Les pots de Mathilde furent donnés à la sage-femme, ses livres au prêtre de Morr, ses vêtements aux pauvres. Konrad ne garda que ce qu'il put cacher sous sa chemise : la bague au bout de son lacet, et un petit couteau à écorcer les racines, au manche usé, qu'il avait pris sur la table de la cuisine le jour de l'enterrement sans que personne le voie.
+Ce fut la baronne qui l'exigea, et le baron qui céda, comme toujours. Les pots de Mathilde furent donnés à la sage-femme, ses livres au prêtre de la Gardienne, ses vêtements aux pauvres. Konrad ne garda que ce qu'il put cacher sous sa chemise : la bague au bout de son lacet, et un petit couteau à écorcer les racines, au manche usé, qu'il avait pris sur la table de la cuisine le jour de l'enterrement sans que personne le voie.
 
 À la maison forte, on lui donna un réduit au-dessus des écuries, entre le grenier à foin et la chambre des palefreniers. Il y avait une paillasse, une couverture, un coffre sans serrure et une lucarne qui donnait sur la cour d'armes. L'hiver, le froid passait entre les planches. L'été, l'odeur des chevaux montait par le plancher. Il ne s'en plaignit jamais. C'était le seul endroit de la maison où personne ne venait.
 
@@ -504,7 +504,7 @@ Le soir, dans son réduit, il tenait la bague dans sa paume et répétait la rè
 
 ### II. La sangle
 
-Le premier accident eut lieu au printemps 2503, pendant une leçon d'équitation.
+Le premier accident eut lieu au printemps 803, pendant une leçon d'équitation.
 
 Konrad montait une jument grise, vieille et calme, qu'on lui donnait parce que personne d'autre n'en voulait. Au troisième tour de la carrière, au moment de passer la barre basse, il sentit quelque chose. Pas un bruit, pas un mouvement : une sorte de vide sous lui, comme une marche qui manque dans l'escalier. Il serra les genoux et se pencha sur l'encolure sans savoir pourquoi.
 
@@ -522,7 +522,7 @@ Il n'en parla à personne.
 
 ### III. La dague
 
-L'hiver suivant, une dague disparut de la salle d'armes : une belle lame d'Averland au pommeau d'argent, cadeau d'un oncle de la baronne à Lothar pour ses dix-sept ans.
+L'hiver suivant, une dague disparut de la salle d'armes : une belle lame de Westerau au pommeau d'argent, cadeau d'un oncle de la baronne à Lothar pour ses dix-sept ans.
 
 On la chercha deux jours. Le troisième, Adelheid suggéra, d'une voix très douce, qu'on regarde peut-être au-dessus des écuries.
 
@@ -536,11 +536,11 @@ Ce soir-là, couché sur le ventre parce que son dos le brûlait, il ne pleura p
 
 Il attendit trois semaines.
 
-Puis, une nuit, il traversa la maison forte sans que personne l'entende. Il connaissait chaque latte qui grinçait, chaque porte qui gémissait, chaque recoin où l'ombre était assez épaisse pour qu'on ne le voie pas, même avec une chandelle. Il entra dans la chambre d'Adelheid. Il ne toucha à rien, sauf au coffret de nacre où elle gardait les lettres d'un jeune écuyer de Wurtbad, que sa mère ignorait et que son père n'aurait jamais permises.
+Puis, une nuit, il traversa la maison forte sans que personne l'entende. Il connaissait chaque latte qui grinçait, chaque porte qui gémissait, chaque recoin où l'ombre était assez épaisse pour qu'on ne le voie pas, même avec une chandelle. Il entra dans la chambre d'Adelheid. Il ne toucha à rien, sauf au coffret de nacre où elle gardait les lettres d'un jeune écuyer de Wendelstadt, que sa mère ignorait et que son père n'aurait jamais permises.
 
 Le lendemain, le coffret était posé, ouvert, sur l'oreiller de la baronne.
 
-Il n'y eut pas de cris dans la grande salle. Il y eut pire : un silence d'une semaine, une Adelheid aux yeux rouges, un écuyer renvoyé à Wurtbad, et un fiancé qu'on trouva en urgence dans une famille du Sud, plus vieux qu'elle de vingt ans. Personne ne sut jamais comment le coffret était arrivé là.
+Il n'y eut pas de cris dans la grande salle. Il y eut pire : un silence d'une semaine, une Adelheid aux yeux rouges, un écuyer renvoyé à Wendelstadt, et un fiancé qu'on trouva en urgence dans une famille du Sud, plus vieux qu'elle de vingt ans. Personne ne sut jamais comment le coffret était arrivé là.
 
 Adelheid, elle, le sut. Elle ne le prouva jamais. Mais à partir de ce jour, quand elle croisait Konrad dans un couloir, elle ne riait plus. Elle s'écartait.
 
@@ -550,11 +550,11 @@ Konrad n'en tira aucune joie. Il en tira une leçon.
 
 Il continua d'apprendre, parce que c'était la seule chose qu'on ne pouvait pas lui confisquer.
 
-Le père Anselm ne l'aimait pas davantage, mais il avait fini par comprendre que l'enfant lisait plus que les autres et ne s'en vantait pas, et il laissait la porte de la petite bibliothèque de la chapelle entrouverte. Konrad y passait ses soirées. Il lut l'histoire des comtes électeurs, les guerres de l'Âge des Trois Empereurs, les traités d'héraldique. Il chercha longtemps les armes de la bague, qu'il avait recopiées de mémoire sur un bout de parchemin. Elles étaient trop usées : un écu, peut-être un arbre, peut-être une couronne. Il ne les trouva dans aucun armorial.
+Le père Anselm ne l'aimait pas davantage, mais il avait fini par comprendre que l'enfant lisait plus que les autres et ne s'en vantait pas, et il laissait la porte de la petite bibliothèque de la chapelle entrouverte. Konrad y passait ses soirées. Il lut l'histoire des princes électeurs, les guerres du Schisme des Deux Couronnes, les traités d'héraldique. Il chercha longtemps les armes de la bague, qu'il avait recopiées de mémoire sur un bout de parchemin. Elles étaient trop usées : un écu, peut-être un arbre, peut-être une couronne. Il ne les trouva dans aucun armorial.
 
 Dans la cour, le vieux Rüdiger avait cessé de regarder ailleurs. Il ne le favorisait pas devant les autres : il l'aurait payé de sa place. Mais certains matins, avant que la maison se réveille, il descendait dans la cour à la lumière d'une lanterne, et il trouvait l'enfant qui l'attendait. Il lui apprit à placer ses pieds, à tenir sa garde basse, à frapper court. *Tu n'as pas la carrure de ton frère*, lui dit-il un jour. *Alors ne te bats pas comme lui. Bats-toi comme une guêpe.*
 
-L'anniversaire de la mort de Mathilde tomba un soir de neige, en 2505. Ce soir-là, le baron monta aux écuries.
+L'anniversaire de la mort de Mathilde tomba un soir de neige, en 805. Ce soir-là, le baron monta aux écuries.
 
 Konrad l'entendit dans l'escalier, lourd, hésitant. Ottokar avait bu. Il resta sur le seuil du réduit, comme il était resté sur le seuil de la maison du bord de la forêt, et il regarda l'enfant assis sur sa paillasse.
 
@@ -576,9 +576,9 @@ Konrad resta longtemps éveillé. Il se répétait la phrase, encore et encore. 
 
 C'est cette nuit-là que la rancœur prit racine.
 
-### V. La Stir
+### V. La Nebel
 
-Au printemps 2506, la Stir déborda.
+Au printemps 806, la Nebel déborda.
 
 Les pluies d'avril avaient gonflé tous les ruisseaux du domaine, et l'affluent qui faisait tourner le moulin roulait une eau brune, épaisse, chargée de branches. On avait interdit aux enfants d'approcher les berges. Lothar, qui avait vingt ans et n'était plus un enfant, emmena Dietrich et Konrad vérifier les digues du moulin, sur ordre de son père.
 
@@ -602,13 +602,13 @@ Six jours plus tard, un homme en gris arriva à Eichenwald sans prévenir, comme
 
 Wolfram regarda l'enfant longtemps. Puis il regarda la lucarne, où une fine brume grise s'attardait encore au coin du carreau, alors que dehors il faisait grand soleil.
 
-— On m'a parlé d'un brouillard sur la Stir, dit-il. Un brouillard qui est monté en plein jour, et qui n'est resté qu'au-dessus de toi.
+— On m'a parlé d'un brouillard sur la Nebel, dit-il. Un brouillard qui est monté en plein jour, et qui n'est resté qu'au-dessus de toi.
 
 Konrad ne répondit pas. C'était la règle.
 
 Wolfram s'assit sur le coffre, en face de lui. Il avait l'air plus vieux, plus maigre, plus fatigué que la dernière fois. Il avait l'air d'un homme qui avait attendu quelque chose longtemps, et qui le redoutait autant qu'il l'espérait.
 
-— Ta mère disait que tu étais trop petit, dit-il enfin. Tu as douze ans. Et tu viens de faire, sans le savoir, quelque chose qu'on enseigne au Collège en deux ans.
+— Ta mère disait que tu étais trop petit, dit-il enfin. Tu as douze ans. Et tu viens de faire, sans le savoir, quelque chose qu'on enseigne à l'Ordre en deux ans.
 
 Il tendit la main, paume ouverte.
 
@@ -626,11 +626,11 @@ Konrad attendit. Une heure. Deux. Le froid lui monta dans les jambes, la nuit to
 
 Alors seulement, Wolfram parla.
 
-— Ce que tu as fait sur la Stir, ce n'est pas toi qui l'as fait. C'est le vent qui t'a trouvé. Ulgu. Le Vent Gris, le vent des ombres, des brumes et des mensonges. Il souffle partout, tout le temps, et presque personne ne le sent. Toi, tu le sens. Ça ne fait pas de toi quelqu'un de spécial. Ça fait de toi quelqu'un en danger.
+— Ce que tu as fait sur la Nebel, ce n'est pas toi qui l'as fait. C'est le Courant qui t'a trouvé. Le Courant Gris, le Courant des ombres, des brumes et des mensonges. Il souffle partout, tout le temps, et presque personne ne le sent. Toi, tu le sens. Ça ne fait pas de toi quelqu'un de spécial. Ça fait de toi quelqu'un en danger.
 
 — Pourquoi ?
 
-— Parce qu'un vent qu'on ne commande pas finit par vous commander. Et parce que l'Empire brûle ceux qui l'entendent sans y avoir été autorisés.
+— Parce qu'un Courant qu'on ne commande pas finit par vous commander. Et parce que l'Empire brûle ceux qui l'entendent sans y avoir été autorisés.
 
 Il prit le couteau, le retourna dans sa main, et le tendit à Konrad par le manche.
 
@@ -646,7 +646,7 @@ Il fallut un an avant que Wolfram lui apprenne à regarder.
 
 Entre-temps, Konrad apprit à respirer. À compter ses souffles jusqu'à ne plus les entendre. À rester immobile dans le grenier à foin pendant qu'un palefrenier fouillait à trois pas de lui. À vider sa tête comme on vide un seau. Wolfram venait trois ou quatre fois par an, pour quelques jours, parfois une seule nuit. Entre ses visites, Konrad répétait seul, dans son réduit, avec une discipline que personne à la maison forte n'aurait soupçonnée chez le bâtard.
 
-Au printemps 2507, dans la clairière des vieux chênes, Wolfram lui posa deux doigts sur les paupières.
+Au printemps 807, dans la clairière des vieux chênes, Wolfram lui posa deux doigts sur les paupières.
 
 — Ne regarde pas les choses. Regarde à côté d'elles.
 
@@ -654,11 +654,11 @@ D'abord, il n'y eut rien. Puis, comme quand on fixe trop longtemps une flamme et
 
 Il eut envie de pleurer, et il ne sut pas pourquoi.
 
-— Les huit vents, dit Wolfram. Ce que tu vois là, les sorciers des Collèges passent des années à apprendre à le voir. Toi, tu l'as fait en une matinée. Ne t'en vante pas. Surtout pas devant moi.
+— Les sept Courants, dit Wolfram. Ce que tu vois là, les sorciers des Ordres passent des années à apprendre à le voir. Toi, tu l'as fait en une matinée. Ne t'en vante pas. Surtout pas devant moi.
 
 Puis il traça dans la cendre d'un feu éteint des lettres que Konrad ne connaissait pas, tordues, anguleuses, et qui avaient l'air de bouger quand on ne les regardait pas en face.
 
-— Le Magick. La langue des sorts. Tu ne t'en serviras pas avant longtemps, mais tu vas apprendre à la lire. Un jour, tu en auras besoin, et je ne serai peut-être pas là pour te la traduire.
+— La Langue Tordue. La langue des sorts. Tu ne t'en serviras pas avant longtemps, mais tu vas apprendre à la lire. Un jour, tu en auras besoin, et je ne serai peut-être pas là pour te la traduire.
 
 Konrad apprit. Il recopiait les lettres dans la cendre de la cheminée de la cuisine, la nuit, et les effaçait avant l'aube.
 
@@ -674,7 +674,7 @@ La nuit, il lui fit traverser la maison forte. D'abord avec lui, puis seul. Atte
 
 À quinze ans, il n'était plus le même garçon.
 
-Lothar s'en aperçut un matin de 2509, dans la cour d'armes. L'héritier avait vingt-trois ans, une épouse, et l'habitude, quand son père n'était pas là, de choisir le bâtard comme partenaire d'entraînement. Ce matin-là, il frappa comme d'habitude, fort et droit.
+Lothar s'en aperçut un matin de 809, dans la cour d'armes. L'héritier avait vingt-trois ans, une épouse, et l'habitude, quand son père n'était pas là, de choisir le bâtard comme partenaire d'entraînement. Ce matin-là, il frappa comme d'habitude, fort et droit.
 
 Il ne toucha rien.
 
@@ -686,31 +686,31 @@ Lothar ne lui demanda plus jamais de s'entraîner avec lui.
 
 ### IV. La tourbière
 
-À l'automne 2509, pour la première fois, Wolfram l'emmena en mission.
+À l'automne 809, pour la première fois, Wolfram l'emmena en mission.
 
-Il ne l'appela pas comme ça. Il dit seulement qu'il avait à faire à l'est, près des collines qui regardent vers la Sylvanie, et qu'un garçon de quinze ans pouvait tenir les chevaux. Ils partirent trois jours. Konrad dit au majordome qu'il accompagnait son oncle à Wurtbad. Personne ne demanda rien.
+Il ne l'appela pas comme ça. Il dit seulement qu'il avait à faire à l'est, près des collines qui regardent vers l'Aschenland, et qu'un garçon de quinze ans pouvait tenir les chevaux. Ils partirent trois jours. Konrad dit au majordome qu'il accompagnait son oncle à Wendelstadt. Personne ne demanda rien.
 
 Le village s'appelait Torfmoor. Il n'en restait presque rien.
 
-Les maisons étaient debout, mais vides. Les portes ouvertes battaient au vent. Dans la chapelle de Morr, quelqu'un avait gratté les symboles du dieu et les avait remplacés par d'autres, peints avec quelque chose de sombre qui avait coulé. Une odeur flottait sur tout le hameau, douce et pourrie à la fois, comme des fleurs laissées trop longtemps dans l'eau.
+Les maisons étaient debout, mais vides. Les portes ouvertes battaient au vent. Dans la chapelle de la Gardienne, quelqu'un avait gratté les symboles du dieu et les avait remplacés par d'autres, peints avec quelque chose de sombre qui avait coulé. Une odeur flottait sur tout le hameau, douce et pourrie à la fois, comme des fleurs laissées trop longtemps dans l'eau.
 
-— Ne regarde pas les vents ici, dit Wolfram à voix basse. Pas encore.
+— Ne regarde pas les Courants ici, dit Wolfram à voix basse. Pas encore.
 
 Konrad regarda quand même.
 
-Et il vit, au milieu des fils gris et verts, une autre chose : un courant noir, huileux, qui ne ressemblait à aucun des huit, et qui serpentait entre les maisons vers la tourbière comme une veine malade. Il eut la nausée tout de suite. Il recula, et sentit la main de Wolfram sur sa nuque.
+Et il vit, au milieu des fils gris et verts, une autre chose : un courant noir, huileux, qui ne ressemblait à aucun des sept, et qui serpentait entre les maisons vers la tourbière comme une veine malade. Il eut la nausée tout de suite. Il recula, et sentit la main de Wolfram sur sa nuque.
 
-— Dhar, dit son oncle. Les vents mélangés et pourris. La magie noire. C'est ce que tu vois quand quelqu'un a voulu plus que ce qu'on lui permettait.
+— La Lie, dit son oncle. Les Courants mélangés et pourris. La magie noire. C'est ce que tu vois quand quelqu'un a voulu plus que ce qu'on lui permettait.
 
-Ils trouvèrent l'homme au bord de la tourbière, dans une cabane de roseaux. C'était un rebouteux, un sorcier de village, de ceux qui soignaient les bêtes et parlaient aux orages sans avoir jamais vu un Collège. Il avait dû entendre le vent, comme Konrad. Et quelque chose, un jour, lui avait répondu.
+Ils trouvèrent l'homme au bord de la tourbière, dans une cabane de roseaux. C'était un rebouteux, un sorcier de village, de ceux qui soignaient les bêtes et parlaient aux orages sans avoir jamais vu un Ordre. Il avait dû entendre le Courant, comme Konrad. Et quelque chose, un jour, lui avait répondu.
 
-Konrad ne raconta jamais ce qu'il vit dans la cabane. Pas dans les détails. Il se souviendrait seulement de la peau de l'homme, qui n'avait plus tout à fait la forme d'une peau, de sa voix qui disait des choses dans une langue qui ressemblait à peine au Magick, et des villageois de Torfmoor, qui n'étaient pas partis.
+Konrad ne raconta jamais ce qu'il vit dans la cabane. Pas dans les détails. Il se souviendrait seulement de la peau de l'homme, qui n'avait plus tout à fait la forme d'une peau, de sa voix qui disait des choses dans une langue qui ressemblait à peine à la Langue Tordue, et des villageois de Torfmoor, qui n'étaient pas partis.
 
 Wolfram fit ce qu'il avait à faire. Ce fut rapide, propre, et il ne parla pas pendant les trois heures qui suivirent.
 
 Le soir, au bord d'un feu, loin de Torfmoor, il parla enfin.
 
-— Ce que tu as vu, c'est ce qu'Ulgu peut faire de toi si tu n'apprends pas. C'est aussi ce que je fais, depuis vingt ans. Il y a des sorciers, au Collège Gris, qu'on appelle les Magisters Vigilants. On ne les voit pas dans les batailles. On ne chante pas de chansons sur eux. Ils traquent ceux qui ont fait ça, avant qu'ils ne le fassent à d'autres.
+— Ce que tu as vu, c'est ce que le Courant Gris peut faire de toi si tu n'apprends pas. C'est aussi ce que je fais, depuis vingt ans. Il y a des sorciers, à l'Ordre du Voile, qu'on appelle les Veilleurs du Voile. On ne les voit pas dans les batailles. On ne chante pas de chansons sur eux. Ils traquent ceux qui ont fait ça, avant qu'ils ne le fassent à d'autres.
 
 Konrad regarda le feu longtemps. Il pensa à l'homme dans la cabane. Il pensa à sa mère, qui soignait elle aussi les fièvres et parlait aux plantes, et qui n'avait jamais rien demandé à personne.
 
@@ -722,19 +722,19 @@ Wolfram ne répondit pas. Il regarda son fils de l'autre côté des flammes, et 
 
 Plus il apprenait, plus il voulait savoir.
 
-En 2510, il montra la bague à Wolfram. Il la sortit de sous sa chemise un soir, dans le réduit, et la posa sur le coffre entre eux.
+En 810, il montra la bague à Wolfram. Il la sortit de sous sa chemise un soir, dans le réduit, et la posa sur le coffre entre eux.
 
 — Ma mère disait que c'était tout ce qui restait de sa maison. J'ai cherché dans tous les armoriaux de la chapelle. Ces armes n'existent nulle part. Tu la connaissais. Qui était-elle ?
 
-Wolfram regarda la bague sans la toucher. Konrad, qui savait maintenant voir les vents, vit l'ombre se resserrer autour de son oncle, comme quand on retient son souffle.
+Wolfram regarda la bague sans la toucher. Konrad, qui savait maintenant voir les Courants, vit l'ombre se resserrer autour de son oncle, comme quand on retient son souffle.
 
 — Une femme qui avait des raisons de quitter son pays, dit Wolfram. Je ne sais rien de plus.
 
 C'était un mensonge. Konrad le sut aussitôt, comme sa mère savait reconnaître le pas d'un homme qui ment. Il ne dit rien. Il reprit la bague et la remit sous sa chemise. Mais quelque chose, ce soir-là, se fissura entre eux.
 
-L'année suivante, il demanda à entrer au Collège.
+L'année suivante, il demanda à entrer à l'Ordre.
 
-— Inscris-moi. Emmène-moi à Altdorf. Je suis prêt. Tu l'as dit toi-même : ce que je fais, d'autres mettent des années à l'apprendre.
+— Inscris-moi. Emmène-moi à Kaltenburg. Je suis prêt. Tu l'as dit toi-même : ce que je fais, d'autres mettent des années à l'apprendre.
 
 — Non.
 
@@ -756,7 +756,7 @@ Il partit le lendemain avant l'aube, sans dire au revoir.
 
 ---
 
-À l'automne 2511, Konrad remarqua l'homme sur la place de Moosbach.
+À l'automne 811, Konrad remarqua l'homme sur la place de Moosbach.
 
 Un voyageur, un jour de marché, qui achetait des pommes. Un visage ordinaire, un manteau ordinaire. Rien qui attire l'œil. Mais Konrad avait appris à regarder à côté des choses, et autour de l'homme, l'air était un peu plus gris.
 
@@ -770,17 +770,17 @@ Wolfram resta longtemps silencieux. Puis il dit, d'une voix très calme, la plus
 
 — Prépare un sac. Pas plus que ce que tu peux porter. On part au printemps.
 
-— Pour Altdorf ?
+— Pour Kaltenburg ?
 
 Wolfram secoua la tête.
 
 — Pour plus loin.
 
-## Chapitre 7 — La route de Parravon
+## Chapitre 7 — La route de Hautepierre
 
 ### I. Le dernier hiver
 
-Konrad passa l'hiver 2511 à faire comme si rien n'allait changer.
+Konrad passa l'hiver 811 à faire comme si rien n'allait changer.
 
 Il descendait à la cuisine à l'heure, saluait la baronne qui ne le saluait pas, assistait aux leçons du père Anselm, qui n'avait plus rien à lui apprendre et le savait. Le soir, dans son réduit, il préparait son sac. Pas plus que ce qu'il pouvait porter : deux chemises, un manteau, un briquet, le couteau de sa mère et la dague grise de Wolfram, roulés dans un chiffon huilé. La bague, au cou, comme toujours.
 
@@ -810,7 +810,7 @@ Konrad ne l'avait pas prévu. Il croisa son demi-frère dans l'escalier des écu
 
 Dietrich hésita. Il avait l'air de quelqu'un qui portait une phrase depuis longtemps et ne savait pas où la poser.
 
-— Le jour de la Stir, dit-il enfin. J'ai vu ce qu'il a fait. Je n'ai rien dit. J'avais onze ans.
+— Le jour de la Nebel, dit-il enfin. J'ai vu ce qu'il a fait. Je n'ai rien dit. J'avais onze ans.
 
 Konrad le regarda longtemps.
 
@@ -848,15 +848,15 @@ Ottokar redescendit l'escalier. Ce fut la dernière fois que Konrad le vit.
 
 ### III. La route de l'ouest
 
-Ils partirent avant l'aube, au printemps 2512, quelques jours après les dix-huit ans de Konrad.
+Ils partirent avant l'aube, au printemps 812, quelques jours après les dix-huit ans de Konrad.
 
-Wolfram ne dit rien de la destination pendant la première semaine. Ils prirent la route de l'ouest, à cheval, par des chemins de traverse, en évitant Wurtbad. Ils dormaient dans des granges, dans des relais de poste où Wolfram payait en monnaie de cuivre et changeait de nom à chaque fois. Konrad remarqua qu'il regardait derrière eux plus souvent qu'avant. Il remarqua aussi qu'il ne dormait presque pas.
+Wolfram ne dit rien de la destination pendant la première semaine. Ils prirent la route de l'ouest, à cheval, par des chemins de traverse, en évitant Wendelstadt. Ils dormaient dans des granges, dans des relais de poste où Wolfram payait en monnaie de cuivre et changeait de nom à chaque fois. Konrad remarqua qu'il regardait derrière eux plus souvent qu'avant. Il remarqua aussi qu'il ne dormait presque pas.
 
-Ils traversèrent le Reikland, plus riche, plus vert, plus bruyant que le Stirland. Konrad vit des villes plus grandes que tout ce qu'il imaginait, des péniches sur le Reik, des tours de temple qui montaient plus haut que la maison forte tout entière. Il aurait voulu s'arrêter partout. Wolfram ne s'arrêtait nulle part.
+Ils traversèrent le Kronland, plus riche, plus vert, plus bruyant que la Nebelmark. Konrad vit des villes plus grandes que tout ce qu'il imaginait, des péniches sur l'Aldra, des tours de temple qui montaient plus haut que la maison forte tout entière. Il aurait voulu s'arrêter partout. Wolfram ne s'arrêtait nulle part.
 
-Un soir, au bord d'un feu, près des contreforts des Montagnes Grises, Konrad posa la question.
+Un soir, au bord d'un feu, près des contreforts des Monts Cendrés, Konrad posa la question.
 
-— On ne va pas à Altdorf.
+— On ne va pas à Kaltenburg.
 
 — Non.
 
@@ -878,7 +878,7 @@ Wolfram regarda les montagnes, noires sur le ciel encore clair, et la pâle éch
 
 Wolfram resta longtemps silencieux. Le feu craquait. Quelque part dans la montagne, un loup appela, et un autre lui répondit.
 
-— Il y a des années, dit-il enfin, j'ai désobéi à un ordre. Je ne le regrette pas. Mais on ne désobéit pas à l'Ordre Gris sans qu'il s'en souvienne. Il a de la mémoire, et beaucoup de patience.
+— Il y a des années, dit-il enfin, j'ai désobéi à un ordre. Je ne le regrette pas. Mais on ne désobéit pas à l'Ordre du Voile sans qu'il s'en souvienne. Il a de la mémoire, et beaucoup de patience.
 
 — Quel ordre ?
 
@@ -888,7 +888,7 @@ Wolfram tourna la tête vers lui. Dans la lumière du feu, Konrad vit sur son vi
 
 ### IV. Le col
 
-Ils franchirent les Montagnes Grises par le col de la Dame Grise.
+Ils franchirent les Monts Cendrés par le col de la Dame Voilée.
 
 Konrad n'avait jamais vu de vraies montagnes. Le chemin montait pendant des jours, entre des parois de roche nue, au-dessus de vallées si profondes qu'on n'en voyait pas le fond. Il y avait des postes de garde abandonnés, des cairns de pierre au bord des précipices, et, au sommet du col, une petite chapelle de pierre noire battue par le vent, où des voyageurs avaient laissé des offrandes à des dieux que Konrad ne connaissait pas.
 
@@ -898,15 +898,15 @@ Wolfram s'arrêta devant la chapelle et resta un moment à regarder vers l'est, 
 
 Konrad ne comprit pas, et ne demanda pas.
 
-Ils redescendirent de l'autre côté. Les villages changèrent, les visages aussi, et la langue. On parlait ici le bretonnien, que Konrad baragouinait grâce aux leçons du père Anselm. Les paysans étaient plus pauvres, plus soumis, et les châteaux sur les hauteurs plus grands et plus orgueilleux. Des chevaliers passaient sur les routes en armure complète, sans un regard pour ceux qui s'écartaient devant eux.
+Ils redescendirent de l'autre côté. Les villages changèrent, les visages aussi, et la langue. On parlait ici l'aurevalois, que Konrad baragouinait grâce aux leçons du père Anselm. Les paysans étaient plus pauvres, plus soumis, et les châteaux sur les hauteurs plus grands et plus orgueilleux. Des chevaliers passaient sur les routes en armure complète, sans un regard pour ceux qui s'écartaient devant eux.
 
 — Pourquoi ici ? demanda Konrad.
 
-— Parce qu'ici, l'Ordre Gris n'a pas d'yeux, dit Wolfram. Ou très peu. Et que les Bretonniens ne posent pas de questions aux étrangers qui ont de quoi payer.
+— Parce qu'ici, l'Ordre du Voile n'a pas d'yeux, dit Wolfram. Ou très peu. Et que les Aurevalois ne posent pas de questions aux étrangers qui ont de quoi payer.
 
-### V. Parravon
+### V. Hautepierre
 
-Parravon était une ville perchée, accrochée à la montagne au-dessus d'une gorge, avec des maisons hautes, des ponts vertigineux et des pégases qu'on voyait parfois tourner autour des tours du duc, très haut, comme de grands oiseaux blancs. Il y avait eu une guerre, quelques années plus tôt, entre Parravon et le Reikland. Elle était finie. Mais on regardait encore les gens de l'Empire de travers.
+Hautepierre était une ville perchée, accrochée à la montagne au-dessus d'une gorge, avec des maisons hautes, des ponts vertigineux et des aigles de guerre qu'on voyait parfois tourner autour des tours du duc, très haut, comme de grands oiseaux blancs. Il y avait eu une guerre, quelques années plus tôt, entre Hautepierre et le Kronland. Elle était finie. Mais on regardait encore les gens de l'Empire de travers.
 
 Wolfram loua une chambre dans une auberge de la ville basse, près des remparts. Il paya deux mois d'avance, en or. Konrad trouva ça étrange, et ne dit rien.
 
@@ -934,7 +934,7 @@ Konrad resta assis sur le lit longtemps avant de l'ouvrir.
 >
 > *J'ai des missions que je ne peux pas refuser, et elles vont me prendre encore huit ans, peut-être plus. Là où je vais, tu ne peux pas venir. À côté de moi, tu serais en danger, et je ne le permettrai pas.*
 >
-> *La chambre est payée pour deux mois. Dans la boîte, il y a mes notes. Tout ce que je ne t'ai pas encore appris est dedans. Prends ton temps. Ne force rien. Souviens-toi que le Vent Gris ment aussi à ceux qui le servent.*
+> *La chambre est payée pour deux mois. Dans la boîte, il y a mes notes. Tout ce que je ne t'ai pas encore appris est dedans. Prends ton temps. Ne force rien. Souviens-toi que le Courant Gris ment aussi à ceux qui le servent.*
 >
 > *Ne retourne pas à Eichenwald. Il n'y a plus rien pour toi là-bas.*
 >
@@ -952,17 +952,17 @@ Puis il essuya ses yeux, ouvrit la boîte, et commença à lire.
 
 ### VI. Deux mois
 
-Les notes de Wolfram étaient écrites dans un mélange de Reikspiel, de Magick et d'une sorte de code que Konrad mit trois semaines à comprendre. Il y avait des diagrammes de vents, des remarques sur la respiration, des avertissements griffonnés dans les marges, et, plus loin, des formules entières, des sorts, recopiés d'une écriture serrée, que Konrad ne savait pas encore lire. Il comprit qu'il faudrait des mois, peut-être des années, pour en venir à bout.
+Les notes de Wolfram étaient écrites dans un mélange de kronlandais, de Langue Tordue et d'une sorte de code que Konrad mit trois semaines à comprendre. Il y avait des diagrammes de Courants, des remarques sur la respiration, des avertissements griffonnés dans les marges, et, plus loin, des formules entières, des sorts, recopiés d'une écriture serrée, que Konrad ne savait pas encore lire. Il comprit qu'il faudrait des mois, peut-être des années, pour en venir à bout.
 
-Il passa deux mois à Parravon. Il sortait peu. Il apprenait le bretonnien dans les tavernes et le Magick dans sa chambre. Il regardait les pégases tourner au-dessus des tours. Il pensait à son oncle, à sa mère, au baron. Il pensait à la bague, et à toutes les questions que personne ne voulait lui répondre.
+Il passa deux mois à Hautepierre. Il sortait peu. Il apprenait l'aurevalois dans les tavernes et la Langue Tordue dans sa chambre. Il regardait les aigles de guerre tourner au-dessus des tours. Il pensait à son oncle, à sa mère, au baron. Il pensait à la bague, et à toutes les questions que personne ne voulait lui répondre.
 
 À la fin du deuxième mois, l'aubergiste lui rappela poliment que la chambre n'était plus payée.
 
-Konrad fit ses comptes. Il avait un peu d'argent, deux lames, des gants de cuir, une bague sans armes et une boîte de notes qu'il ne savait pas encore lire. Il avait dix-huit ans, aucun nom qui vaille quelque chose de ce côté-ci des montagnes, et un seul but : devenir ce que Wolfram était. Un Magister Vigilant. Pour ça, il n'y avait qu'un seul chemin, et il passait par Altdorf, par le Collège, par l'Empire.
+Konrad fit ses comptes. Il avait un peu d'argent, deux lames, des gants de cuir, une bague sans armes et une boîte de notes qu'il ne savait pas encore lire. Il avait dix-huit ans, aucun nom qui vaille quelque chose de ce côté-ci des montagnes, et un seul but : devenir ce que Wolfram était. Un Veilleur du Voile. Pour ça, il n'y avait qu'un seul chemin, et il passait par Kaltenburg, par l'Ordre, par l'Empire.
 
 *Ne retourne pas à Eichenwald*, avait écrit Wolfram. Il n'avait pas écrit : *ne retourne pas dans l'Empire.*
 
-Le lendemain, Konrad apprit qu'une caravane partait vers l'est, vers le col de la Dame Grise et Ubersreik : des marchands, quelques familles impériales qui rentraient chez elles, une escorte de soldats. On cherchait des hommes capables de tenir une lame.
+Le lendemain, Konrad apprit qu'une caravane partait vers l'est, vers le col de la Dame Voilée et Rabenfels : des marchands, quelques familles impériales qui rentraient chez elles, une escorte de soldats. On cherchait des hommes capables de tenir une lame.
 
 Il se présenta. On le prit.
 
@@ -976,4 +976,4 @@ Il serra la bague à travers sa chemise, et se mit en marche.
 
 ---
 
-*Fin du Livre I. La suite commence avec la campagne : Le Col de la Dame Grise.*
+*Fin du Livre I. La suite commence avec la campagne : Le Col de la Dame Voilée.*

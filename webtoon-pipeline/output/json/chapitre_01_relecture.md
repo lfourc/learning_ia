@@ -385,7 +385,7 @@ Pour chaque case : la source (extrait exact du livre, ou invention), puis le tex
 
 **case_59** · 800:327 · espace après 150px (noir)
 > 📖 **Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs**
-> « Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi. »
+> « Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves d'Eldwald libre. Il les avait toujours renvoyés. Ça n'avait pas suffi. »
 > « Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer. »
 > *Note : Le webtoon montre l'autre camp : on apprend qu'Ottilie soigne, donc que « le sang n'est pas éteint ».*
 

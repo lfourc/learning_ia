@@ -6,7 +6,7 @@ Pour chaque case : la source (extrait exact du livre, ou invention), puis le tex
 
 **case_01** · 2:3 · espace après 500px (noir)
 > 📖 **Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs**
-> « Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi. »
+> « Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves d'Eldwald libre. Il les avait toujours renvoyés. Ça n'avait pas suffi. »
 > *Note : La lettre « en main propre » = une des lettres que le père renvoie.*
 
 - Encadré : « La première neige tomba trois semaines plus tard. »
@@ -32,7 +32,7 @@ Pour chaque case : la source (extrait exact du livre, ou invention), puis le tex
 
 **case_05** · 400:201 · espace après 150px (noir)
 > 📖 **Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs**
-> « Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi. »
+> « Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves d'Eldwald libre. Il les avait toujours renvoyés. Ça n'avait pas suffi. »
 > *Note : Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir.*
 
 - Bulle : « … et le sanglier a reculé. Devant moi. »

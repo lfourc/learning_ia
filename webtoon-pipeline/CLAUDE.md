@@ -184,7 +184,8 @@ Sorties : `output/strips/chapitre_XX/planche_NN.png` + `planche_texte.txt` (dial
 
 ## 8. PROJET EN COURS : « LA LAME-GRISE » (ressources reprises des artifacts claude.ai)
 Ce pipeline est appliqué à **La Lame-Grise** (Konrad von Eichenwald, univers d'Erdheim). Avant tout travail, lire :
-- `source/livre_source.txt` — **Konrad — Livre I : Origines** (7 chapitres), le texte source à adapter.
+- `source/livre_source.txt` — **Konrad — Livre I : Origines** (7 chapitres), **version transposée hors Warhammer** : c'est le texte source à adapter et à citer. Elle est produite par `scripts/transposer_livre.py` à partir de `source/livre_source_warhammer.txt` (original, ne jamais modifier) : uniquement des remplacements de noms, aucune réécriture. Chaque remplacement est listé dans `source/transposition_rapport.md`. Pour corriger un nom : modifier la règle dans `transposer_livre.py` et relancer (les extraits cités dans les JSON se transposent avec la fonction `transposer()`).
+- Noms **proposés, en attente de validation** (absents de la table de `bible_univers.md`) : Reikspiel → kronlandais, Bretonniens / bretonnien → Aurevalois / aurevalois, Averland → Westerau, Middenland → Nordmark, Âge des Trois Empereurs → Schisme des Deux Couronnes, Ubersreik → Rabenfels.
 - `codex/01_BIBLE_MONDE.md` — tokens visuels de 23 personnages et 19 lieux + blocs de style/négatif (données brutes : `codex/planches.json`).
 - `codex/bibles/` — `bible_personnages.md` (apparence, âges, voix), `bible_decors.md` (lieux, script couleur), `tome0_fondations.md` (magie, dieux, histoire, rangs), `tome1_bestiaire.md`, `bible_univers.md` (transposition hors Warhammer : **ne jamais réutiliser les noms Warhammer** — Reikland, Sigmar, Morr, Ulgu… → voir la table de transposition), `kit_chatgpt.md`.
 - `codex/archives/` — anciens scripts (épisode 1 « La dernière journée », découpage ch. 1 du livre).

@@ -78,7 +78,7 @@ Pour chaque case : la source (extrait exact du livre, ou invention), puis le tex
 **case_10** · 1:1 · réf. `c3_ref.jpg` · espace après 150px (noir)
 > 📖 **Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur**
 > « Elle le sentait. C'est ce qui l'intrigua d'abord. Elle n'avait aucun don, il en aurait juré, mais elle avait appris à vivre en proie, et les proies ont leur propre magie. »
-> « Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen. »
+> « Une guérisseuse sans nom qui avait soigné un enfant à Hollenhof. »
 > *Note : Le livre dit qu'elle « n'avait aucun don » ; le webtoon lui en donne un (ép. 1). Wolfram voit « du sang », pas un Courant.*
 
 - SFX : *fiiiin*
@@ -121,7 +121,7 @@ Pour chaque case : la source (extrait exact du livre, ou invention), puis le tex
 
 **case_17** · 16:9 · réf. `c2_jeune_ref.jpg` · espace après 200px (blanc)
 > 📖 **Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur**
-> « L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre du Collège, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Talabheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur. »
+> « L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur. »
 > *Note : Inversion : dans le livre, on donne le mouchoir à Wolfram pour la traquer ; ici c'est elle qui le lui donne.*
 
 - *passe 1 : Wolfram : tu viens de te trahir devant celui qui te chasse.*
@@ -308,14 +308,14 @@ Pour chaque case : la source (extrait exact du livre, ou invention), puis le tex
 
 **case_42** · 16:9 · réf. `c2_jeune_ref.jpg` · espace après 200px (noir)
 > 📖 **Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur**
-> « Ulgu rendait les choses simples, c'était là son vice : les gens laissent des traces dans les ombres comme dans la boue. »
+> « Le Courant Gris rendait les choses simples, c'était là son vice : les gens laissent des traces dans les ombres comme dans la boue. »
 
 - Encadré : « Sur la colline. »
 - Prompt : `Wide night shot from a snowy hilltop, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) alone in translucent grey mist with faint silver glints, far below the warm windows of pale stone noble manor with half-timbered upper floors and a low crenellated wall, green banner with a silver linden tree, cold blue moonlight, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_43** · 1:1 · espace après 150px (noir)
 > 📖 **Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur**
-> « L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre du Collège, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Talabheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur. »
+> « L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur. »
 
 - Encadré : « L'ordre tenait en une ligne. »
 - Prompt : `Close-up of gloved hands breaking a seal of grey wax stamped with an open grey hand, a folded order, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
