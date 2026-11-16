@@ -1,6 +1,6 @@
 # Épisode 3 — Le chasseur
 
-*BROUILLON — à relire et modifier avant toute génération*
+*BROUILLON — sera redécoupé à partir de manuscrits/ep03_le_chasseur.md une fois le manuscrit validé*
 
 53 cases : **31 appuyées sur un extrait du livre**, **22 inventées**, 0 sans source.
 
@@ -121,7 +121,7 @@ Pour chaque case : la source (extrait exact du livre, ou invention), puis le tex
 
 **case_17** · 16:9 · réf. `c2_jeune_ref.jpg` · espace après 200px (blanc)
 > 📖 **Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur**
-> « L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur. »
+> « L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge d'Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur. »
 > *Note : Inversion : dans le livre, on donne le mouchoir à Wolfram pour la traquer ; ici c'est elle qui le lui donne.*
 
 - *passe 1 : Wolfram : tu viens de te trahir devant celui qui te chasse.*
@@ -315,7 +315,7 @@ Pour chaque case : la source (extrait exact du livre, ou invention), puis le tex
 
 **case_43** · 1:1 · espace après 150px (noir)
 > 📖 **Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur**
-> « L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur. »
+> « L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge d'Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur. »
 
 - Encadré : « L'ordre tenait en une ligne. »
 - Prompt : `Close-up of gloved hands breaking a seal of grey wax stamped with an open grey hand, a folded order, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
@@ -360,7 +360,7 @@ Pour chaque case : la source (extrait exact du livre, ou invention), puis le tex
 > *(même source que la case précédente)*
 
 - *passe 1 : Les silhouettes demandent son rapport.*
-- Bulle Silhouette : « Alors, Vigilant ? »
+- Bulle Silhouette : « Alors, Veilleur ? »
 - Prompt : `Dutch angle, two faceless figures in long dark grey hooded cloaks, faces lost in shadow standing behind Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) on the hilltop, utterly still, the manor lights tiny below, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text`
 
 **case_50** · 4:5 · espace après 250px (noir)

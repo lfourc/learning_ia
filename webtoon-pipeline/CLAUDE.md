@@ -92,6 +92,13 @@ Court, sec, sous-entendu, mais **langue d'époque**. Référence : les épisodes
 
 ---
 
+## 3 bis. MÉTHODE DE TRAVAIL PAR ÉPISODE (OBLIGATOIRE, DANS CET ORDRE)
+1. **Manuscrit en prose** : `manuscrits/epNN_slug.md`. L'épisode écrit comme un court chapitre (scènes, gestes, répliques au registre de la série). Chaque scène commence par un bloc **Appui** : extraits **exacts** du livre transposé (`> « … »`), ou `🆕 invention` expliquée, et les écarts assumés. En fin de fichier : les **points à trancher**.
+2. **Correction par l'auteur** : il modifie librement le manuscrit. **Rien n'est découpé tant qu'il ne l'a pas validé.**
+3. **Découpage en cases** : `output/json/chapitre_NN.json`. Chaque case cite **mot pour mot** une phrase du manuscrit validé : `"source": {"manuscrit": "manuscrits/epNN_slug.md", "ref": "Scène 2", "extrait": "<phrase exacte>"}`. Les répliques sont reprises **telles quelles** du manuscrit (aucune réécriture au découpage). `generate_webtoon.py` vérifie que chaque extrait existe dans le manuscrit.
+4. **Relecture** : `python scripts/relecture.py -c NN`, puis validation.
+5. **Génération d'images** seulement ensuite (`--dry-run`, puis `--mode draft`, puis `--mode final`).
+
 ## 4. FORMAT DE SORTIE JSON OBLIGATOIRE
 
 Chaque chapitre généré doit être sauvegardé dans `/output/json/chapitre_XX.json` selon ce schéma exact :
@@ -185,12 +192,12 @@ Sorties : `output/strips/chapitre_XX/planche_NN.png` + `planche_texte.txt` (dial
 ## 8. PROJET EN COURS : « LA LAME-GRISE » (ressources reprises des artifacts claude.ai)
 Ce pipeline est appliqué à **La Lame-Grise** (Konrad von Eichenwald, univers d'Erdheim). Avant tout travail, lire :
 - `source/livre_source.txt` — **Konrad — Livre I : Origines** (7 chapitres), **version transposée hors Warhammer** : c'est le texte source à adapter et à citer. Elle est produite par `scripts/transposer_livre.py` à partir de `source/livre_source_warhammer.txt` (original, ne jamais modifier) : uniquement des remplacements de noms, aucune réécriture. Chaque remplacement est listé dans `source/transposition_rapport.md`. Pour corriger un nom : modifier la règle dans `transposer_livre.py` et relancer (les extraits cités dans les JSON se transposent avec la fonction `transposer()`).
-- Noms **proposés, en attente de validation** (absents de la table de `bible_univers.md`) : Reikspiel → kronlandais, Bretonniens / bretonnien → Aurevalois / aurevalois, Averland → Westerau, Middenland → Nordmark, Âge des Trois Empereurs → Schisme des Deux Couronnes, Ubersreik → Rabenfels.
+- Noms ajoutés à la table et **validés le 16/11/2026** : Reikspiel → kronlandais, Bretonniens / bretonnien → Aurevalois / aurevalois, Averland → Westerau, Middenland → Nordmark, Âge des Trois Empereurs → Schisme des Deux Couronnes, Ubersreik → Rabenfels.
 - `codex/01_BIBLE_MONDE.md` — tokens visuels de 23 personnages et 19 lieux + blocs de style/négatif (données brutes : `codex/planches.json`).
 - `codex/bibles/` — `bible_personnages.md` (apparence, âges, voix), `bible_decors.md` (lieux, script couleur), `tome0_fondations.md` (magie, dieux, histoire, rangs), `tome1_bestiaire.md`, `bible_univers.md` (transposition hors Warhammer : **ne jamais réutiliser les noms Warhammer** — Reikland, Sigmar, Morr, Ulgu… → voir la table de transposition), `kit_chatgpt.md`.
 - `codex/archives/` — anciens scripts (épisode 1 « La dernière journée », découpage ch. 1 du livre).
 - `output/json/chapitre_01.json` (Les abeilles de Brunhild, 63 cases) et `chapitre_02.json` (Le sceau, 51 cases) — épisodes **déjà publiés**, images finales dans `output/panels/chapitre_0X/final/`. Leurs prompts d'origine sont perdus (`image_prompt` vide) ; les bulles gardent leur position (`x,y,w` = coin et largeur en % de la case, `tx,ty` = pointe de la queue).
-- Épisode 3 « Le chasseur » : brouillon dans `output/json/chapitre_03.json` (relecture : `chapitre_03_relecture.md`), en attente de validation par l'auteur.
+- Épisode 3 « Le chasseur » : **manuscrit en prose** `manuscrits/ep03_le_chasseur.md`, en attente de correction par l'auteur. L'ancien découpage `output/json/chapitre_03.json` sera refait à partir du manuscrit validé.
 
 Règles propres à la série (priment sur la section 3 en cas de conflit) : jamais de croix chrétienne, crucifix ni fleur de lys ; ne jamais citer de titres de référence dans les prompts ; le Gris = brume grise translucide aux reflets argentés ; les objets récurrents (bague au tilleul couronné, sceau) ont une image de référence obligatoire ; ne pas redécrire les costumes quand une planche de référence est jointe.
 Images de référence : `codex/references/<id>_ref.jpg` (47 planches validées, reprises de l'artifact « Planches — Livre I » ; index dans `codex/references/INDEX.md`). Ex. `c1_ref.jpg` = Konrad, `L2_ref.jpg` = manoir d'Arnsfeld. Les `_v1`, `_v2` sont d'autres âges ou versions antérieures. Seul le faux copiste (`c12`) n'a pas encore de planche. Dans un JSON de chapitre : `"reference_image": "c1_ref.jpg"` active `flux-pulid` en mode final.

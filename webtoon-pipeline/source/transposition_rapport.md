@@ -2,7 +2,7 @@
 
 Seuls des noms ont été remplacés (et les accords qu'ils imposent). Texte original intact dans `source/livre_source_warhammer.txt`. Table : `codex/bibles/bible_univers.md` § 1.
 
-**126 remplacements**, 77 règles. Termes Warhammer restants : aucun.
+**126 remplacements**, 78 règles. Termes Warhammer restants : aucun.
 
 ## ⚠️ Noms absents de la table — équivalents PROPOSÉS, à valider
 
@@ -44,6 +44,7 @@ Seuls des noms ont été remplacés (et les accords qu'ils imposent). Texte orig
 | du Middenland, du Talabecland | de la Nordmark, de l'Eldwald | 1 | … On parla du fils, qui n'était pas sûr d'être élu. On parla du Middenland, du Talabecland, de vieilles guerres dont personne ne se souvenait mais don… |
 | que le Talabecland voterait | que l'Eldwald voterait | 1 | …ce soir-là, quand il répéta à table ce qu'il avait entendu, que le Talabecland voterait peut-être contre le fils, sa mère posa sa cuillère et ne la… |
 | dans la Talabec | dans l'Elda | 1 | …printemps, on parla de malchance. Son cousin Lorenz se noya dans la Talabec en traversant à gué, un homme qui nageait comme une loutre.… |
+| de Talabheim | d'Eldenheim | 1 | …l lui avait tendu un mouchoir brodé trouvé dans une auberge de Talabheim, et Wolfram avait compris qu'on lui demandait de tuer quelq… |
 | Le Stirland était pauvre, humide et méfiant. | La Nebelmark était pauvre, humide et méfiante. | 1 | …sseur qu'il paya trop cher pour qu'on se souvienne de lui.  Le Stirland était pauvre, humide et méfiant. Des collines basses, des forêts noires, des villages serrés… |
 | du Stirland | de la Nebelmark | 2 | … Eichenwald revenait si souvent dans le trou le plus humide du Stirland, il trouverait une femme et un enfant, et il tirerait le fi… |
 | que le Stirland | que la Nebelmark | 1 | …aversèrent le Reikland, plus riche, plus vert, plus bruyant que le Stirland. Konrad vit des villes plus grandes que tout ce qu'il imagi… |
@@ -87,7 +88,7 @@ Seuls des noms ont été remplacés (et les accords qu'ils imposent). Texte orig
 | 2511 | 811 | 2 | …demain avant l'aube, sans dire au revoir.  ---  À l'automne 2511, Konrad remarqua l'homme sur la place de Moosbach.  Un voya… |
 | 2512 | 812 | 1 | … route de l'ouest  Ils partirent avant l'aube, au printemps 2512, quelques jours après les dix-huit ans de Konrad.  Wolfram … |
 | *Talabecland, automne | *Eldwald, automne | 1 | …apitre 1 — Le chasseur et la survivante  ### I. L'incendie  *Talabecland, automne 791.*  La forêt était si vieille qu'on disait qu'elle se so… |
-| Talabheim | Eldenheim | 3 | …onne d'autre au village. Un oncle éloigné fut tué en duel à Talabheim, par un inconnu qui disparut le lendemain.  À la fin de l'é… |
+| Talabheim | Eldenheim | 2 | …onne d'autre au village. Un oncle éloigné fut tué en duel à Talabheim, par un inconnu qui disparut le lendemain.  À la fin de l'é… |
 | Kreutzhofen | Hollenhof | 2 | …boue. Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen. Une jeune femme aux cheveux courts qui avait payé un passe… |
 | la Stir | la Nebel | 6 | … vous détestent le plus.  ### V. Moosbach  Ils traversèrent la Stir en janvier, sur un bac de passeur qu'il paya trop cher pour… |
 | La Stir | La Nebel | 1 | …e.  C'est cette nuit-là que la rancœur prit racine.  ### V. La Stir  Au printemps 806, la Nebel déborda.  Les pluies d'avril av… |

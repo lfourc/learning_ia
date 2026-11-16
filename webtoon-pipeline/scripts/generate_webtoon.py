@@ -125,10 +125,16 @@ def validate_chapter(data: dict) -> list[str]:
         src = case.get("source")
         if not src:
             warnings.append(f"{cid} : pas de 'source' (extrait du livre ou 'invention').")
-        elif isinstance(src, dict) and src.get("extrait") and livre:
+        elif isinstance(src, dict) and src.get("extrait"):
+            # Source = le manuscrit d'épisode (si "manuscrit" est renseigné), sinon le livre
+            if src.get("manuscrit"):
+                mp = ROOT / src["manuscrit"]
+                base, nom = (_norm(mp.read_text(encoding="utf-8")) if mp.exists() else ""), src["manuscrit"]
+            else:
+                base, nom = livre, "le livre"
             for ext in (src["extrait"] if isinstance(src["extrait"], list) else [src["extrait"]]):
-                if _norm(ext) not in livre:
-                    warnings.append(f"{cid} : extrait introuvable mot pour mot dans le livre — « {ext[:40]}… »")
+                if base and _norm(ext) not in base:
+                    warnings.append(f"{cid} : extrait introuvable mot pour mot dans {nom} — « {ext[:40]}… »")
         ref = case.get("reference_image")
         if ref and not (REF_DIR / ref).exists():
             warnings.append(f"{cid} : image de référence absente ({REF_DIR / ref}).")

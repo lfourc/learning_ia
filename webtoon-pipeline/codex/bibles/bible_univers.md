@@ -52,6 +52,13 @@ Le JDR se joue dans Warhammer, mais le webtoon et le livre doivent vivre dans un
 | Calendrier impérial (2512 CI) | **an 812 de la Couronne** | même écart entre les dates : on retire 1700 |
 | Les comtes électeurs | **les princes électeurs** | histoire réelle, aucun souci |
 | Nains | **les Nains des Monts Cendrés** | figure du folklore, libre de droits |
+| Reikspiel (la langue de l'Empire) | **le kronlandais** | validé le 16/11/2026 |
+| Bretonniens / le bretonnien | **les Aurevalois / l'aurevalois** | validé le 16/11/2026 |
+| Averland | **la Westerau** | validé le 16/11/2026 |
+| Middenland | **la Nordmark** | validé le 16/11/2026 |
+| L'Âge des Trois Empereurs | **le Schisme des Deux Couronnes** | validé le 16/11/2026 (cf. Tome 0, 412 AC) |
+| Ubersreik | **Rabenfels** | ville du Kronland au pied du col de la Dame Voilée ; validé le 16/11/2026 |
+| Le Collège Gris (« l'Ordre Gris ») | **l'Ordre du Voile** | |
 
 **Dates du Livre I dans le nouveau calendrier** : Purge 791–792, naissance de Konrad au printemps 794, mort d'Ottilie en 802, départ pour Hautepierre en 812.
 

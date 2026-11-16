@@ -1,7 +1,7 @@
 {
   "chapitre": 3,
   "titre": "Le chasseur",
-  "statut": "BROUILLON — à relire et modifier avant toute génération",
+  "statut": "BROUILLON — sera redécoupé à partir de manuscrits/ep03_le_chasseur.md une fois le manuscrit validé",
   "cases": [
     {
       "id": "case_01",
@@ -367,7 +367,7 @@
       "espace_apres_px": 200,
       "source": {
         "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
-        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.",
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge d'Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.",
         "note": "Inversion : dans le livre, on donne le mouchoir à Wolfram pour la traquer ; ici c'est elle qui le lui donne."
       }
     },
@@ -383,7 +383,7 @@
       "espace_apres_px": 150,
       "source": {
         "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
-        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.",
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge d'Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.",
         "note": "Inversion : dans le livre, on donne le mouchoir à Wolfram pour la traquer ; ici c'est elle qui le lui donne."
       }
     },
@@ -406,7 +406,7 @@
       "espace_apres_px": 500,
       "source": {
         "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
-        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.",
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge d'Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.",
         "note": "Inversion : dans le livre, on donne le mouchoir à Wolfram pour la traquer ; ici c'est elle qui le lui donne."
       }
     },
@@ -928,7 +928,7 @@
       "espace_apres_px": 150,
       "source": {
         "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
-        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur."
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge d'Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur."
       }
     },
     {
@@ -949,7 +949,7 @@
       "espace_apres_px": 200,
       "source": {
         "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
-        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur."
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre de l'Ordre, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge d'Eldenheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur."
       }
     },
     {
@@ -1049,7 +1049,7 @@
         {
           "personnage": "Silhouette",
           "type": "dialogue",
-          "texte": "Alors, Vigilant ?",
+          "texte": "Alors, Veilleur ?",
           "intention": "Les silhouettes demandent son rapport."
         }
       ],

@@ -32,7 +32,8 @@ RULES = [
     ("accord", "que le Talabecland voterait", "que l'Eldwald voterait", 1),
     ("table", "*Talabecland, automne", "*Eldwald, automne", 1),
     ("accord", "dans la Talabec", "dans l'Elda", 1),
-    ("table", "Talabheim", "Eldenheim", 3),
+    ("accord", "de Talabheim", "d'Eldenheim", 1),
+    ("table", "Talabheim", "Eldenheim", 2),
     ("table", "Kreutzhofen", "Hollenhof", 2),
 
     # ── Nebelmark (Stirland, masc. → fém.) et la Nebel (la Stir) ──
