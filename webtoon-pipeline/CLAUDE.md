@@ -121,6 +121,20 @@ Chaque chapitre généré doit être sauvegardé dans `/output/json/chapitre_XX.
 }
 ```
 
+**Traçabilité obligatoire (source de chaque case) :**
+- Chaque case porte un champ `source` :
+  - soit `{"ref": "Livre I, ch. 1, § III. Le chasseur", "extrait": "<texte EXACT copié de source/livre_source.txt>", "note": "<écart ou transposition, optionnel>"}` (`extrait` peut être une liste de plusieurs passages) ;
+  - soit `{"invention": "<ce qui est inventé et pourquoi>"}` quand la case n'a pas d'appui dans le livre.
+- Chaque réplique porte un champ `intention` = la **passe 1** (ce que le personnage veut dire), à côté de `texte` = la **passe 2** (la réplique finale).
+- Les extraits sont **copiés, jamais réécrits** : `generate_webtoon.py` vérifie qu'ils existent mot pour mot dans le livre et signale toute case sans source.
+- `python scripts/relecture.py -c N` produit la version lisible avec, pour chaque case, l'extrait cité, l'intention et la réplique : c'est le document de travail pour améliorer le texte et la génération.
+
+Exemple :
+```json
+"source": {"ref": "Livre I, ch. 1, § III. Le chasseur", "extrait": "Il aurait pu la tuer dix fois."},
+"dialogues": [{"personnage": "Wolfram", "type": "dialogue", "intention": "Il veut qu'elle parte et oublie ce qu'elle a vu.", "texte": "Va-t'en."}]
+```
+
 Valeurs acceptées par le script :
 - `format` : tout ratio `L:H` (`9:16`, `4:5`, `1:1`, `3:4`, `16:9`…). L'image est générée à ~1 MP puis redimensionnée à 800px de large.
 - `transition_fond` : `noir`, `blanc`, `degrade_noir` (blanc → noir), `degrade_blanc` (noir → blanc).

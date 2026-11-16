@@ -18,7 +18,10 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 250
+      "espace_apres_px": 250,
+      "source": {
+        "invention": "Rencontre Ottilie / Wolfram blessé : inventée. Dans le livre, ils ne se rencontrent qu'à la chapelle, après l'incendie."
+      }
     },
     {
       "id": "case_02",
@@ -29,7 +32,10 @@
       "dialogues": [],
       "sfx": "GRRRR",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Rencontre Ottilie / Wolfram blessé : inventée. Dans le livre, ils ne se rencontrent qu'à la chapelle, après l'incendie."
+      }
     },
     {
       "id": "case_03",
@@ -40,7 +46,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Rencontre Ottilie / Wolfram blessé : inventée. Dans le livre, ils ne se rencontrent qu'à la chapelle, après l'incendie."
+      }
     },
     {
       "id": "case_04",
@@ -52,12 +61,16 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Moustache ! Couché."
+          "texte": "Moustache ! Couché.",
+          "intention": "Ottilie empêche le chien d'attaquer l'inconnu."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "invention": "Rencontre Ottilie / Wolfram blessé : inventée. Dans le livre, ils ne se rencontrent qu'à la chapelle, après l'incendie."
+      }
     },
     {
       "id": "case_05",
@@ -69,17 +82,22 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Va-t'en."
+          "texte": "Va-t'en.",
+          "intention": "Wolfram veut qu'elle parte et oublie ce qu'elle a vu."
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Vous saignez sur ma neige."
+          "texte": "Vous saignez sur ma neige.",
+          "intention": "Ottilie refuse de partir : il est blessé, et c'est sa forêt."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "invention": "Rencontre Ottilie / Wolfram blessé : inventée. Dans le livre, ils ne se rencontrent qu'à la chapelle, après l'incendie."
+      }
     },
     {
       "id": "case_06",
@@ -91,12 +109,16 @@
         {
           "personnage": "Ottilie",
           "type": "pensee",
-          "texte": "Pas des crocs. Une lame."
+          "texte": "Pas des crocs. Une lame.",
+          "intention": "Ottilie comprend que ce n'est pas un loup qui l'a blessé."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "invention": "Rencontre Ottilie / Wolfram blessé : inventée. Dans le livre, ils ne se rencontrent qu'à la chapelle, après l'incendie."
+      }
     },
     {
       "id": "case_07",
@@ -108,17 +130,22 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Un sanglier."
+          "texte": "Un sanglier.",
+          "intention": "Wolfram ment sur l'origine de sa blessure."
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Le sanglier de Matthias ? Il existe, alors."
+          "texte": "Le sanglier de Matthias ? Il existe, alors.",
+          "intention": "Ottilie ne le croit pas et se moque (rappel de l'ép. 2)."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Rencontre Ottilie / Wolfram blessé : inventée. Dans le livre, ils ne se rencontrent qu'à la chapelle, après l'incendie."
+      }
     },
     {
       "id": "case_08",
@@ -130,12 +157,16 @@
         {
           "personnage": "Wolfram",
           "type": "pensee",
-          "texte": "...La cadette."
+          "texte": "...La cadette.",
+          "intention": "Wolfram reconnaît la cible qu'on l'a envoyé vérifier."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 250
+      "espace_apres_px": 250,
+      "source": {
+        "invention": "Rencontre Ottilie / Wolfram blessé : inventée. Dans le livre, ils ne se rencontrent qu'à la chapelle, après l'incendie."
+      }
     },
     {
       "id": "case_09",
@@ -147,17 +178,22 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Ne me touche pas."
+          "texte": "Ne me touche pas.",
+          "intention": "Wolfram refuse qu'elle le soigne (il sait ce que ça révélerait)."
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Trop tard."
+          "texte": "Trop tard.",
+          "intention": "Ottilie passe outre."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 600
+      "espace_apres_px": 600,
+      "source": {
+        "invention": "Rencontre Ottilie / Wolfram blessé : inventée. Dans le livre, ils ne se rencontrent qu'à la chapelle, après l'incendie."
+      }
     },
     {
       "id": "case_10",
@@ -168,7 +204,15 @@
       "dialogues": [],
       "sfx": "fiiiin",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Elle le sentait. C'est ce qui l'intrigua d'abord. Elle n'avait aucun don, il en aurait juré, mais elle avait appris à vivre en proie, et les proies ont leur propre magie.",
+          "Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen."
+        ],
+        "note": "Le livre dit qu'elle « n'avait aucun don » ; le webtoon lui en donne un (ép. 1). Wolfram voit « du sang », pas un Courant."
+      }
     },
     {
       "id": "case_11",
@@ -179,7 +223,15 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Elle le sentait. C'est ce qui l'intrigua d'abord. Elle n'avait aucun don, il en aurait juré, mais elle avait appris à vivre en proie, et les proies ont leur propre magie.",
+          "Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen."
+        ],
+        "note": "Le livre dit qu'elle « n'avait aucun don » ; le webtoon lui en donne un (ép. 1). Wolfram voit « du sang », pas un Courant."
+      }
     },
     {
       "id": "case_12",
@@ -190,7 +242,15 @@
       "dialogues": [],
       "sfx": "VMMMMM",
       "transition_fond": "noir",
-      "espace_apres_px": 700
+      "espace_apres_px": 700,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Elle le sentait. C'est ce qui l'intrigua d'abord. Elle n'avait aucun don, il en aurait juré, mais elle avait appris à vivre en proie, et les proies ont leur propre magie.",
+          "Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen."
+        ],
+        "note": "Le livre dit qu'elle « n'avait aucun don » ; le webtoon lui en donne un (ép. 1). Wolfram voit « du sang », pas un Courant."
+      }
     },
     {
       "id": "case_13",
@@ -201,7 +261,15 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Elle le sentait. C'est ce qui l'intrigua d'abord. Elle n'avait aucun don, il en aurait juré, mais elle avait appris à vivre en proie, et les proies ont leur propre magie.",
+          "Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen."
+        ],
+        "note": "Le livre dit qu'elle « n'avait aucun don » ; le webtoon lui en donne un (ép. 1). Wolfram voit « du sang », pas un Courant."
+      }
     },
     {
       "id": "case_14",
@@ -212,7 +280,15 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Elle le sentait. C'est ce qui l'intrigua d'abord. Elle n'avait aucun don, il en aurait juré, mais elle avait appris à vivre en proie, et les proies ont leur propre magie.",
+          "Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen."
+        ],
+        "note": "Le livre dit qu'elle « n'avait aucun don » ; le webtoon lui en donne un (ép. 1). Wolfram voit « du sang », pas un Courant."
+      }
     },
     {
       "id": "case_15",
@@ -224,12 +300,21 @@
         {
           "personnage": "Ottilie",
           "type": "pensee",
-          "texte": "...Ta main paiera."
+          "texte": "...Ta main paiera.",
+          "intention": "Elle se souvient de l'avertissement de Brunhild : soigner a un prix."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 250
+      "espace_apres_px": 250,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Elle le sentait. C'est ce qui l'intrigua d'abord. Elle n'avait aucun don, il en aurait juré, mais elle avait appris à vivre en proie, et les proies ont leur propre magie.",
+          "Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen."
+        ],
+        "note": "Le livre dit qu'elle « n'avait aucun don » ; le webtoon lui en donne un (ép. 1). Wolfram voit « du sang », pas un Courant."
+      }
     },
     {
       "id": "case_16",
@@ -241,12 +326,21 @@
         {
           "personnage": "Wolfram",
           "type": "pensee",
-          "texte": "Pas un Courant... Du sang."
+          "texte": "Pas un Courant... Du sang.",
+          "intention": "Wolfram voit que son pouvoir vient du sang ottilien, pas de la magie apprise."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Elle le sentait. C'est ce qui l'intrigua d'abord. Elle n'avait aucun don, il en aurait juré, mais elle avait appris à vivre en proie, et les proies ont leur propre magie.",
+          "Une guérisseuse sans nom qui avait soigné un enfant à Kreutzhofen."
+        ],
+        "note": "Le livre dit qu'elle « n'avait aucun don » ; le webtoon lui en donne un (ép. 1). Wolfram voit « du sang », pas un Courant."
+      }
     },
     {
       "id": "case_17",
@@ -258,17 +352,24 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Qu'as-tu fait... ?"
+          "texte": "Qu'as-tu fait... ?",
+          "intention": "Wolfram : tu viens de te trahir devant celui qui te chasse."
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Vous respirez. Inutile de remercier."
+          "texte": "Vous respirez. Inutile de remercier.",
+          "intention": "Ottilie : je vous ai sauvé, c'est tout ce qui compte."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre du Collège, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Talabheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.",
+        "note": "Inversion : dans le livre, on donne le mouchoir à Wolfram pour la traquer ; ici c'est elle qui le lui donne."
+      }
     },
     {
       "id": "case_18",
@@ -279,7 +380,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre du Collège, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Talabheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.",
+        "note": "Inversion : dans le livre, on donne le mouchoir à Wolfram pour la traquer ; ici c'est elle qui le lui donne."
+      }
     },
     {
       "id": "case_19",
@@ -291,12 +397,18 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Brodé par ma tante. Rendez-le-moi."
+          "texte": "Brodé par ma tante. Rendez-le-moi.",
+          "intention": "Ottilie tient à ce mouchoir et veut le récupérer."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre du Collège, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Talabheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur.",
+        "note": "Inversion : dans le livre, on donne le mouchoir à Wolfram pour la traquer ; ici c'est elle qui le lui donne."
+      }
     },
     {
       "id": "case_20",
@@ -308,17 +420,22 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Votre nom ?"
+          "texte": "Votre nom ?",
+          "intention": "Ottilie veut savoir qui il est."
         },
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Non."
+          "texte": "Non.",
+          "intention": "Wolfram refuse de se nommer."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_21",
@@ -330,17 +447,22 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Père a vu vos traces. « Un loup », il a dit."
+          "texte": "Père a vu vos traces. « Un loup », il a dit.",
+          "intention": "Ottilie : mon père a vu vos traces et vous prend pour un loup."
         },
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Il a raison."
+          "texte": "Il a raison.",
+          "intention": "Wolfram admet qu'il est dangereux."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_22",
@@ -352,12 +474,16 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Et vos doigts ? ...La porte de la cuisine."
+          "texte": "Et vos doigts ? ...La porte de la cuisine.",
+          "intention": "Ottilie comprend que c'est lui qui a touché la porte bénie cette nuit."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_23",
@@ -368,7 +494,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 250
+      "espace_apres_px": 250,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_24",
@@ -380,17 +509,22 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Les portes de ma tante mordent."
+          "texte": "Les portes de ma tante mordent.",
+          "intention": "Les bénédictions de Gisela blessent ceux qui veulent du mal."
         },
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "J'ai seulement regardé."
+          "texte": "J'ai seulement regardé.",
+          "intention": "Wolfram se défend : il ne voulait pas entrer."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_25",
@@ -402,12 +536,16 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Regardé quoi ?"
+          "texte": "Regardé quoi ?",
+          "intention": "Ottilie veut savoir ce qu'il surveille."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_26",
@@ -418,7 +556,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_27",
@@ -430,12 +571,16 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Rentre. Ferme tes volets. Tous les soirs."
+          "texte": "Rentre. Ferme tes volets. Tous les soirs.",
+          "intention": "Wolfram la met en garde : danger de nuit, désormais."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_28",
@@ -447,12 +592,16 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Pourquoi ?"
+          "texte": "Pourquoi ?",
+          "intention": "Ottilie exige une explication."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_29",
@@ -464,12 +613,16 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "...Il y a d'autres loups."
+          "texte": "...Il y a d'autres loups.",
+          "intention": "Wolfram : d'autres que moi vous veulent du mal."
         }
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 250
+      "espace_apres_px": 250,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_30",
@@ -480,7 +633,10 @@
       "dialogues": [],
       "sfx": "fssshh",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_31",
@@ -491,7 +647,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_32",
@@ -503,12 +662,16 @@
         {
           "personnage": "Ottilie",
           "type": "pensee",
-          "texte": "...Voleur."
+          "texte": "...Voleur.",
+          "intention": "Ottilie constate qu'il est parti avec son mouchoir."
         }
       ],
       "sfx": "",
       "transition_fond": "degrade_noir",
-      "espace_apres_px": 700
+      "espace_apres_px": 700,
+      "source": {
+        "invention": "Dialogue du « loup » sous le chêne ; écho de « Pas un chien » (§ I) et du loup des traces (ép. 2)."
+      }
     },
     {
       "id": "case_33",
@@ -525,7 +688,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Un manoir de trente âmes brûlait sans un cri, comme si tout le monde dormait d'un sommeil qu'on leur avait donné.",
+        "note": "Dernier dîner avant l'incendie : on voit vivants ceux qui « brûleront sans un cri »."
+      }
     },
     {
       "id": "case_34",
@@ -537,17 +705,24 @@
         {
           "personnage": "Ruprecht",
           "type": "dialogue",
-          "texte": "D'où viens-tu ?"
+          "texte": "D'où viens-tu ?",
+          "intention": "Le baron demande où elle était."
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "De chez Brunhild."
+          "texte": "De chez Brunhild.",
+          "intention": "Ottilie ment."
         }
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Un manoir de trente âmes brûlait sans un cri, comme si tout le monde dormait d'un sommeil qu'on leur avait donné.",
+        "note": "Dernier dîner avant l'incendie : on voit vivants ceux qui « brûleront sans un cri »."
+      }
     },
     {
       "id": "case_35",
@@ -558,7 +733,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Un manoir de trente âmes brûlait sans un cri, comme si tout le monde dormait d'un sommeil qu'on leur avait donné.",
+        "note": "Dernier dîner avant l'incendie : on voit vivants ceux qui « brûleront sans un cri »."
+      }
     },
     {
       "id": "case_36",
@@ -569,7 +749,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Un manoir de trente âmes brûlait sans un cri, comme si tout le monde dormait d'un sommeil qu'on leur avait donné.",
+        "note": "Dernier dîner avant l'incendie : on voit vivants ceux qui « brûleront sans un cri »."
+      }
     },
     {
       "id": "case_37",
@@ -581,17 +766,24 @@
         {
           "personnage": "Matthias",
           "type": "dialogue",
-          "texte": "Énorme, je vous dis ! Un bœuf !"
+          "texte": "Énorme, je vous dis ! Un bœuf !",
+          "intention": "Matthias se vante encore de son sanglier."
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Je te crois."
+          "texte": "Je te crois.",
+          "intention": "Ottilie le croit, pour une fois (elle a vu « le sanglier »)."
         }
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Un manoir de trente âmes brûlait sans un cri, comme si tout le monde dormait d'un sommeil qu'on leur avait donné.",
+        "note": "Dernier dîner avant l'incendie : on voit vivants ceux qui « brûleront sans un cri »."
+      }
     },
     {
       "id": "case_38",
@@ -603,12 +795,18 @@
         {
           "personnage": "Matthias",
           "type": "dialogue",
-          "texte": "...Pardon ?"
+          "texte": "...Pardon ?",
+          "intention": "Matthias, stupéfait d'être cru."
         }
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Un manoir de trente âmes brûlait sans un cri, comme si tout le monde dormait d'un sommeil qu'on leur avait donné.",
+        "note": "Dernier dîner avant l'incendie : on voit vivants ceux qui « brûleront sans un cri »."
+      }
     },
     {
       "id": "case_39",
@@ -620,17 +818,24 @@
         {
           "personnage": "Gisela",
           "type": "dialogue",
-          "texte": "Qui ?"
+          "texte": "Qui ?",
+          "intention": "Gisela veut savoir qui l'a blessée."
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Personne."
+          "texte": "Personne.",
+          "intention": "Ottilie protège l'inconnu."
         }
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Un manoir de trente âmes brûlait sans un cri, comme si tout le monde dormait d'un sommeil qu'on leur avait donné.",
+        "note": "Dernier dîner avant l'incendie : on voit vivants ceux qui « brûleront sans un cri »."
+      }
     },
     {
       "id": "case_40",
@@ -642,12 +847,18 @@
         {
           "personnage": "Gisela",
           "type": "dialogue",
-          "texte": "Mes portes ont mordu, cette nuit."
+          "texte": "Mes portes ont mordu, cette nuit.",
+          "intention": "Gisela a senti que ses bénédictions ont repoussé quelqu'un."
         }
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Un manoir de trente âmes brûlait sans un cri, comme si tout le monde dormait d'un sommeil qu'on leur avait donné.",
+        "note": "Dernier dîner avant l'incendie : on voit vivants ceux qui « brûleront sans un cri »."
+      }
     },
     {
       "id": "case_41",
@@ -659,17 +870,24 @@
         {
           "personnage": "Gisela",
           "type": "dialogue",
-          "texte": "Ferme tes volets."
+          "texte": "Ferme tes volets.",
+          "intention": "Gisela lui donne le même ordre que l'inconnu."
         },
         {
           "personnage": "Ottilie",
           "type": "pensee",
-          "texte": "...Et de deux."
+          "texte": "...Et de deux.",
+          "intention": "Ottilie note que c'est le deuxième avertissement de la journée."
         }
       ],
       "sfx": "",
       "transition_fond": "degrade_noir",
-      "espace_apres_px": 800
+      "espace_apres_px": 800,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Un manoir de trente âmes brûlait sans un cri, comme si tout le monde dormait d'un sommeil qu'on leur avait donné.",
+        "note": "Dernier dîner avant l'incendie : on voit vivants ceux qui « brûleront sans un cri »."
+      }
     },
     {
       "id": "case_42",
@@ -686,7 +904,11 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": "Ulgu rendait les choses simples, c'était là son vice : les gens laissent des traces dans les ombres comme dans la boue."
+      }
     },
     {
       "id": "case_43",
@@ -703,7 +925,11 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre du Collège, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Talabheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur."
+      }
     },
     {
       "id": "case_44",
@@ -720,7 +946,11 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 200
+      "espace_apres_px": 200,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": "L'homme qui lui avait remis l'ordre, dans une pièce sans fenêtre du Collège, ne lui avait pas dit qui l'avait signé. Il lui avait dit seulement : *une femme, vingt ans, dernière d'une lignée qui ne doit pas continuer. Discrètement.* Puis il lui avait tendu un mouchoir brodé trouvé dans une auberge de Talabheim, et Wolfram avait compris qu'on lui demandait de tuer quelqu'un dont il connaissait déjà l'odeur."
+      }
     },
     {
       "id": "case_45",
@@ -732,12 +962,20 @@
         {
           "personnage": "Wolfram",
           "type": "pensee",
-          "texte": "Miel et cire."
+          "texte": "Miel et cire.",
+          "intention": "Wolfram reconnaît l'odeur de Brunhild sur le mouchoir."
         }
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Il aurait pu la tuer dix fois. Dans un grenier où elle dormait, la tête sur son sac. Sur une route déserte. Dans une auberge où elle mangeait seule, dos au mur, les yeux sur la porte.",
+          "Il ne le fit pas. Il se dit que c'était de la prudence. Il se dit qu'il voulait savoir si elle avait des complices. Il se dit beaucoup de choses."
+        ]
+      }
     },
     {
       "id": "case_46",
@@ -749,12 +987,20 @@
         {
           "personnage": "Wolfram",
           "type": "pensee",
-          "texte": "...Sans rien demander."
+          "texte": "...Sans rien demander.",
+          "intention": "Wolfram est troublé : elle l'a soigné sans rien demander en retour."
         }
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 250
+      "espace_apres_px": 250,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Il aurait pu la tuer dix fois. Dans un grenier où elle dormait, la tête sur son sac. Sur une route déserte. Dans une auberge où elle mangeait seule, dos au mur, les yeux sur la porte.",
+          "Il ne le fit pas. Il se dit que c'était de la prudence. Il se dit qu'il voulait savoir si elle avait des complices. Il se dit beaucoup de choses."
+        ]
+      }
     },
     {
       "id": "case_47",
@@ -765,7 +1011,14 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § III. Le chasseur",
+        "extrait": [
+          "Il aurait pu la tuer dix fois. Dans un grenier où elle dormait, la tête sur son sac. Sur une route déserte. Dans une auberge où elle mangeait seule, dos au mur, les yeux sur la porte.",
+          "Il ne le fit pas. Il se dit que c'était de la prudence. Il se dit qu'il voulait savoir si elle avait des complices. Il se dit beaucoup de choses."
+        ]
+      }
     },
     {
       "id": "case_48",
@@ -776,7 +1029,15 @@
       "dialogues": [],
       "sfx": "crr… crr…",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie et § IV. La pluie",
+        "extrait": [
+          "Et dans la lumière, à la lisière du parc, elle vit deux silhouettes immobiles qui regardaient, elles aussi. Elles ne portaient pas de seaux. Elles attendaient que ce soit fini.",
+          "Ce n'était pas une question. Il n'y était pas. Mais il connaissait ceux qui y étaient, et il ne répondit pas."
+        ],
+        "note": "Les deux silhouettes de l'incendie. Wolfram « n'y était pas », mais il les connaît."
+      }
     },
     {
       "id": "case_49",
@@ -788,12 +1049,21 @@
         {
           "personnage": "Silhouette",
           "type": "dialogue",
-          "texte": "Alors, Vigilant ?"
+          "texte": "Alors, Vigilant ?",
+          "intention": "Les silhouettes demandent son rapport."
         }
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie et § IV. La pluie",
+        "extrait": [
+          "Et dans la lumière, à la lisière du parc, elle vit deux silhouettes immobiles qui regardaient, elles aussi. Elles ne portaient pas de seaux. Elles attendaient que ce soit fini.",
+          "Ce n'était pas une question. Il n'y était pas. Mais il connaissait ceux qui y étaient, et il ne répondit pas."
+        ],
+        "note": "Les deux silhouettes de l'incendie. Wolfram « n'y était pas », mais il les connaît."
+      }
     },
     {
       "id": "case_50",
@@ -805,12 +1075,21 @@
         {
           "personnage": "Silhouette",
           "type": "dialogue",
-          "texte": "La cadette. C'est elle ?"
+          "texte": "La cadette. C'est elle ?",
+          "intention": "Est-ce bien elle qui porte le sang ?"
         }
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 250
+      "espace_apres_px": 250,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie et § IV. La pluie",
+        "extrait": [
+          "Et dans la lumière, à la lisière du parc, elle vit deux silhouettes immobiles qui regardaient, elles aussi. Elles ne portaient pas de seaux. Elles attendaient que ce soit fini.",
+          "Ce n'était pas une question. Il n'y était pas. Mais il connaissait ceux qui y étaient, et il ne répondit pas."
+        ],
+        "note": "Les deux silhouettes de l'incendie. Wolfram « n'y était pas », mais il les connaît."
+      }
     },
     {
       "id": "case_51",
@@ -821,7 +1100,15 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie et § IV. La pluie",
+        "extrait": [
+          "Et dans la lumière, à la lisière du parc, elle vit deux silhouettes immobiles qui regardaient, elles aussi. Elles ne portaient pas de seaux. Elles attendaient que ce soit fini.",
+          "Ce n'était pas une question. Il n'y était pas. Mais il connaissait ceux qui y étaient, et il ne répondit pas."
+        ],
+        "note": "Les deux silhouettes de l'incendie. Wolfram « n'y était pas », mais il les connaît."
+      }
     },
     {
       "id": "case_52",
@@ -832,7 +1119,15 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie et § IV. La pluie",
+        "extrait": [
+          "Et dans la lumière, à la lisière du parc, elle vit deux silhouettes immobiles qui regardaient, elles aussi. Elles ne portaient pas de seaux. Elles attendaient que ce soit fini.",
+          "Ce n'était pas une question. Il n'y était pas. Mais il connaissait ceux qui y étaient, et il ne répondit pas."
+        ],
+        "note": "Les deux silhouettes de l'incendie. Wolfram « n'y était pas », mais il les connaît."
+      }
     },
     {
       "id": "case_53",
@@ -854,7 +1149,15 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I et § IV",
+        "extrait": [
+          "Et dans la lumière, à la lisière du parc, elle vit deux silhouettes immobiles qui regardaient, elles aussi. Elles ne portaient pas de seaux. Elles attendaient que ce soit fini.",
+          "Ce n'était pas une question. Il n'y était pas. Mais il connaissait ceux qui y étaient, et il ne répondit pas."
+        ],
+        "note": "La réponse de Wolfram n'est pas dans le livre : question ouverte pour l'auteur."
+      }
     }
   ]
 }

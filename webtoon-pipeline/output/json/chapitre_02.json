@@ -23,7 +23,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "La lettre « en main propre » = une des lettres que le père renvoie."
+      }
     },
     {
       "id": "case_02",
@@ -59,7 +64,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "La lettre « en main propre » = une des lettres que le père renvoie."
+      }
     },
     {
       "id": "case_03",
@@ -70,7 +80,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "La lettre « en main propre » = une des lettres que le père renvoie."
+      }
     },
     {
       "id": "case_04",
@@ -81,7 +96,12 @@
       "dialogues": [],
       "sfx": "clop… clop…",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "La lettre « en main propre » = une des lettres que le père renvoie."
+      }
     },
     {
       "id": "case_05",
@@ -105,7 +125,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_06",
@@ -141,7 +166,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_07",
@@ -165,7 +195,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_08",
@@ -189,7 +224,12 @@
       ],
       "sfx": "tink",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_09",
@@ -200,7 +240,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_10",
@@ -211,7 +256,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_11",
@@ -222,7 +272,12 @@
       "dialogues": [],
       "sfx": "FWOOSH",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_12",
@@ -233,7 +288,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_13",
@@ -257,7 +317,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_14",
@@ -293,7 +358,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_15",
@@ -317,7 +387,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_16",
@@ -328,7 +403,12 @@
       "dialogues": [],
       "sfx": "crunch",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+        "note": "Le livre : « Il les avait toujours renvoyés ». Le webtoon : il la brûle sans l'ouvrir."
+      }
     },
     {
       "id": "case_17",
@@ -364,7 +444,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_18",
@@ -375,7 +460,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_19",
@@ -386,7 +476,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_20",
@@ -410,7 +505,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_21",
@@ -432,7 +532,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_22",
@@ -480,7 +585,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_23",
@@ -504,7 +614,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_24",
@@ -540,7 +655,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_25",
@@ -551,7 +671,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_26",
@@ -575,7 +700,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_27",
@@ -599,7 +729,12 @@
       ],
       "sfx": "tink tink",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_28",
@@ -610,7 +745,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer.",
+        "note": "Divergence : dans le livre c'est le père qui parle du sang, à 16 ans ; ici c'est Gisela, et le sceau au tilleul couronné est inventé."
+      }
     },
     {
       "id": "case_29",
@@ -634,7 +774,10 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Gisela bénit les portes (sceaux des Sept) : magie domestique inventée."
+      }
     },
     {
       "id": "case_30",
@@ -645,7 +788,10 @@
       "dialogues": [],
       "sfx": "vmm…",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Gisela bénit les portes (sceaux des Sept) : magie domestique inventée."
+      }
     },
     {
       "id": "case_31",
@@ -667,7 +813,10 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "invention": "Gisela bénit les portes (sceaux des Sept) : magie domestique inventée."
+      }
     },
     {
       "id": "case_32",
@@ -678,7 +827,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_33",
@@ -689,7 +841,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_34",
@@ -700,7 +855,10 @@
       "dialogues": [],
       "sfx": "grrr…",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_35",
@@ -711,7 +869,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_36",
@@ -722,7 +883,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_37",
@@ -733,7 +897,10 @@
       "dialogues": [],
       "sfx": "VMMM ! / tss",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_38",
@@ -757,7 +924,10 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_39",
@@ -781,7 +951,10 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_40",
@@ -792,7 +965,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_41",
@@ -803,7 +979,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_42",
@@ -814,7 +993,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "degrade_blanc",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "invention": "Nuit : l'homme gris (Wolfram) rôde au manoir et se brûle à la porte bénie. Préparation de « Il n'y était pas. Mais il connaissait ceux qui y étaient. »"
+      }
     },
     {
       "id": "case_43",
@@ -848,7 +1030,10 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
+      }
     },
     {
       "id": "case_44",
@@ -882,7 +1067,10 @@
       ],
       "sfx": "frrsh",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
+      }
     },
     {
       "id": "case_45",
@@ -893,7 +1081,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
+      }
     },
     {
       "id": "case_46",
@@ -917,7 +1108,10 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
+      }
     },
     {
       "id": "case_47",
@@ -928,7 +1122,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
+      }
     },
     {
       "id": "case_48",
@@ -939,7 +1136,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
+      }
     },
     {
       "id": "case_49",
@@ -950,7 +1150,10 @@
       "dialogues": [],
       "sfx": "grrr",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
+      }
     },
     {
       "id": "case_50",
@@ -961,7 +1164,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
+      }
     },
     {
       "id": "case_51",
@@ -985,7 +1191,10 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
+      }
     }
   ]
 }

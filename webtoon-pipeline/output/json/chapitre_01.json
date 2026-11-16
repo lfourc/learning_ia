@@ -12,7 +12,10 @@
       "dialogues": [],
       "sfx": "plic",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Ouverture : quelqu'un prépare « un cadeau » (le sceau de l'ép. 2). Annonce des « lettres » du père."
+      }
     },
     {
       "id": "case_02",
@@ -23,7 +26,10 @@
       "dialogues": [],
       "sfx": "tchk",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Ouverture : quelqu'un prépare « un cadeau » (le sceau de l'ép. 2). Annonce des « lettres » du père."
+      }
     },
     {
       "id": "case_03",
@@ -45,7 +51,10 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "invention": "Ouverture : quelqu'un prépare « un cadeau » (le sceau de l'ép. 2). Annonce des « lettres » du père."
+      }
     },
     {
       "id": "case_04",
@@ -67,7 +76,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée.",
+        "note": "Transposé : Talabecland → Eldwald, 2491 → 790."
+      }
     },
     {
       "id": "case_05",
@@ -89,7 +103,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée.",
+        "note": "Transposé : Talabecland → Eldwald, 2491 → 790."
+      }
     },
     {
       "id": "case_06",
@@ -111,7 +130,12 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée.",
+        "note": "Transposé : Talabecland → Eldwald, 2491 → 790."
+      }
     },
     {
       "id": "case_07",
@@ -133,7 +157,12 @@
       ],
       "sfx": "",
       "transition_fond": "degrade_blanc",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée.",
+        "note": "Transposé : Talabecland → Eldwald, 2491 → 790."
+      }
     },
     {
       "id": "case_08",
@@ -155,7 +184,10 @@
       ],
       "sfx": "pof… pof…",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_09",
@@ -191,7 +223,10 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_10",
@@ -225,7 +260,10 @@
       ],
       "sfx": "crounch",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_11",
@@ -247,7 +285,10 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_12",
@@ -258,7 +299,10 @@
       "dialogues": [],
       "sfx": "tink… tink…",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_13",
@@ -303,7 +347,10 @@
       ],
       "sfx": "frrt",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_14",
@@ -327,7 +374,10 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_15",
@@ -351,7 +401,10 @@
       ],
       "sfx": "tic",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_16",
@@ -387,7 +440,10 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_17",
@@ -409,7 +465,10 @@
       ],
       "sfx": "fwip",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "La matinée au manoir : présentation d'Ottilie, Mathilde, Gisela, Moustache. Le livre ne nomme que le père, Matthias et « sa tante »."
+      }
     },
     {
       "id": "case_18",
@@ -420,7 +479,11 @@
       "dialogues": [],
       "sfx": "griiii",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée."
+      }
     },
     {
       "id": "case_19",
@@ -444,7 +507,11 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée."
+      }
     },
     {
       "id": "case_20",
@@ -466,7 +533,11 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée."
+      }
     },
     {
       "id": "case_21",
@@ -490,7 +561,11 @@
       ],
       "sfx": "bzzzzz",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée."
+      }
     },
     {
       "id": "case_22",
@@ -501,7 +576,11 @@
       "dialogues": [],
       "sfx": "pfff",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "La forêt était si vieille qu'on disait qu'elle se souvenait. Ottilie l'avait toujours aimée pour cela : on pouvait y marcher des heures sans croiser un chemin, et revenir le soir avec de la mousse dans les cheveux et l'impression d'avoir été écoutée."
+      }
     },
     {
       "id": "case_23",
@@ -512,7 +591,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_24",
@@ -534,7 +618,12 @@
       ],
       "sfx": "bzz bzz",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_25",
@@ -570,7 +659,12 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_26",
@@ -605,7 +699,12 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_27",
@@ -653,7 +752,12 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_28",
@@ -664,7 +768,12 @@
       "dialogues": [],
       "sfx": "fiiiin",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_29",
@@ -675,7 +784,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_30",
@@ -686,7 +800,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_31",
@@ -734,7 +853,12 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_32",
@@ -770,7 +894,12 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_33",
@@ -806,7 +935,12 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_34",
@@ -817,7 +951,12 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § I. L'incendie",
+        "extrait": "Ce soir-là, elle était restée trop tard chez la vieille Brunhild, qui gardait les ruches à la lisière, deux lieues au nord du manoir. Elles avaient parlé de cire, de fièvres d'automne et de rien.",
+        "note": "Le livre ne dit rien du don de guérison d'Ottilie ni de la magie de Brunhild : invention du webtoon."
+      }
     },
     {
       "id": "case_35",
@@ -828,7 +967,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_36",
@@ -852,7 +994,10 @@
       ],
       "sfx": "WOUF !",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_37",
@@ -863,7 +1008,10 @@
       "dialogues": [],
       "sfx": "flop",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_38",
@@ -874,7 +1022,10 @@
       "dialogues": [],
       "sfx": "BZZZZZZZZ",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_39",
@@ -885,7 +1036,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_40",
@@ -907,7 +1061,10 @@
       ],
       "sfx": "tap tap tap",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_41",
@@ -931,7 +1088,10 @@
       ],
       "sfx": "flap flap",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_42",
@@ -942,7 +1102,10 @@
       "dialogues": [],
       "sfx": "KWAAK",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_43",
@@ -966,7 +1129,10 @@
       ],
       "sfx": "CLAC ! CLAC !",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_44",
@@ -977,7 +1143,10 @@
       "dialogues": [],
       "sfx": "POUF",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_45",
@@ -988,7 +1157,10 @@
       "dialogues": [],
       "sfx": "BZZZZ…",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_46",
@@ -1012,7 +1184,10 @@
       ],
       "sfx": "",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_47",
@@ -1058,7 +1233,10 @@
       ],
       "sfx": "",
       "transition_fond": "degrade_noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "invention": "Les abeilles en fuite dans le village : séquence comique inventée."
+      }
     },
     {
       "id": "case_48",
@@ -1080,7 +1258,10 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_49",
@@ -1091,7 +1272,10 @@
       "dialogues": [],
       "sfx": "…",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_50",
@@ -1102,7 +1286,10 @@
       "dialogues": [],
       "sfx": "vvvvmmmm",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_51",
@@ -1113,7 +1300,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_52",
@@ -1124,7 +1314,10 @@
       "dialogues": [],
       "sfx": "sniff",
       "transition_fond": "degrade_blanc",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_53",
@@ -1148,7 +1341,10 @@
       ],
       "sfx": "kaï",
       "transition_fond": "blanc",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_54",
@@ -1159,7 +1355,10 @@
       "dialogues": [],
       "sfx": "",
       "transition_fond": "degrade_noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_55",
@@ -1195,7 +1394,10 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_56",
@@ -1243,7 +1445,10 @@
       ],
       "sfx": "pffff",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_57",
@@ -1289,7 +1494,10 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_58",
@@ -1325,7 +1533,10 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "invention": "Brunhild rappelle les abeilles de loin, sa magie, « Ce que tu as vu, tu ne l'as pas vu »."
+      }
     },
     {
       "id": "case_59",
@@ -1347,7 +1558,15 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": [
+          "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+          "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer."
+        ],
+        "note": "Le webtoon montre l'autre camp : on apprend qu'Ottilie soigne, donc que « le sang n'est pas éteint »."
+      }
     },
     {
       "id": "case_60",
@@ -1393,7 +1612,15 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": [
+          "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+          "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer."
+        ],
+        "note": "Le webtoon montre l'autre camp : on apprend qu'Ottilie soigne, donc que « le sang n'est pas éteint »."
+      }
     },
     {
       "id": "case_61",
@@ -1415,7 +1642,15 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 500
+      "espace_apres_px": 500,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": [
+          "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+          "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer."
+        ],
+        "note": "Le webtoon montre l'autre camp : on apprend qu'Ottilie soigne, donc que « le sang n'est pas éteint »."
+      }
     },
     {
       "id": "case_62",
@@ -1437,7 +1672,15 @@
       ],
       "sfx": "",
       "transition_fond": "noir",
-      "espace_apres_px": 150
+      "espace_apres_px": 150,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": [
+          "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+          "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer."
+        ],
+        "note": "Le webtoon montre l'autre camp : on apprend qu'Ottilie soigne, donc que « le sang n'est pas éteint »."
+      }
     },
     {
       "id": "case_63",
@@ -1448,7 +1691,15 @@
       "dialogues": [],
       "sfx": "pssh",
       "transition_fond": "noir",
-      "espace_apres_px": 900
+      "espace_apres_px": 900,
+      "source": {
+        "ref": "Livre I, ch. 1 « Le chasseur et la survivante », § II. L'année des malheurs",
+        "extrait": [
+          "Il lui avait parlé aussi des hommes qui étaient venus, ces dernières années, avec leurs lettres et leurs rêves de Talabecland libre. Il les avait toujours renvoyés. Ça n'avait pas suffi.",
+          "Son père lui avait parlé du sang, une seule fois, quand elle avait seize ans, à voix basse, comme d'une maladie de famille. Le vieux sang des Ottiliens, qu'on gardait sans le montrer."
+        ],
+        "note": "Le webtoon montre l'autre camp : on apprend qu'Ottilie soigne, donc que « le sang n'est pas éteint »."
+      }
     }
   ]
 }

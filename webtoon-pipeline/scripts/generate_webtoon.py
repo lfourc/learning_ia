@@ -90,9 +90,18 @@ def load_chapter(path: Path) -> dict:
     return data
 
 
+SOURCE_TXT = ROOT / "source" / "livre_source.txt"
+
+
+def _norm(t: str) -> str:
+    t = t.replace("’", "'").replace("\u00a0", " ").replace("*", "")
+    return re.sub(r"\s+", " ", t).strip()
+
+
 def validate_chapter(data: dict) -> list[str]:
     """Vérifie le schéma + les règles manhwa. Retourne la liste des avertissements."""
     warnings: list[str] = []
+    livre = _norm(SOURCE_TXT.read_text(encoding="utf-8")) if SOURCE_TXT.exists() else ""
     seen: set[str] = set()
     for i, case in enumerate(data["cases"]):
         cid = case.get("id") or f"<case #{i + 1}>"
@@ -113,6 +122,13 @@ def validate_chapter(data: dict) -> list[str]:
         gap = case.get("espace_apres_px", 200)
         if not isinstance(gap, int) or gap < 0:
             warnings.append(f"{cid} : espace_apres_px doit être un entier >= 0.")
+        src = case.get("source")
+        if not src:
+            warnings.append(f"{cid} : pas de 'source' (extrait du livre ou 'invention').")
+        elif isinstance(src, dict) and src.get("extrait") and livre:
+            for ext in (src["extrait"] if isinstance(src["extrait"], list) else [src["extrait"]]):
+                if _norm(ext) not in livre:
+                    warnings.append(f"{cid} : extrait introuvable mot pour mot dans le livre — « {ext[:40]}… »")
         ref = case.get("reference_image")
         if ref and not (REF_DIR / ref).exists():
             warnings.append(f"{cid} : image de référence absente ({REF_DIR / ref}).")
