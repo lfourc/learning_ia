@@ -124,6 +124,7 @@ Lorsque l'utilisateur te demande de créer ou mettre à jour `/scripts/generate_
 ```bash
 pip install -r requirements.txt
 cp .env.example .env            # puis renseigner FAL_KEY
+python scripts/relecture.py -c 1                        # version lisible du JSON (chapitre_01_relecture.md)
 python scripts/generate_webtoon.py -c 1 --dry-run          # gratuit : images factices, valide le rythme
 python scripts/generate_webtoon.py -c 1 --mode draft       # flux/schnell, ~0.003$/image
 python scripts/generate_webtoon.py -c 1 --mode final       # flux/dev, ou flux-pulid si reference_image
@@ -143,7 +144,7 @@ Ce pipeline est appliqué à **La Lame-Grise** (Konrad von Eichenwald, univers d
 - `codex/bibles/` — `bible_personnages.md` (apparence, âges, voix), `bible_decors.md` (lieux, script couleur), `tome0_fondations.md` (magie, dieux, histoire, rangs), `tome1_bestiaire.md`, `bible_univers.md` (transposition hors Warhammer : **ne jamais réutiliser les noms Warhammer** — Reikland, Sigmar, Morr, Ulgu… → voir la table de transposition), `kit_chatgpt.md`.
 - `codex/archives/` — anciens scripts (épisode 1 « La dernière journée », découpage ch. 1 du livre).
 - `output/json/chapitre_01.json` (Les abeilles de Brunhild, 63 cases) et `chapitre_02.json` (Le sceau, 51 cases) — épisodes **déjà publiés**, images finales dans `output/panels/chapitre_0X/final/`. Leurs prompts d'origine sont perdus (`image_prompt` vide) ; les bulles gardent leur position (`x,y,w` = coin et largeur en % de la case, `tx,ty` = pointe de la queue).
-- Prochain épisode : **épisode 3 « Le chasseur »** (`chapitre_03.json`).
+- Épisode 3 « Le chasseur » : brouillon dans `output/json/chapitre_03.json` (relecture : `chapitre_03_relecture.md`), en attente de validation par l'auteur.
 
 Règles propres à la série (priment sur la section 3 en cas de conflit) : jamais de croix chrétienne, crucifix ni fleur de lys ; ne jamais citer de titres de référence dans les prompts ; le Gris = brume grise translucide aux reflets argentés ; les objets récurrents (bague au tilleul couronné, sceau) ont une image de référence obligatoire ; ne pas redécrire les costumes quand une planche de référence est jointe.
 Images de référence : `codex/references/<id>_ref.jpg` (47 planches validées, reprises de l'artifact « Planches — Livre I » ; index dans `codex/references/INDEX.md`). Ex. `c1_ref.jpg` = Konrad, `L2_ref.jpg` = manoir d'Arnsfeld. Les `_v1`, `_v2` sont d'autres âges ou versions antérieures. Seul le faux copiste (`c12`) n'a pas encore de planche. Dans un JSON de chapitre : `"reference_image": "c1_ref.jpg"` active `flux-pulid` en mode final.
