@@ -49,11 +49,29 @@ Lorsque tu adaptes un extrait de `/source/livre_source.txt` en script de webtoon
 - **Effets visuels Manhwa :** Intègre `radial speed lines`, `motion blur`, `impact frames`, `glowing aura particles`, `dramatic rim lighting`, `high quality Korean webtoon art style, cel shaded, sharp lineart`.
 - **Décomposition de l'action :** Découpe toute attaque puissante en 3 micro-cases : 1. Préparation (gros plan œil/arme) -> 2. Exécution (mouvement flouté en diagonale) -> 3. Impact (case verticale haute avec onde de choc).
 
-### C. Dialogues Vivants & Économie de Mots
-- **Règle du « Show, Don't Tell » :** Supprime toute narration descriptive du livre source. Si l'image montre l'émotion ou l'action, coupe le dialogue de 50 %.
-- **Limite stricte :** **15 mots maximum par bulle**. Si une réplique est plus longue, divise-la en deux bulles distinctes sur la même case ou deux cases consécutives.
-- **Oralité & Sous-texte :** Utilise des phrases hachées, des interruptions (`—`), des hésitations (`...`). Applique strictement le **Profil Vocal** de chaque personnage défini dans `01_BIBLE_MONDE.md`.
-- **Typologie :** Distingue `dialogue` (bulle parlée), `pensee` (texte flottant/encadré interne), `cri` (bulle hérissée), et `sfx` (onomatopée visuelle intégrée à l'action, ex: *CRASH*, *FWOOSH*).
+### C. RÈGLES D'OR DES DIALOGUES (ANTI-ROBOT)
+Interdiction formelle d'écrire des dialogues littéraires, théâtraux ou explicatifs. Un personnage de webtoon ne fait jamais de phrases complètes quand il est sous pression.
+
+**1. Interdit (exemples de rejet) :**
+- ❌ *Trop poli / théâtral :* « Je ne m'attendais pas à te voir ici, Kael. Que viens-tu faire dans ce lieu ? »
+- ❌ *Explicatif (le personnage raconte ce qu'il fait) :* « Je vais concentrer mon énergie dans mon épée pour briser ta garde ! »
+- ❌ *Émotion nommée :* « Je ressens une profonde colère face à ta trahison ! »
+
+**2. Standard manhwa à la place :**
+- ✅ *Sec, sous-entendu, naturel :* « Kael... ? Qu'est-ce que tu fous là ? »
+- ✅ *Action pure (un bruit ou un mot) :* [SFX : CRACK] → « Crève. »
+- ✅ *Émotion montrée par le rythme :* « T'as vraiment osé... » / (case suivante, gros plan œil) / « ...espèce d'enfoiré. »
+
+**3. Méthode en 2 passes obligatoires, pour chaque réplique, avant d'écrire le JSON :**
+- **Passe 1 (Extraction) :** ce que le personnage veut dire selon le livre.
+- **Passe 2 (Charcutage) :** couper 60 % des mots. Supprimer les sujets (« Je », « Tu ») quand le contexte est évident. Oralité française réelle (« T'es », « Y a », « Fous », « Putain », « Sérieux ? »). Remplacer les explications par du sarcasme, des questions rhétoriques ou du silence (`...`).
+
+**Toujours valable :**
+- **Show, don't tell :** pas de narration descriptive reprise du livre ; si l'image montre l'émotion ou l'action, le texte disparaît.
+- **15 mots maximum par bulle** (viser 2 à 6). Une réplique longue = deux bulles ou deux cases.
+- **Profil vocal** de chaque personnage (`codex/bibles/bible_personnages.md`) : la grossièreté se dose selon le personnage, mais personne ne parle comme un livre.
+- **Typologie :** `dialogue` (bulle parlée), `pensee` (texte flottant/encadré interne), `cri` (bulle hérissée), `sfx` (onomatopée intégrée à l'action, ex. *CRASH*, *FWOOSH*), `narration` (encadré, à réduire au strict minimum).
+- `generate_webtoon.py` signale les tournures interdites détectables (émotion nommée, « je vais … pour … », bulles trop longues) : corriger avant de générer.
 
 ### D. Cohérence & Évolution du Codex
 - Avant de générer un chapitre, lis `/codex/01_BIBLE_MONDE.md` pour récupérer les tokens visuels exacts des personnages et des lieux.

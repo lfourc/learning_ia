@@ -13,7 +13,7 @@
         {
           "personnage": "",
           "type": "narration",
-          "texte": "La neige de la nuit n'avait pas recouvert le sang."
+          "texte": "La neige n'avait pas couvert le sang."
         }
       ],
       "sfx": "",
@@ -52,7 +52,7 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Moustache. Couché."
+          "texte": "Moustache ! Couché."
         }
       ],
       "sfx": "",
@@ -69,12 +69,12 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Pars. Tu ne m'as pas vu."
+          "texte": "...Dégage."
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Vous saignez dans ma forêt."
+          "texte": "Vous pissez le sang, là."
         }
       ],
       "sfx": "",
@@ -113,7 +113,7 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Le sanglier de Matthias existe, alors."
+          "texte": "Sérieux ? Le sanglier de Matthias ?"
         }
       ],
       "sfx": "",
@@ -130,7 +130,7 @@
         {
           "personnage": "Wolfram",
           "type": "pensee",
-          "texte": "La cadette d'Arnsfeld. Celle que je suis venu voir."
+          "texte": "...La cadette. Évidemment."
         }
       ],
       "sfx": "",
@@ -147,7 +147,7 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Ne me touche pas."
+          "texte": "Touche pas—"
         },
         {
           "personnage": "Ottilie",
@@ -224,7 +224,7 @@
         {
           "personnage": "Ottilie",
           "type": "pensee",
-          "texte": "« Ta main paiera ce que ton cœur a donné. »"
+          "texte": "...Ta main paiera."
         }
       ],
       "sfx": "",
@@ -241,7 +241,7 @@
         {
           "personnage": "Wolfram",
           "type": "pensee",
-          "texte": "Pas un Courant. Du sang."
+          "texte": "Pas un Courant... Du sang."
         }
       ],
       "sfx": "",
@@ -258,12 +258,12 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Tu ne sais pas ce que tu viens de faire."
+          "texte": "Qu'est-ce que t'as fait... ?"
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Si. Je vous ai évité de mourir bêtement."
+          "texte": "Vous êtes pas mort. De rien."
         }
       ],
       "sfx": "",
@@ -291,7 +291,7 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Il est brodé. Ne le perdez pas."
+          "texte": "Brodé main. Perdez-le pas."
         }
       ],
       "sfx": "",
@@ -313,7 +313,7 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Je n'en ai pas."
+          "texte": "Non."
         }
       ],
       "sfx": "",
@@ -330,12 +330,12 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Mon père dit que vous êtes un loup."
+          "texte": "Père a dit « un loup »."
         },
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Votre père a raison."
+          "texte": "Il a raison."
         }
       ],
       "sfx": "",
@@ -352,7 +352,7 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Et vos doigts ? La porte de la cuisine ?"
+          "texte": "Et ça ? ...La cuisine, hein ?"
         }
       ],
       "sfx": "",
@@ -380,12 +380,12 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Ma tante bénit les portes. Elles mordent ceux qui veulent du mal."
+          "texte": "Les portes de ma tante mordent."
         },
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Je voulais seulement regarder."
+          "texte": "J'ai juste regardé."
         }
       ],
       "sfx": "",
@@ -402,7 +402,7 @@
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Regarder quoi ?"
+          "texte": "Regardé quoi ?"
         }
       ],
       "sfx": "",
@@ -430,7 +430,7 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Rentre. Ferme les volets. Ce soir, et tous les soirs."
+          "texte": "Rentre. Volets fermés. Tous les soirs."
         }
       ],
       "sfx": "",
@@ -464,7 +464,7 @@
         {
           "personnage": "Wolfram",
           "type": "dialogue",
-          "texte": "Parce que je ne suis pas le seul loup."
+          "texte": "...Y a d'autres loups."
         }
       ],
       "sfx": "",
@@ -497,13 +497,13 @@
       "id": "case_32",
       "sequence": "C. Le loup",
       "format": "4:5",
-      "image_prompt": "Medium close-up, Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) sniffing the empty spot where the footprints end, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) looking at her own empty hands, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "image_prompt": "Medium close-up, Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) sniffing the empty spot where the footprints end, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) looking at her own empty hands and bare forearm, the embroidered handkerchief gone with him, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
       "reference_image": "c3_ref.jpg",
       "dialogues": [
         {
           "personnage": "Ottilie",
           "type": "pensee",
-          "texte": "… Il a gardé le mouchoir."
+          "texte": "...Voleur."
         }
       ],
       "sfx": "",
@@ -537,7 +537,7 @@
         {
           "personnage": "Ruprecht",
           "type": "dialogue",
-          "texte": "Tu étais où ?"
+          "texte": "T'étais où."
         },
         {
           "personnage": "Ottilie",
@@ -581,12 +581,12 @@
         {
           "personnage": "Matthias",
           "type": "dialogue",
-          "texte": "Je vous dis qu'il était énorme, ce sanglier !"
+          "texte": "Énorme, j'vous dis ! Comme ça !"
         },
         {
           "personnage": "Ottilie",
           "type": "dialogue",
-          "texte": "Je te crois."
+          "texte": "J'te crois."
         }
       ],
       "sfx": "",
@@ -603,7 +603,7 @@
         {
           "personnage": "Matthias",
           "type": "dialogue",
-          "texte": "… Tu me crois ?"
+          "texte": "...Pardon ?"
         }
       ],
       "sfx": "",
@@ -642,7 +642,7 @@
         {
           "personnage": "Gisela",
           "type": "dialogue",
-          "texte": "Les portes ont mordu, cette nuit. Je l'ai senti."
+          "texte": "Mes portes ont mordu. Cette nuit."
         }
       ],
       "sfx": "",
@@ -664,7 +664,7 @@
         {
           "personnage": "Ottilie",
           "type": "pensee",
-          "texte": "Deux fois dans la même journée."
+          "texte": "...Et de deux."
         }
       ],
       "sfx": "",
@@ -681,7 +681,7 @@
         {
           "personnage": "",
           "type": "narration",
-          "texte": "Sur la colline, à deux lieues du manoir."
+          "texte": "Sur la colline."
         }
       ],
       "sfx": "",
@@ -749,7 +749,7 @@
         {
           "personnage": "Wolfram",
           "type": "pensee",
-          "texte": "Elle m'a soigné. Sans savoir. Sans rien demander."
+          "texte": "...Sans rien demander."
         }
       ],
       "sfx": "",
@@ -805,7 +805,7 @@
         {
           "personnage": "Silhouette",
           "type": "dialogue",
-          "texte": "La cadette. C'est elle, oui ou non ?"
+          "texte": "La cadette. C'est elle ?"
         }
       ],
       "sfx": "",

@@ -56,6 +56,13 @@ COST_ESTIMATE = {"draft": 0.003, "final": 0.025, "final_ref": 0.033}
 COLORS = {"noir": (0, 0, 0), "blanc": (255, 255, 255)}
 VALID_TRANSITIONS = {"noir", "blanc", "degrade_noir", "degrade_blanc"}
 VALID_DIALOGUE_TYPES = {"dialogue", "pensee", "cri", "sfx", "narration"}
+# Tournures « robot » détectables (règles d'or des dialogues, CLAUDE.md § 3.C)
+ANTI_ROBOT = [
+    (r"\bje (ressens|me sens)\b|\bprofonde? (colère|tristesse|peur|haine|joie)\b", "émotion nommée"),
+    (r"\b(colère|tristesse|désespoir|rancœur|jalousie) (face|envers)\b", "émotion nommée"),
+    (r"\bje vais \w+ .{0,40}\bpour\b", "explicatif (le personnage raconte son action)"),
+    (r"\bje ne m'attendais pas\b|\bque viens-tu\b|\bdans ce lieu\b", "théâtral"),
+]
 
 
 def log(msg: str) -> None:
@@ -110,7 +117,13 @@ def validate_chapter(data: dict) -> list[str]:
         for d in case.get("dialogues", []) or []:
             if d.get("type") not in VALID_DIALOGUE_TYPES:
                 warnings.append(f"{cid} : type de dialogue '{d.get('type')}' inconnu.")
-            n = len(str(d.get("texte", "")).split())
+            txt = str(d.get("texte", ""))
+            if d.get("type") != "narration":
+                for pat, why in ANTI_ROBOT:
+                    if re.search(pat, txt, re.I):
+                        warnings.append(f"{cid} : dialogue « {txt[:40]}… » — {why}.")
+                        break
+            n = len(txt.split())
             if n > MAX_WORDS_PER_BUBBLE and d.get("type") != "narration":
                 warnings.append(
                     f"{cid} : bulle de {n} mots (> {MAX_WORDS_PER_BUBBLE}) — "
