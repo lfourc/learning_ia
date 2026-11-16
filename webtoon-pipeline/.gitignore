@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+# Images générées (lourdes) — retirer ces lignes pour les versionner
+output/panels/**/*.png
+output/strips/**/*.png
+output/strips/**/*.jpg
