@@ -1,0 +1,860 @@
+{
+  "chapitre": 3,
+  "titre": "Le chasseur",
+  "statut": "BROUILLON — à relire et modifier avant toute génération",
+  "cases": [
+    {
+      "id": "case_01",
+      "sequence": "A. L'homme dans la neige",
+      "format": "9:16",
+      "image_prompt": "Extreme high-angle shot looking straight down, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) slumped against a colossal oak trunk, a long red blood trail across the snow leading to him, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) and Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) small at the bottom of the frame, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, cold morning light, falling snowflakes, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "La neige de la nuit n'avait pas recouvert le sang."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 250
+    },
+    {
+      "id": "case_02",
+      "sequence": "A. L'homme dans la neige",
+      "format": "4:5",
+      "image_prompt": "Low-angle close shot, Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) with hackles raised and teeth bared, growling at the viewer, snow on its muzzle, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns blurred behind, dramatic rim lighting, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "moustache_ref.jpg",
+      "dialogues": [],
+      "sfx": "GRRRR",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_03",
+      "sequence": "A. L'homme dans la neige",
+      "format": "1:1",
+      "image_prompt": "Extreme close-up, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak)'s bloodied hand sliding through the snow toward a plain grey dagger, fingertips blackened as if burned, shallow depth of field, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_04",
+      "sequence": "A. L'homme dans la neige",
+      "format": "16:9",
+      "image_prompt": "Dutch angle, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) stepping between the growling hound and the wounded man, one arm stretched out to stop the dog, basket swinging, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, motion blur on the cloak, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Moustache. Couché."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_05",
+      "sequence": "A. L'homme dans la neige",
+      "format": "4:5",
+      "image_prompt": "Medium close-up from below, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) leaning against the oak, pale and sweating, glaring up through wet black hair, translucent grey mist with faint silver glints weakly rising from his shoulders, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "dialogue",
+          "texte": "Pars. Tu ne m'as pas vu."
+        },
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Vous saignez dans ma forêt."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_06",
+      "sequence": "A. L'homme dans la neige",
+      "format": "1:1",
+      "image_prompt": "Close-up of a torn grey cloak at a man's side, a deep clean gash under the ribs, blood freezing at the edges, snow crystals, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "pensee",
+          "texte": "Pas des crocs. Une lame."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_07",
+      "sequence": "A. L'homme dans la neige",
+      "format": "16:9",
+      "image_prompt": "Two-shot at eye level, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) crouching in the snow facing Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) against the oak, Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) lying down sulking behind her, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, soft cold light, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "dialogue",
+          "texte": "Un sanglier."
+        },
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Le sanglier de Matthias existe, alors."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_08",
+      "sequence": "A. L'homme dans la neige",
+      "format": "1:1",
+      "image_prompt": "Close-up on eyes, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak)'s pitch black eyes narrowing as he studies the young woman, a strand of black hair across his face, the corner of his mouth almost smiling, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "pensee",
+          "texte": "La cadette d'Arnsfeld. Celle que je suis venu voir."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 250
+    },
+    {
+      "id": "case_09",
+      "sequence": "A. L'homme dans la neige",
+      "format": "4:5",
+      "image_prompt": "Medium shot, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) kneeling and pulling off her glove with her teeth, determined, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) raising a hand to stop her, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "dialogue",
+          "texte": "Ne me touche pas."
+        },
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Trop tard."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 600
+    },
+    {
+      "id": "case_10",
+      "sequence": "B. La guérison",
+      "format": "1:1",
+      "image_prompt": "Extreme close-up, a young woman's bare hand hovering above a bleeding wound, tiny warm golden healing light, glowing aura particles gathering in her palm, breath vapor, cold blue surroundings, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [],
+      "sfx": "fiiiin",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_11",
+      "sequence": "B. La guérison",
+      "format": "4:5",
+      "image_prompt": "Dynamic foreshortening, diagonal composition, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak)'s palm pressed against the man's side, warm golden healing light, glowing aura particles pouring into the wound, translucent grey mist with faint silver glints recoiling from the light, radial speed lines, motion blur, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_12",
+      "sequence": "B. La guérison",
+      "format": "9:16",
+      "image_prompt": "Impact frame, tall vertical shot from directly above, a burst of warm golden healing light, glowing aura particles colliding with swirling translucent grey mist with faint silver glints around Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) and Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak), a shockwave rippling through the snow, snow blasted off the branches, dramatic rim lighting, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [],
+      "sfx": "VMMMMM",
+      "transition_fond": "noir",
+      "espace_apres_px": 700
+    },
+    {
+      "id": "case_13",
+      "sequence": "B. La guérison",
+      "format": "16:9",
+      "image_prompt": "Wide shot, silence after the blast, snow drifting down slowly from the bare branches onto Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) and Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) under the oak, both breathing hard, Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) staring with ears up, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_14",
+      "sequence": "B. La guérison",
+      "format": "1:1",
+      "image_prompt": "Close-up of a man's side under a torn grey cloak, the wound closed into a fresh pink scar, golden particles fading, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_15",
+      "sequence": "B. La guérison",
+      "format": "1:1",
+      "image_prompt": "Close-up of a young woman's palm turned up, red and blistered as if burned, steam rising in the cold air, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "pensee",
+          "texte": "« Ta main paiera ce que ton cœur a donné. »"
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 250
+    },
+    {
+      "id": "case_16",
+      "sequence": "B. La guérison",
+      "format": "4:5",
+      "image_prompt": "Close-up on eyes, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak)'s pitch black eyes reflecting a thin golden thread glowing around the young woman, second sight, translucent grey mist with faint silver glints in his irises, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "pensee",
+          "texte": "Pas un Courant. Du sang."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_17",
+      "sequence": "B. La guérison",
+      "format": "16:9",
+      "image_prompt": "Two-shot, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) grabbing Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak)'s wrist, tense, faces close, her chin raised, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "dialogue",
+          "texte": "Tu ne sais pas ce que tu viens de faire."
+        },
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Si. Je vous ai évité de mourir bêtement."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_18",
+      "sequence": "B. La guérison",
+      "format": "1:1",
+      "image_prompt": "Close-up of a young woman's hands wrapping a linen handkerchief embroidered with a small golden bee around a man's forearm, snow on the fabric, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_19",
+      "sequence": "B. La guérison",
+      "format": "4:5",
+      "image_prompt": "Medium close-up, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) tying the knot with a small stubborn smile, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Il est brodé. Ne le perdez pas."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_20",
+      "sequence": "C. Le loup",
+      "format": "16:9",
+      "image_prompt": "Over-the-shoulder shot from behind Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak), Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) sitting back on her heels in the snow facing him, Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) resting its head on her knee, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, pale sun through the branches, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Votre nom ?"
+        },
+        {
+          "personnage": "Wolfram",
+          "type": "dialogue",
+          "texte": "Je n'en ai pas."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_21",
+      "sequence": "C. Le loup",
+      "format": "4:5",
+      "image_prompt": "Medium close-up, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) tilting her head, half amused, half wary, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Mon père dit que vous êtes un loup."
+        },
+        {
+          "personnage": "Wolfram",
+          "type": "dialogue",
+          "texte": "Votre père a raison."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_22",
+      "sequence": "C. Le loup",
+      "format": "1:1",
+      "image_prompt": "Extreme close-up of a man's fingertips, burned black at the tips, a faint pattern of a stylized key and antlers seared into the skin, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Et vos doigts ? La porte de la cuisine ?"
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_23",
+      "sequence": "C. Le loup",
+      "format": "4:5",
+      "image_prompt": "Reaction shot, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) silent, looking away, jaw clenched, translucent grey mist with faint silver glints curling around his collar, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 250
+    },
+    {
+      "id": "case_24",
+      "sequence": "C. Le loup",
+      "format": "16:9",
+      "image_prompt": "Two-shot, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) leaning forward and speaking low, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) turning his gaze back to her, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Ma tante bénit les portes. Elles mordent ceux qui veulent du mal."
+        },
+        {
+          "personnage": "Wolfram",
+          "type": "dialogue",
+          "texte": "Je voulais seulement regarder."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_25",
+      "sequence": "C. Le loup",
+      "format": "4:5",
+      "image_prompt": "Close-up, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) frowning, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Regarder quoi ?"
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_26",
+      "sequence": "C. Le loup",
+      "format": "1:1",
+      "image_prompt": "Silent close-up, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) looking straight at her, unreadable, snow on his eyelashes, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_27",
+      "sequence": "C. Le loup",
+      "format": "9:16",
+      "image_prompt": "Extreme low-angle shot, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) rising to his full height against the oak, cloak unfolding, translucent grey mist with faint silver glints pouring from his shoulders, the young woman small at the bottom of the frame looking up, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "dialogue",
+          "texte": "Rentre. Ferme les volets. Ce soir, et tous les soirs."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_28",
+      "sequence": "C. Le loup",
+      "format": "4:5",
+      "image_prompt": "Medium shot, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) getting to her feet, defiant, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Pourquoi ?"
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_29",
+      "sequence": "C. Le loup",
+      "format": "1:1",
+      "image_prompt": "Close-up, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak)'s face half swallowed by the hood's shadow, only one black eye visible, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "dialogue",
+          "texte": "Parce que je ne suis pas le seul loup."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 250
+    },
+    {
+      "id": "case_30",
+      "sequence": "C. Le loup",
+      "format": "4:5",
+      "image_prompt": "Dynamic shot, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) stepping backward into a wall of translucent grey mist with faint silver glints, his outline dissolving into it, motion blur, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [],
+      "sfx": "fssshh",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_31",
+      "sequence": "C. Le loup",
+      "format": "16:9",
+      "image_prompt": "Wide shot, footprints in the snow that stop abruptly in the middle of nowhere, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) and Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) alone under the oak, the last wisps of mist fading, ancient primeval winter forest, colossal moss-covered oak trunks, deep fresh snow, frozen ferns, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "blanc",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_32",
+      "sequence": "C. Le loup",
+      "format": "4:5",
+      "image_prompt": "Medium close-up, Moustache (old shaggy grey-brown wirehaired hound with a worn leather collar) sniffing the empty spot where the footprints end, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) looking at her own empty hands, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ottilie",
+          "type": "pensee",
+          "texte": "… Il a gardé le mouchoir."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "degrade_noir",
+      "espace_apres_px": 700
+    },
+    {
+      "id": "case_33",
+      "sequence": "D. Le manoir",
+      "format": "16:9",
+      "image_prompt": "Wide establishing shot at dusk, pale stone noble manor with half-timbered upper floors and a low crenellated wall, green banner with a silver linden tree under snow, every window glowing warm, blue evening, smoke from the chimneys, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Ce soir-là, Ottilie ne dit rien."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_34",
+      "sequence": "D. Le manoir",
+      "format": "16:9",
+      "image_prompt": "Medium shot, great hall of the manor, long oak table, huge stone fireplace, a faded antique tapestry of a linden tree, family dinner in warm candlelight, Baron Ruprecht (tall upright nobleman about 52, short greying blond beard, tired blue eyes, dark green doublet with burgundy trim, silver chain with a linden tree pendant) at the head of the table looking at Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak), high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c17_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Ruprecht",
+          "type": "dialogue",
+          "texte": "Tu étais où ?"
+        },
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Chez Brunhild."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_35",
+      "sequence": "D. Le manoir",
+      "format": "1:1",
+      "image_prompt": "Close-up under the table, a young woman's hand wrapped in a cloth, hidden in the folds of a green gown, candlelight, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_36",
+      "sequence": "D. Le manoir",
+      "format": "1:1",
+      "image_prompt": "Extreme close-up, Gisela (sharp lean noblewoman about 50, greying blond hair in a tight bun under a simple veil, keen blue eyes, long burgundy gown, ring of household keys at her waist)'s keen eyes sliding sideways toward the hidden hand, one eyebrow slightly raised, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c19_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_37",
+      "sequence": "D. Le manoir",
+      "format": "4:5",
+      "image_prompt": "Medium shot, Matthias (athletic young nobleman about 24, tousled blond hair, easy grin, green coat with burgundy trim) gesturing wide with a chicken leg, telling a story, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c18_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Matthias",
+          "type": "dialogue",
+          "texte": "Je vous dis qu'il était énorme, ce sanglier !"
+        },
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Je te crois."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_38",
+      "sequence": "D. Le manoir",
+      "format": "1:1",
+      "image_prompt": "Comic close-up, Matthias (athletic young nobleman about 24, tousled blond hair, easy grin, green coat with burgundy trim) frozen mid-gesture, eyes wide, stunned, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c18_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Matthias",
+          "type": "dialogue",
+          "texte": "… Tu me crois ?"
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_39",
+      "sequence": "D. Le manoir",
+      "format": "4:5",
+      "image_prompt": "Night corridor of the manor lit by a single lantern, Gisela (sharp lean noblewoman about 50, greying blond hair in a tight bun under a simple veil, keen blue eyes, long burgundy gown, ring of household keys at her waist) catching Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak)'s wrist and unwrapping the cloth to reveal the burned palm, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c19_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Gisela",
+          "type": "dialogue",
+          "texte": "Qui ?"
+        },
+        {
+          "personnage": "Ottilie",
+          "type": "dialogue",
+          "texte": "Personne."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_40",
+      "sequence": "D. Le manoir",
+      "format": "1:1",
+      "image_prompt": "Close-up, Gisela (sharp lean noblewoman about 50, greying blond hair in a tight bun under a simple veil, keen blue eyes, long burgundy gown, ring of household keys at her waist)'s fingers on a carved wooden door sigil (anchor, key, antlers, open hand), the sigil glowing faintly gold at her touch, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c19_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Gisela",
+          "type": "dialogue",
+          "texte": "Les portes ont mordu, cette nuit. Je l'ai senti."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_41",
+      "sequence": "D. Le manoir",
+      "format": "4:5",
+      "image_prompt": "Medium close-up, Gisela (sharp lean noblewoman about 50, greying blond hair in a tight bun under a simple veil, keen blue eyes, long burgundy gown, ring of household keys at her waist) turning away down the corridor, lantern swinging, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak) left behind in shadow, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c19_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Gisela",
+          "type": "dialogue",
+          "texte": "Ferme tes volets."
+        },
+        {
+          "personnage": "Ottilie",
+          "type": "pensee",
+          "texte": "Deux fois dans la même journée."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "degrade_noir",
+      "espace_apres_px": 800
+    },
+    {
+      "id": "case_42",
+      "sequence": "E. Le chasseur",
+      "format": "16:9",
+      "image_prompt": "Wide night shot from a snowy hilltop, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) alone in translucent grey mist with faint silver glints, far below the warm windows of pale stone noble manor with half-timbered upper floors and a low crenellated wall, green banner with a silver linden tree, cold blue moonlight, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Sur la colline, à deux lieues du manoir."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_43",
+      "sequence": "E. Le chasseur",
+      "format": "1:1",
+      "image_prompt": "Close-up of gloved hands breaking a seal of grey wax stamped with an open grey hand, a folded order, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "L'ordre tenait en une ligne."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_44",
+      "sequence": "E. Le chasseur",
+      "format": "1:1",
+      "image_prompt": "Insert shot of an old parchment order with illegible handwriting, moonlight across it, a single drop of blood on the corner, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "« Vérifier si le sang vit encore. Rendre compte. »"
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 200
+    },
+    {
+      "id": "case_45",
+      "sequence": "E. Le chasseur",
+      "format": "4:5",
+      "image_prompt": "Medium close-up, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) unwinding the bee-embroidered handkerchief from his forearm and holding it to his face, eyes closed, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "pensee",
+          "texte": "Miel et cire."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_46",
+      "sequence": "E. Le chasseur",
+      "format": "16:9",
+      "image_prompt": "Memory panel in warm sepia gold, Ottilie (19-year-old noblewoman, long wavy blonde hair with a sprig of moss, clear blue eyes, light freckles, dark green wool gown with burgundy trim, burgundy hooded cloak)'s hand glowing with warm golden healing light, glowing aura particles over a wound, soft vignette, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c3_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "Wolfram",
+          "type": "pensee",
+          "texte": "Elle m'a soigné. Sans savoir. Sans rien demander."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 250
+    },
+    {
+      "id": "case_47",
+      "sequence": "E. Le chasseur",
+      "format": "1:1",
+      "image_prompt": "Close-up of a quill hovering above a blank report sheet, a drop of ink trembling at the tip, not yet falling, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 500
+    },
+    {
+      "id": "case_48",
+      "sequence": "E. Le chasseur",
+      "format": "4:5",
+      "image_prompt": "Close-up at snow level, two pairs of boot prints appearing silently in the snow beside Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak)'s boots, translucent grey mist with faint silver glints parting, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [],
+      "sfx": "crr… crr…",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_49",
+      "sequence": "E. Le chasseur",
+      "format": "16:9",
+      "image_prompt": "Dutch angle, two faceless figures in long dark grey hooded cloaks, faces lost in shadow standing behind Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) on the hilltop, utterly still, the manor lights tiny below, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "Silhouette",
+          "type": "dialogue",
+          "texte": "Alors, Vigilant ?"
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_50",
+      "sequence": "E. Le chasseur",
+      "format": "4:5",
+      "image_prompt": "Close-up of one hooded figure leaning in, only a thin pale mouth visible under the hood, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": null,
+      "dialogues": [
+        {
+          "personnage": "Silhouette",
+          "type": "dialogue",
+          "texte": "La cadette. C'est elle, oui ou non ?"
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 250
+    },
+    {
+      "id": "case_51",
+      "sequence": "E. Le chasseur",
+      "format": "1:1",
+      "image_prompt": "Extreme close-up, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak)'s pitch black eyes, translucent grey mist with faint silver glints rising across them, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 150
+    },
+    {
+      "id": "case_52",
+      "sequence": "E. Le chasseur",
+      "format": "1:1",
+      "image_prompt": "Close-up of a man's fist slowly closing around a bee-embroidered handkerchief, knuckles white, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    },
+    {
+      "id": "case_53",
+      "sequence": "E. Le chasseur",
+      "format": "9:16",
+      "image_prompt": "Cliffhanger, tall vertical shot from behind and below, Wolfram (lean man about 32, sun-tanned skin, hollow cheeks, shoulder-length messy black hair, short black stubble, pitch black eyes, ragged layered grey hooded cloak) turning his head toward the hooded figures, face cold and unreadable, the warm lit windows of pale stone noble manor with half-timbered upper floors and a low crenellated wall, green banner with a silver linden tree glowing far below in the dark snowy valley, translucent grey mist with faint silver glints swirling, dramatic rim lighting from the moon, high quality Korean webtoon art style, semi-realistic proportions, cel shaded, sharp clean lineart, hard-edged shadows, muted desaturated palette, dark low-fantasy late medieval setting, no text",
+      "reference_image": "c2_jeune_ref.jpg",
+      "dialogues": [
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Ce qu'il répondit cette nuit-là, il ne le dit jamais à personne."
+        },
+        {
+          "personnage": "",
+          "type": "narration",
+          "texte": "Trois jours plus tard, le manoir brûlait."
+        }
+      ],
+      "sfx": "",
+      "transition_fond": "noir",
+      "espace_apres_px": 900
+    }
+  ]
+}
