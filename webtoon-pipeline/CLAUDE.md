@@ -191,7 +191,9 @@ Sorties : `output/strips/chapitre_XX/planche_NN.png` + `planche_texte.txt` (dial
 ---
 
 ## 8. PROJET EN COURS : « LA LAME-GRISE »
-Le monde est travaillé dans le projet claude.ai « Jdr- Wagram et » et synchronisé ici par paquets (dernier : `claude/sync-2026-11-17.md`, 17/11/2026). **L'œuvre ne contient aucune référence à Warhammer** ; le jeu (JDR) reste en Warhammer, hors du studio.
+Le monde est travaillé dans le projet claude.ai « Jdr- Wagram et » et synchronisé ici par paquets (derniers : `claude/sync-2026-11-17.md` et `claude/sync-2026-11-17-v2.md` + `claude/correctif-episodes-2026-11-17.md`, 17/11/2026). **L'œuvre ne contient aucune référence à Warhammer** ; le jeu (JDR) reste en Warhammer, hors du studio.
+
+**Le préfixe d'un fichier ne donne pas le numéro d'épisode. Toujours vérifier `webtoon/episodes-references.md`.** (Ex. : les anciens fichiers `ep01-la-derniere-journee…` sont la base de l'**épisode 3**, pas de l'épisode 1.)
 
 **Lire en premier : `claude/index-du-projet.md`.** Il désigne, sujet par sujet, le document qui fait foi ; en cas de conflit, c'est lui qui tranche. En résumé :
 
@@ -205,6 +207,7 @@ Le monde est travaillé dans le projet claude.ai « Jdr- Wagram et » et synchro
 | Lieux | `campagne/bible-decors-livre-1.md` (v3) |
 | Noms (jeu → œuvre) | `campagne/bible-univers.md` (§ 1.4 : noms ajoutés dans le studio le 16/11) |
 | Numéros et contenu des épisodes (26) | `webtoon/saison-01-plan.md` (v6) |
+| **Quel fichier sert à quel épisode** | `webtoon/episodes-references.md` |
 | Couleurs de la magie à l'image (contrôle d'image) | `webtoon/monde-et-introduction.md` § 2.3 |
 | Magie en action, dialogues | `webtoon/action-et-dialogues.md`, `webtoon/bible-ecriture-webtoon.md` (modificateurs de prompt par voie) |
 | Ce qui reste à décider | `claude/decisions-ouvertes.md` |
@@ -221,7 +224,9 @@ Le monde est travaillé dans le projet claude.ai « Jdr- Wagram et » et synchro
 - `codex/01_BIBLE_MONDE.md` — tokens de prompt de 23 personnages et 19 lieux, dérivés des Planches (`codex/planches.json`, données brutes en vocabulaire de jeu). **Ne fait pas foi** : en cas d'écart, la bible visuelle et la bible des décors l'emportent.
 - Images de référence : `codex/references/<id>_ref.jpg` (47 planches validées + Wolfram jeune et Moustache repris des épisodes ; index `codex/references/INDEX.md`). Ex. `c1_ref.jpg` = Konrad, `L2_ref.jpg` = manoir d'Arnsfeld. `"reference_image": "c1_ref.jpg"` active `flux-pulid` en mode final. **Konrad n'a plus de cicatrice à la lèvre** (16/11) : vérifié le 17/11, `c1_ref.jpg` n'en montre pas ; ses tokens dans `01_BIBLE_MONDE.md` ont été corrigés.
 - Épisodes : `output/json/chapitre_01.json` (Les abeilles de Brunhild, 63 cases) et `chapitre_02.json` (Le sceau, 51 cases), **publiés**, images finales dans `output/panels/chapitre_0X/final/` ; prompts d'origine perdus (`image_prompt` vide) ; les bulles gardent leur position (`x,y,w` = coin et largeur en % de la case, `tx,ty` = pointe de la queue). À faire selon `webtoon/ep01-coda-et-ep02-plan.md` et `claude/decisions-ouvertes.md` : **la nouvelle page 18 de l'épisode 2** (Wolfram n'est plus blessé ; références : Ottilie, Moustache, page de style, **pas Wolfram**) et le relettrage de l'épisode 1 (cases 1.31 et 1.55, décision n° 1).
-- Prochain épisode : **épisode 3 « La dernière journée »** (automne 791 ; plan de saison v6), à partir de `ep01-la-derniere-journee-v2.md` (projet claude.ai, absent du paquet du 17/11) ; le script v1 est dans `codex/archives/ep01_la_derniere_journee_script.md`.
+- Épisode 2 : les cases 2.49 à 2.51 de `chapitre_02.json` (ancienne page 18, Wolfram blessé) sont **remplacées** (champ `statut`) ; nouvelle page 18 : pilote `output/pages/ep02/p18_high.png`, à valider.
+- **Épisode 3 « La dernière journée »** : test de production automatique dans `output/episodes/ep03/` (spécification `episode.json`, page montée `index.html`, publiée en artifact privé). Base : la v2 de l'ancien épisode 1 « La dernière journée » (images E1.xx de l'artifact du même nom, réutilisées), conformément à `webtoon/episodes-references.md` ; le fichier `ep03-base-ancien-ep01-la-derniere-journee.md` (ex-`ep01-la-derniere-journee-v2.md`) reste dans le projet claude.ai. Toute première version : `archives/ancien-ep01-la-derniere-journee-v1.md` ; ancien découpage : `archives/decoupage-ch01.md`.
+- Production automatique : `scripts/moteur_openai.py` (moteur de ChatGPT, clé injectée par la session) et `scripts/episode.py generer|monter <episode.json>` (génération en parallèle avec cache, recadrage, lettrage dans le gabarit `scripts/modele_episode.html` des épisodes publiés).
 - `archives/studio-2026-11-16/` : plan des fondations et brouillon « Le chasseur », remplacés par le paquet du 17/11.
 
 Règles propres à la série (priment sur la section 3 en cas de conflit) : jamais de croix chrétienne, crucifix ni fleur de lys ; ne jamais citer de titres de référence dans les prompts ; l'Ombre = brume grise translucide aux reflets argentés, et chaque voie a sa couleur (`webtoon/monde-et-introduction.md` § 2.3) ; les objets récurrents (bague au tilleul couronné, sceau) ont une image de référence obligatoire ; ne pas redécrire les costumes quand une planche de référence est jointe.

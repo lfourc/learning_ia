@@ -21,6 +21,7 @@
 | Les lieux | `campagne/bible-decors-livre-1.md` |
 | Les noms (passage du jeu à l'œuvre) | `campagne/bible-univers.md` |
 | La liste et les numéros des épisodes | `webtoon/saison-01-plan.md` |
+| Quel fichier sert à quel épisode | `webtoon/episodes-references.md` |
 | Ce qui reste à décider | `claude/decisions-ouvertes.md` |
 
 ## Pilotage (`claude/`)
@@ -59,12 +60,13 @@
 | `monde-et-introduction.md` | v2 : montrer le monde, langage visuel de la magie | à jour |
 | `fondamentaux-bd.md` | langage de la BD | travail (son bilan, § 9, porte sur l'ancien épisode 1, devenu l'épisode 3) |
 | `regles-lettrage.md` | bulles, encadrés, SFX | à jour |
+| `episodes-references.md` | quel fichier sert à quel épisode ; le préfixe `ep01` ne donne pas le numéro | **fait foi** |
 | `ep01-les-abeilles-de-brunhild.md` | script de l'épisode 1 (58 cases) | travail (ses notes d'échos citent d'anciens numéros : le plan de saison fait foi) |
 | `ep01-dialogues-v2.md` | dialogues montés de l'épisode 1 | **fait foi** pour le texte de l'épisode 1 |
 | `ep01-pages-prompts-chatgpt.md` | prompts des pages de l'épisode 1 | à jour |
 | `ep01-coda-et-ep02-plan.md` | v2 : coda de l'épisode 1, plan de l'épisode 2, nouvelle page 18 | à jour |
 | `ep02-pages-prompts-chatgpt.md` | prompts des pages de l'épisode 2 | travail (sa page 18 est remplacée par celle du plan) |
-| `ep01-la-derniere-journee-v2.md`, `ep01-v2-prompts-chatgpt.md` | ancien épisode 1 : la base du futur épisode 3 | travail |
+| `ep01-la-derniere-journee-v2.md`, `ep01-v2-prompts-chatgpt.md` | **ancien** épisode 1, malgré leur nom : la base du futur épisode 3 ; à renommer `ep03-base-…` | travail |
 | `ep01-la-derniere-journee.md` | première version du même épisode | archive |
 | `preparation-session-manhwa.md` | notes de préparation, reprises dans la bible d'écriture | archive |
 | `studio/automatisation-generation.md` | génération automatique sur l'ordinateur de Lyes | à jour |

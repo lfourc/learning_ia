@@ -1,7 +1,7 @@
 {
   "chapitre": 2,
   "titre": "Le sceau",
-  "note": "Importé du montage publié (images finales déjà générées). Les prompts d'origine n'étaient pas dans la page : image_prompt vide. Personnages des bulles à compléter.",
+  "note": "Importé du montage publié (images finales déjà générées). Les prompts d'origine n'étaient pas dans la page : image_prompt vide. Personnages des bulles à compléter. Les cases 2.49 à 2.51 (ancienne page 18) sont remplacées : voir webtoon/episodes-references.md. Carton de fin : « À suivre — Épisode 3 : La dernière journée ».",
   "cases": [
     {
       "id": "case_01",
@@ -1153,7 +1153,8 @@
       "espace_apres_px": 150,
       "source": {
         "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
-      }
+      },
+      "statut": "REMPLACÉE — ancienne page 18 (Wolfram blessé), annulée le 16/11 : à ne plus utiliser ni lettrer. Nouvelle page 18 « personne » : webtoon/ep01-coda-et-ep02-plan.md ; pilote généré dans output/pages/ep02/p18_high.png."
     },
     {
       "id": "case_50",
@@ -1167,7 +1168,8 @@
       "espace_apres_px": 500,
       "source": {
         "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
-      }
+      },
+      "statut": "REMPLACÉE — ancienne page 18 (Wolfram blessé), annulée le 16/11 : à ne plus utiliser ni lettrer. Nouvelle page 18 « personne » : webtoon/ep01-coda-et-ep02-plan.md ; pilote généré dans output/pages/ep02/p18_high.png."
     },
     {
       "id": "case_51",
@@ -1194,7 +1196,8 @@
       "espace_apres_px": 900,
       "source": {
         "invention": "Matin : les traces, « un loup », Ottilie suit le sang et trouve le blessé."
-      }
+      },
+      "statut": "REMPLACÉE — ancienne page 18 (Wolfram blessé), annulée le 16/11 : à ne plus utiliser ni lettrer. Nouvelle page 18 « personne » : webtoon/ep01-coda-et-ep02-plan.md ; pilote généré dans output/pages/ep02/p18_high.png."
     }
   ]
 }

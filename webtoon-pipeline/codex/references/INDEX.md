@@ -51,5 +51,5 @@ La version sans suffixe est la référence en vigueur.
 | `c21_ref.jpg` | Lorenz |
 | `c22_ref.jpg` | Mathilde la nourrice |
 | `c23_ref.jpg` | Comte Albrecht von Weissenau |
-| `c2_jeune_ref.jpg` | Wolfram à ~32 ans (an 790-791) — gros plan repris de l'épisode 2, case 2.51 |
+| `c2_jeune_ref.jpg` | Wolfram à ~30 ans (hiver 790) — gros plan sous la capuche, épisode 2, case 2.38 (la poterne). Remplace le 17/11 l'ancien recadrage de la case 2.51, qui venait de l'ancienne page 18 annulée. |
 | `moustache_ref.jpg` | Moustache, le vieux chien du baron — repris de l'épisode 1, case 1.11 |
