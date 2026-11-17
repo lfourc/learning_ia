@@ -6,8 +6,8 @@ La version sans suffixe est la référence en vigueur.
 |---|---|
 | `L1_ref.jpg` | Forêt d'Arnsfeld |
 | `L2_ref.jpg` | Manoir d'Arnsfeld |
-| `L3_ref.jpg` | Chapelle de Morr |
-| `L4_ref.jpg` | Bac sur la Stir |
+| `L3_ref.jpg` | Chapelle de la Gardienne |
+| `L4_ref.jpg` | Bac sur la Nebel |
 | `L5_ref.jpg` | Moosbach |
 | `L6_ref.jpg` | Maison de Mathilde |
 | `L7_ref.jpg` | Maison forte |
@@ -15,14 +15,14 @@ La version sans suffixe est la référence en vigueur.
 | `L9_ref.jpg` | Grande salle |
 | `L10_ref.jpg` | Le réduit |
 | `L11_ref.jpg` | Chapelle & bibliothèque |
-| `L12_ref.jpg` | La Stir en crue |
+| `L12_ref.jpg` | La Nebel en crue |
 | `L13_ref.jpg` | Clairière des chênes |
 | `L14_ref.jpg` | Torfmoor |
 | `L15_ref.jpg` | Auberge de relais |
-| `L16_ref.jpg` | Route du Reikland |
-| `L17_ref.jpg` | Col de la Dame Grise |
-| `L18_ref.jpg` | Parravon |
-| `L19_ref.jpg` | Chambre de Parravon |
+| `L16_ref.jpg` | Route du Kronland |
+| `L17_ref.jpg` | Col de la Dame Voilée |
+| `L18_ref.jpg` | Hautepierre |
+| `L19_ref.jpg` | Chambre de Hautepierre |
 | `c1_ref_v1.jpg` | Konrad von Eichenwald — « la Lame-Grise » (version antérieure / autre âge) |
 | `c1_ref_v2.jpg` | Konrad von Eichenwald — « la Lame-Grise » (version antérieure / autre âge) |
 | `c1_ref.jpg` | Konrad von Eichenwald — « la Lame-Grise » |
@@ -41,7 +41,7 @@ La version sans suffixe est la référence en vigueur.
 | `c10_ref.jpg` | Rüdiger |
 | `c11_ref.jpg` | Le faux copiste |
 | `c13_ref.jpg` | Brunhild |
-| `c14_ref.jpg` | Le vieux prêtre de Morr (Moosbach) |
+| `c14_ref.jpg` | Le vieux prêtre de la Gardienne (Moosbach) |
 | `c15_ref.jpg` | La femme du meunier |
 | `c16_ref.jpg` | Le rebouteux de Torfmoor |
 | `c17_ref.jpg` | Baron Ruprecht von Arnsfeld |

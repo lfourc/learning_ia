@@ -7,7 +7,7 @@ Rapport : source/transposition_rapport.md     (chaque remplacement, avec son con
 
 Les règles sont des expressions exactes, appliquées dans l'ordre, chacune avec le nombre
 d'occurrences attendu : si le texte original change, le script s'arrête au lieu de deviner.
-Table de référence : codex/bibles/bible_univers.md § 1.
+Table de référence : campagne/bible-univers.md § 1 (lieux, magie, dieux) et le Codex, codex/tome-0-fondations.md.
 """
 from pathlib import Path
 
@@ -74,20 +74,20 @@ RULES = [
     ("accord", "du Collège", "de l'Ordre", 1),
     ("accord", "au Collège", "à l'Ordre", 3),
     ("accord", "par le Collège", "par l'Ordre", 1),
-    ("courant", "C'est le vent qui t'a trouvé. Ulgu. Le Vent Gris, le vent des ombres",
-     "C'est le Courant qui t'a trouvé. Le Courant Gris, le Courant des ombres", 1),
-    ("courant", "un vent qu'on ne commande pas", "un Courant qu'on ne commande pas", 1),
-    ("courant", "Ulgu rendait les choses simples", "Le Courant Gris rendait les choses simples", 1),
-    ("courant", "ce qu'Ulgu peut faire", "ce que le Courant Gris peut faire", 1),
-    ("courant", "le Vent Gris ment aussi", "le Courant Gris ment aussi", 1),
-    ("courant", "Les huit vents, dit Wolfram.", "Les sept Courants, dit Wolfram.", 1),
-    ("courant", "Ne regarde pas les vents ici", "Ne regarde pas les Courants ici", 1),
-    ("courant", "aucun des huit", "aucun des sept", 1),
+    ("courant", "C'est le vent qui t'a trouvé. Ulgu. Le Vent Gris, le vent des ombres, des brumes et des mensonges. Il souffle partout, tout le temps, et presque personne ne le sent. Toi, tu le sens.",
+     "C'est l'Ombre qui t'a trouvé. L'Ombre, la voie des ombres, des brumes et des mensonges. Elle souffle partout, tout le temps, et presque personne ne la sent. Toi, tu la sens.", 1),
+    ("courant", "un vent qu'on ne commande pas", "une voie qu'on ne commande pas", 1),
+    ("courant", "Ulgu rendait les choses simples", "L'Ombre rendait les choses simples", 1),
+    ("courant", "ce qu'Ulgu peut faire", "ce que l'Ombre peut faire", 1),
+    ("courant", "le Vent Gris ment aussi", "l'Ombre ment aussi", 1),
+    ("courant", "Les huit vents, dit Wolfram.", "Le mana, dit Wolfram.", 1),
+    ("courant", "Ne regarde pas les vents ici", "Ne regarde pas les flux ici", 1),
+    ("courant", "aucun des huit", "aucun des autres flux", 1),
     ("courant", "Dhar, dit son oncle. Les vents mélangés et pourris.",
-     "La Lie, dit son oncle. Les Courants mélangés et pourris.", 1),
-    ("courant", "Il avait dû entendre le vent, comme Konrad.", "Il avait dû entendre le Courant, comme Konrad.", 1),
-    ("courant", "savait maintenant voir les vents", "savait maintenant voir les Courants", 1),
-    ("courant", "des diagrammes de vents", "des diagrammes de Courants", 1),
+     "L'Obscur, dit son oncle. L'énergie des démons.", 1),
+    ("courant", "Il avait dû entendre le vent, comme Konrad.", "Il avait dû sentir le mana, comme Konrad.", 1),
+    ("courant", "savait maintenant voir les vents", "savait maintenant voir les flux", 1),
+    ("courant", "des diagrammes de vents", "des diagrammes de flux", 1),
     ("accord", "— Le Magick. La langue des sorts.", "— La Langue Tordue. La langue des sorts.", 1),
     ("accord", "ressemblait à peine au Magick", "ressemblait à peine à la Langue Tordue", 1),
     ("accord", "de Magick et", "de Langue Tordue et", 1),
@@ -111,7 +111,8 @@ RULES = [
 INTERDITS = ["Talabec", "Talabheim", "Kreutzhofen", "Stirland", "la Stir", "Wurtbad", "Reikland", "Reik ", "Reikspiel",
              "Altdorf", "Sylvanie", "Montagnes Grises", "Dame Grise", "Bretonn", "bretonn", "Parravon", "pégase",
              "Sigmar", "Morr", "Ulgu", "Dhar", "Collège", "Magister", "Vigilant", "Magick", "Averland", "Middenland",
-             "Ubersreik", "Trois Empereurs", "comtes électeurs", "Vent Gris", "Ordre Gris"]
+             "Ubersreik", "Trois Empereurs", "comtes électeurs", "Vent Gris", "Ordre Gris",
+             "Courant", "la Lie", "Abîme", "Gisant"]
 
 
 def transposer(texte: str) -> str:
@@ -139,11 +140,11 @@ def main() -> None:
     DST.write_text(texte, encoding="utf-8")
 
     titres = {"table": "Noms de la table validée", "accord": "Noms avec accord grammatical ajusté",
-              "courant": "Magie : « vent » → « Courant » (le vent météo est conservé)",
+              "courant": "Magie : vocabulaire du Codex v5.2 (l'Ombre, le mana, les flux, l'Obscur) ; le vent météo est conservé",
               "proposition": "⚠️ Noms absents de la table — équivalents PROPOSÉS, à valider"}
     out = ["# Rapport de transposition du Livre I", "",
            "Seuls des noms ont été remplacés (et les accords qu'ils imposent). Texte original intact dans "
-           "`source/livre_source_warhammer.txt`. Table : `codex/bibles/bible_univers.md` § 1.", "",
+           "`source/livre_source_warhammer.txt`. Table : `campagne/bible-univers.md` § 1 et Codex v5.2.", "",
            f"**{sum(x[3] for x in log)} remplacements**, {len(log)} règles. "
            f"Termes Warhammer restants : {', '.join(restes) if restes else 'aucun'}.", ""]
     for cat in ("proposition", "courant", "accord", "table"):

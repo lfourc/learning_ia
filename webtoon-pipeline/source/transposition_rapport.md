@@ -1,6 +1,6 @@
 # Rapport de transposition du Livre I
 
-Seuls des noms ont été remplacés (et les accords qu'ils imposent). Texte original intact dans `source/livre_source_warhammer.txt`. Table : `codex/bibles/bible_univers.md` § 1.
+Seuls des noms ont été remplacés (et les accords qu'ils imposent). Texte original intact dans `source/livre_source_warhammer.txt`. Table : `campagne/bible-univers.md` § 1 et Codex v5.2.
 
 **126 remplacements**, 78 règles. Termes Warhammer restants : aucun.
 
@@ -16,22 +16,22 @@ Seuls des noms ont été remplacés (et les accords qu'ils imposent). Texte orig
 | les guerres de l'Âge des Trois Empereurs | les guerres du Schisme des Deux Couronnes | 1 | …ssait ses soirées. Il lut l'histoire des princes électeurs, les guerres de l'Âge des Trois Empereurs, les traités d'héraldique. Il chercha longtemps les armes d… |
 | Ubersreik | Rabenfels | 1 | …ravane partait vers l'est, vers le col de la Dame Voilée et Ubersreik : des marchands, quelques familles impériales qui rentraien… |
 
-## Magie : « vent » → « Courant » (le vent météo est conservé)
+## Magie : vocabulaire du Codex v5.2 (l'Ombre, le mana, les flux, l'Obscur) ; le vent météo est conservé
 
 | Avant | Après | Fois | Contexte (avant) |
 |---|---|---|---|
-| C'est le vent qui t'a trouvé. Ulgu. Le Vent Gris, le vent des ombres | C'est le Courant qui t'a trouvé. Le Courant Gris, le Courant des ombres | 1 | …ue tu as fait sur la Nebel, ce n'est pas toi qui l'as fait. C'est le vent qui t'a trouvé. Ulgu. Le Vent Gris, le vent des ombres, des brumes et des mensonges. Il souffle partout, tout le t… |
-| un vent qu'on ne commande pas | un Courant qu'on ne commande pas | 1 | … fait de toi quelqu'un en danger.  — Pourquoi ?  — Parce qu'un vent qu'on ne commande pas finit par vous commander. Et parce que l'Empire brûle ceux … |
-| Ulgu rendait les choses simples | Le Courant Gris rendait les choses simples | 1 | …dont il connaissait déjà l'odeur.  Il la suivit tout l'été. Ulgu rendait les choses simples, c'était là son vice : les gens laissent des traces dans le… |
-| ce qu'Ulgu peut faire | ce que le Courant Gris peut faire | 1 | …loin de Torfmoor, il parla enfin.  — Ce que tu as vu, c'est ce qu'Ulgu peut faire de toi si tu n'apprends pas. C'est aussi ce que je fais, de… |
-| le Vent Gris ment aussi | le Courant Gris ment aussi | 1 | …t dedans. Prends ton temps. Ne force rien. Souviens-toi que le Vent Gris ment aussi à ceux qui le servent.* > > *Ne retourne pas à Eichenwald. … |
-| Les huit vents, dit Wolfram. | Les sept Courants, dit Wolfram. | 1 | …re.  Il eut envie de pleurer, et il ne sut pas pourquoi.  — Les huit vents, dit Wolfram. Ce que tu vois là, les sorciers des Ordres passent des anné… |
-| Ne regarde pas les vents ici | Ne regarde pas les Courants ici | 1 | …is, comme des fleurs laissées trop longtemps dans l'eau.  — Ne regarde pas les vents ici, dit Wolfram à voix basse. Pas encore.  Konrad regarda quan… |
-| aucun des huit | aucun des sept | 1 | …utre chose : un courant noir, huileux, qui ne ressemblait à aucun des huit, et qui serpentait entre les maisons vers la tourbière comm… |
-| Dhar, dit son oncle. Les vents mélangés et pourris. | La Lie, dit son oncle. Les Courants mélangés et pourris. | 1 | …e. Il recula, et sentit la main de Wolfram sur sa nuque.  — Dhar, dit son oncle. Les vents mélangés et pourris. La magie noire. C'est ce que tu vois quand quelqu'un a voul… |
-| Il avait dû entendre le vent, comme Konrad. | Il avait dû entendre le Courant, comme Konrad. | 1 | …êtes et parlaient aux orages sans avoir jamais vu un Ordre. Il avait dû entendre le vent, comme Konrad. Et quelque chose, un jour, lui avait répondu.  Konrad ne ra… |
-| savait maintenant voir les vents | savait maintenant voir les Courants | 1 | …le ?  Wolfram regarda la bague sans la toucher. Konrad, qui savait maintenant voir les vents, vit l'ombre se resserrer autour de son oncle, comme quand … |
-| des diagrammes de vents | des diagrammes de Courants | 1 | …code que Konrad mit trois semaines à comprendre. Il y avait des diagrammes de vents, des remarques sur la respiration, des avertissements griff… |
+| C'est le vent qui t'a trouvé. Ulgu. Le Vent Gris, le vent des ombres, des brumes et des mensonges. Il souffle partout, tout le temps, et presque personne ne le sent. Toi, tu le sens. | C'est l'Ombre qui t'a trouvé. L'Ombre, la voie des ombres, des brumes et des mensonges. Elle souffle partout, tout le temps, et presque personne ne la sent. Toi, tu la sens. | 1 | …ue tu as fait sur la Nebel, ce n'est pas toi qui l'as fait. C'est le vent qui t'a trouvé. Ulgu. Le Vent Gris, le vent des ombres, des brumes et des mensonges. Il souffle partout, tout le temps, et presque personne ne le sent. Toi, tu le sens. Ça ne fait pas de toi quelqu'un de spécial. Ça fait de toi … |
+| un vent qu'on ne commande pas | une voie qu'on ne commande pas | 1 | … fait de toi quelqu'un en danger.  — Pourquoi ?  — Parce qu'un vent qu'on ne commande pas finit par vous commander. Et parce que l'Empire brûle ceux … |
+| Ulgu rendait les choses simples | L'Ombre rendait les choses simples | 1 | …dont il connaissait déjà l'odeur.  Il la suivit tout l'été. Ulgu rendait les choses simples, c'était là son vice : les gens laissent des traces dans le… |
+| ce qu'Ulgu peut faire | ce que l'Ombre peut faire | 1 | …loin de Torfmoor, il parla enfin.  — Ce que tu as vu, c'est ce qu'Ulgu peut faire de toi si tu n'apprends pas. C'est aussi ce que je fais, de… |
+| le Vent Gris ment aussi | l'Ombre ment aussi | 1 | …t dedans. Prends ton temps. Ne force rien. Souviens-toi que le Vent Gris ment aussi à ceux qui le servent.* > > *Ne retourne pas à Eichenwald. … |
+| Les huit vents, dit Wolfram. | Le mana, dit Wolfram. | 1 | …re.  Il eut envie de pleurer, et il ne sut pas pourquoi.  — Les huit vents, dit Wolfram. Ce que tu vois là, les sorciers des Ordres passent des anné… |
+| Ne regarde pas les vents ici | Ne regarde pas les flux ici | 1 | …is, comme des fleurs laissées trop longtemps dans l'eau.  — Ne regarde pas les vents ici, dit Wolfram à voix basse. Pas encore.  Konrad regarda quan… |
+| aucun des huit | aucun des autres flux | 1 | …utre chose : un courant noir, huileux, qui ne ressemblait à aucun des huit, et qui serpentait entre les maisons vers la tourbière comm… |
+| Dhar, dit son oncle. Les vents mélangés et pourris. | L'Obscur, dit son oncle. L'énergie des démons. | 1 | …e. Il recula, et sentit la main de Wolfram sur sa nuque.  — Dhar, dit son oncle. Les vents mélangés et pourris. La magie noire. C'est ce que tu vois quand quelqu'un a voul… |
+| Il avait dû entendre le vent, comme Konrad. | Il avait dû sentir le mana, comme Konrad. | 1 | …êtes et parlaient aux orages sans avoir jamais vu un Ordre. Il avait dû entendre le vent, comme Konrad. Et quelque chose, un jour, lui avait répondu.  Konrad ne ra… |
+| savait maintenant voir les vents | savait maintenant voir les flux | 1 | …le ?  Wolfram regarda la bague sans la toucher. Konrad, qui savait maintenant voir les vents, vit l'ombre se resserrer autour de son oncle, comme quand … |
+| des diagrammes de vents | des diagrammes de flux | 1 | …code que Konrad mit trois semaines à comprendre. Il y avait des diagrammes de vents, des remarques sur la respiration, des avertissements griff… |
 
 ## Noms avec accord grammatical ajusté
 

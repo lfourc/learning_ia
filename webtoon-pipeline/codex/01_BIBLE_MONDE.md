@@ -1,9 +1,7 @@
 # 01 — BIBLE DU MONDE (CODEX) — La Lame-Grise
 
 > Source de vérité visuelle. Les **tokens** (anglais) se collent tels quels dans les `image_prompt`.
-> Généré depuis l'artifact « Planches — Livre I » (`codex/planches.json`). Détails narratifs, âges et
-> profils vocaux : `codex/bibles/bible_personnages.md` ; lieux : `codex/bibles/bible_decors.md` ;
-> lore : `codex/bibles/tome0_fondations.md`, `tome1_bestiaire.md`, `bible_univers.md`.
+> Généré depuis l'artifact « Planches — Livre I » (`codex/planches.json`, données brutes, encore en vocabulaire de jeu). **Ne fait pas foi** : l'apparence fait foi dans `campagne/bible-visuelle-livre-1.md` (v3), les lieux dans `campagne/bible-decors-livre-1.md` (v3), le reste selon `claude/index-du-projet.md`. Noms passés au monde d'Erdheim et cicatrice à la lèvre de Konrad retirée (décision du 16/11) le 17/11/2026.
 
 ## 0. Style global
 
@@ -20,7 +18,7 @@
 `chibi, super-deformed, cartoonish, oil painting, painterly brushstrokes, soft airbrushed gradients, photorealism, 3D render, plate armor everywhere, modern clothing, busy textures, ornate embroidery detail, text, watermark, extra fingers, deformed hands, christian cross, crucifix, Virgin Mary, christian saints, fleur-de-lis, grain noise, speckles`
 
 **Interdits** : croix chrétienne, crucifix, fleur de lys, citer des titres de référence (Solo Leveling, TBATE…).
-Ulgu / le Gris = brume grise translucide aux reflets argentés.
+l'Ombre = brume grise translucide aux reflets argentés ; couleurs de la magie : `webtoon/monde-et-introduction.md` § 2.3.
 
 ## 1. Personnages
 
@@ -32,9 +30,9 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 **18 ans, planche de référence**
 
-`Character reference sheet, front view, three-quarter view and back view, young man 18 years old, tall lean agile build, sharp fine facial features, high cheekbones, fair skin, small scar on lower lip, striking pale eyes almost golden with a green tint, chestnut brown shoulder-length hair with strands over the forehead tied in a low ponytail, worn grey hooded cloak, slightly frayed at the hem but intact, not torn or ragged, fitted dark leather doublet over off-white linen shirt, dark trousers, soft leather boots, thin worn tobacco-brown leather gloves, a small plain grey steel dagger on the right hip, short hand-length blade with a minimal guard, clearly a dagger and not a sword, and a small curved bark-peeling knife on the left, a tarnished gold signet ring hanging on a leather cord around his neck, dented metal box in a shoulder satchel, cold composed expression, noble posture slightly turned sideways, plain light grey background`
+`Character reference sheet, front view, three-quarter view and back view, young man 18 years old, tall lean agile build, sharp fine facial features, high cheekbones, fair skin, striking pale eyes almost golden with a green tint, chestnut brown shoulder-length hair with strands over the forehead tied in a low ponytail, worn grey hooded cloak, slightly frayed at the hem but intact, not torn or ragged, fitted dark leather doublet over off-white linen shirt, dark trousers, soft leather boots, thin worn tobacco-brown leather gloves, a small plain grey steel dagger on the right hip, short hand-length blade with a minimal guard, clearly a dagger and not a sword, and a small curved bark-peeling knife on the left, a tarnished gold signet ring hanging on a leather cord around his neck, dented metal box in a shoulder satchel, cold composed expression, noble posture slightly turned sideways, plain light grey background`
 
-**scène, magie d'Ulgu**
+**scène, magie de l'Ombre**
 
 `Young man in a grey hooded cloak crouching on a rooftop at night, a small plain grey dagger with a hand-length blade in one hand and a small curved knife held in reverse grip in the other, grey mist rising from his shoulders and swallowing his outline, his golden-green eyes fading to silver, tarnished gold ring on a cord swinging from his neck, moonlit medieval town below, low angle, dramatic`
 
@@ -48,15 +46,15 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 **12 ans (planche)**
 
-`Same character as the reference image, now a lanky thin boy 12 years old, fair skin, chestnut hair grown long and unkempt, pale golden-green eyes, faint scar on lower lip, servant's hand-me-down clothes too short at the wrists, a tarnished gold ring on a leather lace under his shirt, small curved bark-peeling knife in his hand, guarded watchful expression, character reference sheet front, three-quarter and back views`
+`Same character as the reference image, now a lanky thin boy 12 years old, fair skin, chestnut hair grown long and unkempt, pale golden-green eyes, servant's hand-me-down clothes too short at the wrists, a tarnished gold ring on a leather lace under his shirt, small curved bark-peeling knife in his hand, guarded watchful expression, character reference sheet front, three-quarter and back views`
 
 **15 ans (planche)**
 
-`Same character as the reference image, now a lean teenage boy 15 years old, growing tall, sharper face, fair skin, chestnut hair tied back, pale golden-green eyes, faint scar on lower lip, dark plain practical clothes, a small plain grey dagger and a small curved bark-peeling knife, tarnished gold ring on a leather cord around his neck, light silent stance on the balls of his feet, character reference sheet front, three-quarter and back views`
+`Same character as the reference image, now a lean teenage boy 15 years old, growing tall, sharper face, fair skin, chestnut hair tied back, pale golden-green eyes, dark plain practical clothes, a small plain grey dagger and a small curved bark-peeling knife, tarnished gold ring on a leather cord around his neck, light silent stance on the balls of his feet, character reference sheet front, three-quarter and back views`
 
 ### Wolfram von Eichenwald — « l'oncle gris »  (`c2`)
 
-- **Rôle :** sorcier gris, Magister Vigilant, vrai père de Konrad. Ne peut rien dire.
+- **Rôle :** sorcier gris, Veilleur du Voile, vrai père de Konrad. Ne peut rien dire.
 - **Palette :** #3A3D42 #8A5E42 #1C1B1A #1E1F22 #C9CED6 (accent #C9CED6)
 - **Référence :** `references/c2_ref.jpg`
 
@@ -64,7 +62,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `Character reference sheet, front, three-quarter and back views, gaunt tall man about 52 years old, slightly stooped, sun-tanned skin, hollow cheeks, deep tired lines around the eyes, pitch black eyes with dark irises, black hair swept back to the nape with grey temples, short unkempt salt-and-pepper beard, long heavy grey hooded cloak almost touching the ground, layered plain grey clothing with no ornament, worn travel boots, grey gloves, small silver sword-shaped brooch on the cloak, plain grey steel dagger at the belt, leather satchel stuffed with papers, calm watchful expression, plain light grey background`
 
-**2492, la chapelle**
+**792, la chapelle**
 
 `Lean man 32 years old, clean-shaven, sun-tanned skin, black hair soaked by rain, pitch black eyes with dark irises under the hood, grey hooded cloak dripping, standing between a young woman and the altar of an abandoned stone chapel, dagger lowered, grey mist curling around his body as if he just materialized, heavy rain through the open door, cold blue-grey lighting`
 
@@ -78,7 +76,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Ottilie von Arnsfeld / « Mathilde »  (`c3`)
 
-- **Rôle :** mère de Konrad, dernière du sang ottilien, devenue guérisseuse à Moosbach. Morte en 2502.
+- **Rôle :** mère de Konrad, dernière du sang ottilien, devenue guérisseuse à Moosbach. Morte en 802.
 - **Palette :** #5A4632 #3F4A36 #D8CDB6 #6E2233 #B8963E (accent #6E2233)
 - **Référence :** `references/c3_ref.jpg`
 
@@ -86,7 +84,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `Character reference sheet, front, three-quarter and back views, woman about 30 years old, straight posture, oval face with refined noble features under simple peasant clothes, clear blue eyes with a direct steady gaze, long blonde hair braided and pinned under a headscarf with a few loose strands, brown wool dress, stained apron, sleeves rolled up, satchel of herbs, dried herb bundles at the belt, worn hands, a tarnished gold signet ring on her finger, small curved bark-peeling knife, calm controlled expression, plain light background`
 
-**2492, la fugitive**
+**792, la fugitive**
 
 `Young woman 20 years old, clear blue eyes, blonde hair cut short and unevenly with a knife, soaked by rain, torn mud-stained travel dress of fine quality, oversized cloak, standing in an abandoned stone chapel, holding a tiny curved knife in a clumsy reverse grip, refusing to step back, fierce exhausted eyes, cold rain light`
 
@@ -136,7 +134,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Lothar von Eichenwald  (`c6`)
 
-- **Rôle :** héritier, brute. Frappe Konrad « à l'entraînement », le pousse dans la Stir.
+- **Rôle :** héritier, brute. Frappe Konrad « à l'entraînement », le pousse dans la Nebel.
 - **Palette :** #4A3A2C #3E4A2E #8E3B2A (accent #8E3B2A)
 - **Référence :** `references/c6_ref.jpg`
 
@@ -186,7 +184,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Père Anselm  (`c9`)
 
-- **Rôle :** chapelain de Sigmar, précepteur. Hostile, frappe avec sa règle ; laisse pourtant la bibliothèque entrouverte.
+- **Rôle :** chapelain d'Haldor, précepteur. Hostile, frappe avec sa règle ; laisse pourtant la bibliothèque entrouverte.
 - **Palette :** #3B3530 #6E2A26 #A88A5C (accent #A88A5C)
 - **Référence :** `references/c9_ref.jpg`
 
@@ -218,7 +216,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Le faux copiste  (`c11`)
 
-- **Rôle :** sorcier gris de la Main Grise, assassin d'Ottilie (2502). Tué par Wolfram. Sans nom pour l'instant.
+- **Rôle :** sorcier gris de la Main Grise, assassin d'Ottilie (802). Tué par Wolfram. Sans nom pour l'instant.
 - **Palette :** #6B5E4E #8A8378 (accent #8A8378)
 - **Référence :** `references/c11_ref.jpg`
 
@@ -250,7 +248,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `Small round old beekeeper woman about 70 years old, bent back, huge gentle hands, face wrinkled like a winter apple, lively eyes, headscarf, beeswax-stained apron, beekeeper's veil pushed up, standing among straw beehives at the edge of an ancient forest at dusk, character reference sheet front and three-quarter views`
 
-### Le vieux prêtre de Morr (Moosbach)  (`c14`)
+### Le vieux prêtre de la Gardienne (Moosbach)  (`c14`)
 
 - **Rôle :** tient le registre où Ottokar barre « père non déclaré ». Au chevet de Mathilde, l'enterre.
 - **Palette :** #1E1E22 #5C5A60 #8A7CA8 (accent #8A7CA8)
@@ -272,7 +270,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Le rebouteux de Torfmoor  (`c16`)
 
-- **Rôle :** sorcier de village corrompu par le Dhar (chapitre 6). Première vision du mal pour Konrad.
+- **Rôle :** sorcier de village corrompu par l'Obscur (chapitre 6). Première vision du mal pour Konrad.
 - **Palette :** #1A1C17 #3B4031 #2A1F33 (accent #2A1F33)
 - **Référence :** `references/c16_ref.jpg`
 
@@ -354,7 +352,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Forêt d'Arnsfeld  (`L1`)
 
-- **Rôle :** Région : Talabecland. Chapitre : 1. Scènes : Ottilie qui rentre de chez Brunhild ; la fumée qu'elle sent avant de voir.
+- **Rôle :** Région : Eldwald. Chapitre : 1. Scènes : Ottilie qui rentre de chez Brunhild ; la fumée qu'elle sent avant de voir.
 - **Palette :** #1F3326 #5B6E3A #C9A24A #E07A2E
 - **Référence :** `references/L1_ref.jpg`
 
@@ -364,7 +362,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Manoir d'Arnsfeld  (`L2`)
 
-- **Rôle :** Région : Talabecland. Chapitre : 1. Scènes : l'incendie vu depuis la colline ; les deux silhouettes immobiles à la lisière du parc.
+- **Rôle :** Région : Eldwald. Chapitre : 1. Scènes : l'incendie vu depuis la colline ; les deux silhouettes immobiles à la lisière du parc.
 - **Palette :** #0F1626 #2A3B2C #F2762E #FFD08A
 - **Référence :** `references/L2_ref.jpg`
 
@@ -372,9 +370,9 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `A noble manor on a hill engulfed in flames at night, fire pouring out of every window, the great hall roof collapsing in a tower of sparks, dark parkland with old trees in the foreground, two motionless cloaked silhouettes standing at the edge of the park watching, no one fleeing, eerie silent horror, view from ferns on a forest hillside`
 
-### Chapelle de Morr  (`L3`)
+### Chapelle de la Gardienne  (`L3`)
 
-- **Rôle :** Région : route du sud, Talabecland. Chapitre : 1. Scène : Wolfram baisse la lame.
+- **Rôle :** Région : route du sud, Eldwald. Chapitre : 1. Scène : Wolfram baisse la lame.
 - **Palette :** #1D2430 #5A626E #AFC3D6
 - **Référence :** `references/L3_ref.jpg`
 
@@ -382,9 +380,9 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `Interior of a small abandoned stone chapel at the edge of a wood, partly collapsed roof, bare stone altar with a half-erased raven symbol, torrential rain falling through the open door and the broken roof, puddles reflecting cold blue-grey light, a single pale shaft of light, wet stone, dead leaves, oppressive silence`
 
-### Bac sur la Stir  (`L4`)
+### Bac sur la Nebel  (`L4`)
 
-- **Rôle :** Région : frontière Talabecland / Stirland. Chapitre : 1. Scène : la traversée en janvier.
+- **Rôle :** Région : frontière Eldwald / Nebelmark. Chapitre : 1. Scène : la traversée en janvier.
 - **Palette :** #7D8A92 #D9DCD8 #3A3F35 #8C6A44
 - **Référence :** `references/L4_ref.jpg`
 
@@ -394,7 +392,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Moosbach  (`L5`)
 
-- **Rôle :** Région : Stirland, domaine d'Eichenwald. Chapitres : 2 à 7. Scènes : la place du marché, la taverne, la fontaine, le cimetière de Morr sous la neige, le moulin.
+- **Rôle :** Région : Nebelmark, domaine d'Eichenwald. Chapitres : 2 à 7. Scènes : la place du marché, la taverne, la fontaine, le cimetière de la Gardienne sous la neige, le moulin.
 - **Palette :** #4B4237 #6E6658 #3E4A2E #C98B3A
 - **Référence :** `references/L5_ref.jpg`
 
@@ -422,7 +420,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Maison forte  (`L7`)
 
-- **Rôle :** Région : Stirland. Chapitres : 2 à 7. Scène : vue d'ensemble, retour au domaine.
+- **Rôle :** Région : Nebelmark. Chapitres : 2 à 7. Scène : vue d'ensemble, retour au domaine.
 - **Palette :** #5E5F5C #4A3A2C #3E4A2E #4F5F35
 - **Référence :** `references/L7_ref.jpg`
 
@@ -446,7 +444,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Grande salle  (`L9`)
 
-- **Rôle :** Chapitres : 3, 5. Scènes : le bout de la table ; la famille réunie pour juger le vol de la dague ; l'émissaire de Wurtbad.
+- **Rôle :** Chapitres : 3, 5. Scènes : le bout de la table ; la famille réunie pour juger le vol de la dague ; l'émissaire de Wendelstadt.
 - **Palette :** #2C2420 #6B4A2E #8E3B2A #E8B060
 - **Référence :** `references/L9_ref.jpg`
 
@@ -474,7 +472,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `A tiny library behind a small manor chapel at night, shelves crammed with old leather-bound books and heraldry rolls, a slanted reading desk, a single candle, a door left slightly ajar onto the dark chapel with a modest stained-glass window, warm candlelight pool surrounded by darkness`
 
-### La Stir en crue  (`L12`)
+### La Nebel en crue  (`L12`)
 
 - **Rôle :** Chapitre : 5. Scène : Lothar pousse Konrad dans la rivière ; la brume grise monte en plein jour au-dessus de lui seul.
 - **Palette :** #6B5A3E #9DB0A2 #B9BEC4
@@ -486,7 +484,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 ### Clairière des chênes  (`L13`)
 
-- **Rôle :** Chapitre : 6. Scènes : la nuit de silence ; Wolfram qui montre les vents ; les lettres de Magick dans la cendre.
+- **Rôle :** Chapitre : 6. Scènes : la nuit de silence ; Wolfram qui montre les flux de mana ; les lettres de Langue Tordue dans la cendre.
 - **Palette :** #1C2A22 #4E5E3A #9BBF7A #C9B060
 - **Référence :** `references/L13_ref.jpg`
 
@@ -514,7 +512,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `Low-ceilinged common room of a roadside coaching inn on a snowy night, heavy beams, big hearth whose fire is suddenly dying, wooden tables with a few tired travelers, a thick grey fog rolling in from nowhere and filling the room, a lone man at a table by the fire with a writing desk on his knees, a tall grey figure seated across from him half dissolved in the mist, tense`
 
-### Route du Reikland  (`L16`)
+### Route du Kronland  (`L16`)
 
 - **Rôle :** Chapitre : 7. Scènes : les péniches sur le Reik ; les tours de temple ; Konrad qui voudrait s'arrêter partout.
 - **Palette :** #6E8C5A #7C93A6 #C8B48A #D9A441
@@ -524,7 +522,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `A broad busy river in a rich green countryside, cargo barges with sails, a large walled town with tall temple towers and red roofs on the far bank, cultivated fields and a paved road along the bank, two riders seen from behind, bright late spring light after the grey of the east`
 
-### Col de la Dame Grise  (`L17`)
+### Col de la Dame Voilée  (`L17`)
 
 - **Rôle :** Chapitre : 7 (et chapitre 1 de la campagne). Scènes : le feu au pied des montagnes ; la chapelle noire au sommet ; « Ce chemin-là, un jour, tu le reprendras dans l'autre sens. Seul. »
 - **Palette :** #3C4049 #8E99A8 #1A1B1E #E6EAF0
@@ -534,9 +532,9 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `A high mountain pass between bare grey rock peaks, a tiny chapel of black stone battered by wind at the summit, travelers' offerings and ribbons tied around it, stone cairns at the edge of a sheer drop, an abandoned guard post, a sea of clouds below hiding the lowlands to the east, an older man and a young man in grey cloaks looking down, cold and vast`
 
-### Parravon  (`L18`)
+### Hautepierre  (`L18`)
 
-- **Rôle :** Région : Bretonnie. Chapitre : 7. Scènes : la ville perchée ; les pégases autour des tours du duc ; Konrad à la porte de la ville face aux montagnes.
+- **Rôle :** Région : Aurevaux. Chapitre : 7. Scènes : la ville perchée ; les pégases autour des tours du duc ; Konrad à la porte de la ville face aux montagnes.
 - **Palette :** #C9B994 #6C7F95 #F2F0EA #E2B755
 - **Référence :** `references/L18_ref.jpg`
 
@@ -544,7 +542,7 @@ Ulgu / le Gris = brume grise translucide aux reflets argentés.
 
 `A proud medieval city clinging to a mountainside above a deep gorge, tall narrow houses of pale stone, dizzying stone bridges, ramparts, slender ducal towers with banners, white winged horses circling high above the towers like great birds, golden afternoon light, French-inspired chivalric architecture, a lone young traveler at the city gate seen from behind facing the mountains`
 
-### Chambre de Parravon  (`L19`)
+### Chambre de Hautepierre  (`L19`)
 
 - **Rôle :** Chapitre : 7. Scène : le réveil ; la chambre vide ; la boîte de métal et la lettre cachetée de cire grise.
 - **Palette :** #8C7B66 #B9C2CC #9AA0A6

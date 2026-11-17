@@ -82,9 +82,9 @@ Court, sec, sous-entendu, mais **langue d'époque**. Référence : les épisodes
 **Toujours valable :**
 - **Show, don't tell :** pas de narration descriptive reprise du livre ; si l'image montre l'émotion ou l'action, le texte disparaît.
 - **15 mots maximum par bulle** (viser 2 à 6). Une réplique longue = deux bulles ou deux cases.
-- **Profil vocal** de chaque personnage (`codex/bibles/bible_personnages.md`) : la grossièreté se dose selon le personnage, mais personne ne parle comme un livre.
+- **Profil vocal** de chaque personnage (`codex/personnages-principaux.md` pour Ottilie, Konrad, Wolfram ; `webtoon/personnages-arnsfeld.md` pour la maison d'Arnsfeld) : personne ne parle comme un livre.
 - **Typologie :** `dialogue` (bulle parlée), `pensee` (texte flottant/encadré interne), `cri` (bulle hérissée), `sfx` (onomatopée intégrée à l'action, ex. *CRASH*, *FWOOSH*), `narration` (encadré, à réduire au strict minimum).
-- `generate_webtoon.py` signale les tournures interdites détectables (émotion nommée, « je vais … pour … », bulles trop longues) : corriger avant de générer.
+- `generate_webtoon.py` signale les tournures interdites détectables (émotion nommée, « je vais … pour … », bulles trop longues, argot moderne) **et le vocabulaire interdit** (noms Warhammer, termes périmés du Codex, voir § 8) dans les bulles, le SFX et les prompts : corriger avant de générer.
 
 ### D. Cohérence & Évolution du Codex
 - Avant de générer un chapitre, lis `/codex/01_BIBLE_MONDE.md` pour récupérer les tokens visuels exacts des personnages et des lieux.
@@ -93,7 +93,7 @@ Court, sec, sous-entendu, mais **langue d'époque**. Référence : les épisodes
 ---
 
 ## 3 bis. MÉTHODE DE TRAVAIL PAR ÉPISODE (OBLIGATOIRE, DANS CET ORDRE)
-0. **Fondations** (`codex/fondations/`, plan dans `manuscrits/00_plan_fondations.md`) : le sang ottilien, les deux camps, la maison d'Arnsfeld, Brunhild, Wolfram en 791, la chronologie. **Aucun manuscrit d'épisode ne s'écrit sur une zone floue** : si une scène a besoin d'une réponse que les fiches ne donnent pas, la signaler dans les « points à trancher » au lieu de l'inventer. Les fiches servent d'appui au même titre que le livre (`> 📐 Appui : fondations, fiche N`).
+0. **Le Codex et l'index font foi** : avant tout manuscrit, lire `claude/index-du-projet.md` (quel document fait foi sur quel sujet), `codex/tome-0-fondations.md`, `codex/personnages-principaux.md`, `webtoon/personnages-arnsfeld.md` et `webtoon/saison-01-plan.md` (numéros et contenu des épisodes). **Aucune scène ne s'écrit sur une zone floue** : une question sans réponse dans ces documents va dans `claude/decisions-ouvertes.md` (registre unique, aucune liste « à décider » ailleurs), pas dans une invention. Ces documents servent d'appui au même titre que le livre (`> 📐 Appui : Codex, § 3.6`).
 1. **Manuscrit en prose** : `manuscrits/epNN_slug.md`. L'épisode écrit comme un court chapitre (scènes, gestes, répliques au registre de la série). Chaque scène commence par un bloc **Appui** : extraits **exacts** du livre transposé (`> « … »`), ou `🆕 invention` expliquée, et les écarts assumés. En fin de fichier : les **points à trancher**.
 2. **Correction par l'auteur** : il modifie librement le manuscrit. **Rien n'est découpé tant qu'il ne l'a pas validé.**
 3. **Découpage en cases** : `output/json/chapitre_NN.json`. Chaque case cite **mot pour mot** une phrase du manuscrit validé : `"source": {"manuscrit": "manuscrits/epNN_slug.md", "ref": "Scène 2", "extrait": "<phrase exacte>"}`. Les répliques sont reprises **telles quelles** du manuscrit (aucune réécriture au découpage). `generate_webtoon.py` vérifie que chaque extrait existe dans le manuscrit.
@@ -190,15 +190,38 @@ Sorties : `output/strips/chapitre_XX/planche_NN.png` + `planche_texte.txt` (dial
 
 ---
 
-## 8. PROJET EN COURS : « LA LAME-GRISE » (ressources reprises des artifacts claude.ai)
-Ce pipeline est appliqué à **La Lame-Grise** (Konrad von Eichenwald, univers d'Erdheim). Avant tout travail, lire :
-- `source/livre_source.txt` — **Konrad — Livre I : Origines** (7 chapitres), **version transposée hors Warhammer** : c'est le texte source à adapter et à citer. Elle est produite par `scripts/transposer_livre.py` à partir de `source/livre_source_warhammer.txt` (original, ne jamais modifier) : uniquement des remplacements de noms, aucune réécriture. Chaque remplacement est listé dans `source/transposition_rapport.md`. Pour corriger un nom : modifier la règle dans `transposer_livre.py` et relancer (les extraits cités dans les JSON se transposent avec la fonction `transposer()`).
-- Noms ajoutés à la table et **validés le 16/11/2026** : Reikspiel → kronlandais, Bretonniens / bretonnien → Aurevalois / aurevalois, Averland → Westerau, Middenland → Nordmark, Âge des Trois Empereurs → Schisme des Deux Couronnes, Ubersreik → Rabenfels.
-- `codex/01_BIBLE_MONDE.md` — tokens visuels de 23 personnages et 19 lieux + blocs de style/négatif (données brutes : `codex/planches.json`).
-- `codex/bibles/` — `bible_personnages.md` (apparence, âges, voix), `bible_decors.md` (lieux, script couleur), `tome0_fondations.md` (magie, dieux, histoire, rangs), `tome1_bestiaire.md`, `bible_univers.md` (transposition hors Warhammer : **ne jamais réutiliser les noms Warhammer** — Reikland, Sigmar, Morr, Ulgu… → voir la table de transposition), `kit_chatgpt.md`.
-- `codex/archives/` — anciens scripts (épisode 1 « La dernière journée », découpage ch. 1 du livre).
-- `output/json/chapitre_01.json` (Les abeilles de Brunhild, 63 cases) et `chapitre_02.json` (Le sceau, 51 cases) — épisodes **déjà publiés**, images finales dans `output/panels/chapitre_0X/final/`. Leurs prompts d'origine sont perdus (`image_prompt` vide) ; les bulles gardent leur position (`x,y,w` = coin et largeur en % de la case, `tx,ty` = pointe de la queue).
-- **En cours : les fondations** (`manuscrits/00_plan_fondations.md` : 7 contradictions à trancher, 6 fiches à écrire). Épisode 3 « Le chasseur » : manuscrit `manuscrits/ep03_le_chasseur.md` **suspendu** (l'entrée de Wolfram dérive du livre), à réécrire après les fondations. L'ancien découpage `output/json/chapitre_03.json` sera refait à partir du manuscrit validé.
+## 8. PROJET EN COURS : « LA LAME-GRISE »
+Le monde est travaillé dans le projet claude.ai « Jdr- Wagram et » et synchronisé ici par paquets (dernier : `claude/sync-2026-11-17.md`, 17/11/2026). **L'œuvre ne contient aucune référence à Warhammer** ; le jeu (JDR) reste en Warhammer, hors du studio.
 
-Règles propres à la série (priment sur la section 3 en cas de conflit) : jamais de croix chrétienne, crucifix ni fleur de lys ; ne jamais citer de titres de référence dans les prompts ; le Gris = brume grise translucide aux reflets argentés ; les objets récurrents (bague au tilleul couronné, sceau) ont une image de référence obligatoire ; ne pas redécrire les costumes quand une planche de référence est jointe.
-Images de référence : `codex/references/<id>_ref.jpg` (47 planches validées, reprises de l'artifact « Planches — Livre I » ; index dans `codex/references/INDEX.md`). Ex. `c1_ref.jpg` = Konrad, `L2_ref.jpg` = manoir d'Arnsfeld. Les `_v1`, `_v2` sont d'autres âges ou versions antérieures. Seul le faux copiste (`c12`) n'a pas encore de planche. Dans un JSON de chapitre : `"reference_image": "c1_ref.jpg"` active `flux-pulid` en mode final.
+**Lire en premier : `claude/index-du-projet.md`.** Il désigne, sujet par sujet, le document qui fait foi ; en cas de conflit, c'est lui qui tranche. En résumé :
+
+| Sujet | Fait foi |
+|---|---|
+| Règles du monde, magie (mana, Noyau, cinq voies, Cercles), dieux, Huitième et pacte ottilien, Main Grise, histoire, lexique | `codex/tome-0-fondations.md` (v5.2) |
+| Peuples, créatures, petit obscur | `codex/tome-1-bestiaire.md` ; lieux minces : `codex/lieux-minces.md` |
+| Ottilie, Konrad, Wolfram, Jobst (personnalité, magie, voix) | `codex/personnages-principaux.md` |
+| La maison d'Arnsfeld | `webtoon/personnages-arnsfeld.md` |
+| Apparence de tous les personnages | `campagne/bible-visuelle-livre-1.md` (v3) |
+| Lieux | `campagne/bible-decors-livre-1.md` (v3) |
+| Noms (jeu → œuvre) | `campagne/bible-univers.md` (§ 1.4 : noms ajoutés dans le studio le 16/11) |
+| Numéros et contenu des épisodes (26) | `webtoon/saison-01-plan.md` (v6) |
+| Couleurs de la magie à l'image (contrôle d'image) | `webtoon/monde-et-introduction.md` § 2.3 |
+| Magie en action, dialogues | `webtoon/action-et-dialogues.md`, `webtoon/bible-ecriture-webtoon.md` (modificateurs de prompt par voie) |
+| Ce qui reste à décider | `claude/decisions-ouvertes.md` |
+
+**Vocabulaire périmé, interdit dans les prompts et les bulles** (contrôlé par `generate_webtoon.py`) :
+- « la Lie » → **l'Obscur** ; « Sang-de-Lie » → **Sang-Noirs** ;
+- « Courant » au sens d'un Ordre ou d'une couleur de magie → **Ordre** (ou la **voie** : Souffle, Vif, Éther, Don, Ombre) ;
+- « avoir l'oreille » → **un Noyau éveillé** ; « [l'œil] » → **l'Œil des Limbes** ; « [Dieu d'Entre-Deux] » → **le Huitième** ;
+- « l'Abîme » → **l'Envers** (le monde des démons) ; « l'Abysse » = le vide où dorment les dieux anciens ; « Gisant » : supprimé ;
+- et aucun nom Warhammer (Ulgu, Dhar, Collège, Stir, Talabec, Altdorf, Sigmar, Morr…).
+
+**Le studio (ce dépôt) :**
+- `source/livre_source.txt` — **Livre I « Origines »**, v1 transposée mécaniquement hors Warhammer par `scripts/transposer_livre.py` à partir de `source/livre_source_warhammer.txt` (original, ne jamais modifier) : des noms, et le vocabulaire de magie du Codex v5.2 ; chaque remplacement est dans `source/transposition_rapport.md`. **Le Livre I v2 sera réécrit dans le projet claude.ai** (chantier ouvert) : d'ici là, cette version sert à citer l'intrigue, pas à trancher une règle du monde (le Codex prime).
+- `codex/01_BIBLE_MONDE.md` — tokens de prompt de 23 personnages et 19 lieux, dérivés des Planches (`codex/planches.json`, données brutes en vocabulaire de jeu). **Ne fait pas foi** : en cas d'écart, la bible visuelle et la bible des décors l'emportent.
+- Images de référence : `codex/references/<id>_ref.jpg` (47 planches validées + Wolfram jeune et Moustache repris des épisodes ; index `codex/references/INDEX.md`). Ex. `c1_ref.jpg` = Konrad, `L2_ref.jpg` = manoir d'Arnsfeld. `"reference_image": "c1_ref.jpg"` active `flux-pulid` en mode final. **Konrad n'a plus de cicatrice à la lèvre** (16/11) : vérifié le 17/11, `c1_ref.jpg` n'en montre pas ; ses tokens dans `01_BIBLE_MONDE.md` ont été corrigés.
+- Épisodes : `output/json/chapitre_01.json` (Les abeilles de Brunhild, 63 cases) et `chapitre_02.json` (Le sceau, 51 cases), **publiés**, images finales dans `output/panels/chapitre_0X/final/` ; prompts d'origine perdus (`image_prompt` vide) ; les bulles gardent leur position (`x,y,w` = coin et largeur en % de la case, `tx,ty` = pointe de la queue). À faire selon `webtoon/ep01-coda-et-ep02-plan.md` et `claude/decisions-ouvertes.md` : **la nouvelle page 18 de l'épisode 2** (Wolfram n'est plus blessé ; références : Ottilie, Moustache, page de style, **pas Wolfram**) et le relettrage de l'épisode 1 (cases 1.31 et 1.55, décision n° 1).
+- Prochain épisode : **épisode 3 « La dernière journée »** (automne 791 ; plan de saison v6), à partir de `ep01-la-derniere-journee-v2.md` (projet claude.ai, absent du paquet du 17/11) ; le script v1 est dans `codex/archives/ep01_la_derniere_journee_script.md`.
+- `archives/studio-2026-11-16/` : plan des fondations et brouillon « Le chasseur », remplacés par le paquet du 17/11.
+
+Règles propres à la série (priment sur la section 3 en cas de conflit) : jamais de croix chrétienne, crucifix ni fleur de lys ; ne jamais citer de titres de référence dans les prompts ; l'Ombre = brume grise translucide aux reflets argentés, et chaque voie a sa couleur (`webtoon/monde-et-introduction.md` § 2.3) ; les objets récurrents (bague au tilleul couronné, sceau) ont une image de référence obligatoire ; ne pas redécrire les costumes quand une planche de référence est jointe.

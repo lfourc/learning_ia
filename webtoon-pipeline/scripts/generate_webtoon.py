@@ -66,6 +66,24 @@ ANTI_ROBOT = [
      "anachronisme / argot moderne (registre La Lame-Grise)"),
 ]
 
+# Vocabulaire interdit dans les bulles, les encadrés, le SFX ET les prompts d'image :
+# noms Warhammer (l'œuvre n'en contient aucun) et termes périmés du Codex (sync du 17/11/2026,
+# claude/sync-2026-11-17.md § 5). Les champs « source » (citations) ne sont pas contrôlés ici.
+VOCABULAIRE_INTERDIT = [
+    (r"\b(Ulgu|Dhar|Ghur|Ghyran|Hysh|Aqshy|Azyr|Chamon|Shyish|Coll[eè]ges?|Magick|Sigmar|Morr|Taal|Shallya|Ulric|"
+     r"Altdorf|Reikland|Reikspiel|Stirland|Stir|Talabec\w*|Talabheim|Wurtbad|Kreutzhofen|Sylvanie|Averland|Middenland|"
+     r"Bretonn\w*|Parravon|Ubersreik|Magisters? Vigilants?|Vent Gris)\b", "nom Warhammer"),
+    (r"\b(Sang-de-Lie|la Lie|Lie)\b", "périmé : « la Lie » → l'Obscur ; « Sang-de-Lie » → Sang-Noirs"),
+    (r"\bCourants?\b", "périmé : « Courant » (Ordre ou couleur de magie) → Ordre / voie"),
+    (r"\b(Abîme|Gisants?)\b", "périmé : « l'Abîme » → l'Envers ; « Gisant » supprimé"),
+    (r"\b(avoir|a|ont|avait|avaient) l'oreille(?=\s*[,.;:!?…»]|\s*$)", "périmé : « avoir l'oreille » → un Noyau éveillé"),
+    (r"\[l'œil\]|\[Dieu d'Entre-Deux\]", "périmé : → l'Œil des Limbes / le Huitième"),
+]
+
+
+def check_vocabulaire(texte: str) -> list[str]:
+    return [why for pat, why in VOCABULAIRE_INTERDIT if re.search(pat, texte)]
+
 
 def log(msg: str) -> None:
     print(msg, flush=True)
@@ -135,6 +153,11 @@ def validate_chapter(data: dict) -> list[str]:
             for ext in (src["extrait"] if isinstance(src["extrait"], list) else [src["extrait"]]):
                 if base and _norm(ext) not in base:
                     warnings.append(f"{cid} : extrait introuvable mot pour mot dans {nom} — « {ext[:40]}… »")
+        textes = [("prompt", case.get("image_prompt", "")), ("SFX", case.get("sfx", ""))]
+        textes += [("texte", str(d.get("texte", ""))) for d in case.get("dialogues", []) or []]
+        for champ, t in textes:
+            for why in check_vocabulaire(t or ""):
+                warnings.append(f"{cid} : {champ} « {t[:40]}… » — {why}.")
         ref = case.get("reference_image")
         if ref and not (REF_DIR / ref).exists():
             warnings.append(f"{cid} : image de référence absente ({REF_DIR / ref}).")

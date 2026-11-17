@@ -1,6 +1,6 @@
 # Bible de l'univers — version originale (hors Warhammer)
 
-*Le monde de « La Lame-Grise » pour le webtoon, l'ebook et l'anime. Version 1, 14/11/2026 : noms, sang ottilien et calendrier validés par Lyes.*
+*Le monde de « La Lame-Grise » pour le webtoon, l'ebook et l'anime. Version 2, 16/11/2026. v1 (14/11) : noms, sang ottilien et calendrier validés par Lyes. v2 : la magie suit le Codex v3 (mana, Noyau, cinq voies) ; les sept Courants planétaires sont abandonnés.*
 
 **Carte** : `carte-nebelmark.png` (Nebelmark et Eldwald, Livre I).
 
@@ -18,6 +18,7 @@ Le JDR se joue dans Warhammer, mais le webtoon et le livre doivent vivre dans un
 
 ## 1. Table de transposition
 
+### 1.1 Lieux
 | Warhammer (JDR) | Monde original (webtoon / livre) | Idée |
 |---|---|---|
 | L'Empire | **l'Empire d'Aldenreich** | « le vieux royaume » |
@@ -31,20 +32,34 @@ Le JDR se joue dans Warhammer, mais le webtoon et le livre doivent vivre dans un
 | Rivière Talabec | **l'Elda** | |
 | Talabheim | **Eldenheim** | |
 | Kreutzhofen | **Hollenhof** | |
+| Averland | **la Westerau** | vignes et marchés |
 | Sylvanie | **l'Aschenland** | « la terre des cendres » : collines hantées à l'est |
 | Montagnes Grises | **les Monts Cendrés** | |
 | Col de la Dame Grise | **le col de la Dame Voilée** | |
 | Bretonnie | **le royaume d'Aurevaux** | royaume chevaleresque de l'ouest |
 | Parravon | **Hautepierre** | cité perchée au-dessus d'une gorge |
 | Chevaliers pégases | **les Chevaliers de l'Aigle** | montés sur des aigles de guerre géants |
-| Les huit Vents de magie | **les Courants** | la magie coule comme de l'eau ; il y en a sept |
-| Ulgu, le Vent Gris | **le Courant Gris** (« la Brume ») | ombres, illusions, secrets, silence |
-| Dhar, la magie noire | **la Lie** | le dépôt pourri des Courants mélangés |
-| Les Collèges de magie | **les Ordres arcaniques** | sept Ordres, à Kaltenburg |
-| Le Collège Gris / l'Ordre Gris | **l'Ordre du Voile** | sorciers gris : espions, agents discrets |
-| Magister Vigilant | **Veilleur du Voile** (« un Veilleur ») | traque les sorciers corrompus |
+
+### 1.2 Magie (Codex, Tome 0, § 2)
+| Warhammer (JDR) | Monde original | Ce que c'est chez nous |
+|---|---|---|
+| Les huit Vents de magie | **le mana** | la magie est dans l'air, partout ; elle se respire, se garde dans le **Noyau** et passe par les **Sentes**. Il n'y a ni « vents » ni « Courants » de couleur |
+| Les sorciers, « avoir le don » | **les cinq voies** : Souffle, Vif, Éther, Don, Ombre | chacun en éveille une plus que les autres, et peut en mélanger |
+| Ulgu, le Vent Gris | **l'Ombre** | discrétion, illusion, silence, assassinat ; à l'image, une brume grise aux reflets argentés |
+| Ghur, Ghyran, Hysh… (les autres Vents) | rien de direct | leurs domaines se répartissent entre l'Éther (sorts), le Don (bénédictions), le Vif (bêtes) et le Souffle (combat) |
+| Dhar, la magie noire | **l'Obscur** | l'énergie des démons : un courant noir, huileux, à reflets violets |
+| Le Chaos | **l'Envers** et **l'Abysse** | l'Envers est le monde des démons, dont les serviteurs sont les **Damnés** ; l'Abysse est le vide où dorment les dieux anciens |
+| Les Collèges de magie | **les sept Ordres** | chacun est une école et une doctrine qu'on rejoint (« le mana doit se taire, brûler, couler… »), pas une couleur de magie |
+| Le Collège Gris | **l'Ordre du Voile** | Ombre et Éther : espions, enquêteurs |
+| Magister Vigilant | **Veilleur du Voile** (« un Veilleur ») | traque les corrompus ; au moins Cercle 4 |
+| Les niveaux de magie | **les douze Cercles** | 1 à 3 initiés, 9 l'élite, 12 presque inconnu |
 | Le Magick (langue des sorts) | **la Langue Tordue** | lettres anguleuses qui bougent quand on ne les fixe pas |
-| Le Chaos | **l'Abîme** | ce qui ronge le monde de l'extérieur ; ses fidèles sont les Damnés |
+| La Seconde vue | **la Seconde vue** (Éther) | voir les flux de mana |
+| Sorcier hors-la-loi | **pratiquant sauvage** | hors des Ordres, écoles d'armes et clergés : un criminel |
+
+### 1.3 Dieux et calendrier
+| Warhammer (JDR) | Monde original | Idée |
+|---|---|---|
 | Sigmar | **Haldor, le Dieu-Marteau** | dieu des serments, de la guerre juste et de l'Empire. Ce n'est pas un empereur divinisé. |
 | Morr | **la Gardienne du Seuil** | déesse de la mort et des portes ; symbole : une porte entrouverte gardée par un corbeau |
 | Taal | **le Vieux Cerf** | dieu des forêts, très vénéré en Eldwald |
@@ -52,17 +67,22 @@ Le JDR se joue dans Warhammer, mais le webtoon et le livre doivent vivre dans un
 | Calendrier impérial (2512 CI) | **an 812 de la Couronne** | même écart entre les dates : on retire 1700 |
 | Les comtes électeurs | **les princes électeurs** | histoire réelle, aucun souci |
 | Nains | **les Nains des Monts Cendrés** | figure du folklore, libre de droits |
-| Reikspiel (la langue de l'Empire) | **le kronlandais** | validé le 16/11/2026 |
-| Bretonniens / le bretonnien | **les Aurevalois / l'aurevalois** | validé le 16/11/2026 |
-| Averland | **la Westerau** | validé le 16/11/2026 |
-| Middenland | **la Nordmark** | validé le 16/11/2026 |
-| L'Âge des Trois Empereurs | **le Schisme des Deux Couronnes** | validé le 16/11/2026 (cf. Tome 0, 412 AC) |
-| Ubersreik | **Rabenfels** | ville du Kronland au pied du col de la Dame Voilée ; validé le 16/11/2026 |
-| Le Collège Gris (« l'Ordre Gris ») | **l'Ordre du Voile** | |
+
+### 1.4 Noms ajoutés dans le studio (Claude Code), validés par Lyes le 16/11/2026
+*Absents de la v2 de cette table ; à reporter dans le projet claude.ai.*
+
+| Warhammer (JDR) | Monde original | Idée |
+|---|---|---|
+| Reikspiel (la langue de l'Empire) | **le kronlandais** | la langue de la Couronne |
+| Bretonniens / le bretonnien | **les Aurevalois / l'aurevalois** | gens et langue d'Aurevaux |
+| Middenland | **la Nordmark** | province du Tome 0, § 5.3 |
+| L'Âge des Trois Empereurs | **le Schisme des Deux Couronnes** | Tome 0 (412–604 AC) |
+| Ubersreik | **Rabenfels** | ville du Kronland au pied du col de la Dame Voilée |
+| Le Collège Gris (« l'Ordre Gris ») | **l'Ordre du Voile** | déjà au § 1.2 ; forme « Ordre Gris » du livre |
 
 **Dates du Livre I dans le nouveau calendrier** : Purge 791–792, naissance de Konrad au printemps 794, mort d'Ottilie en 802, départ pour Hautepierre en 812.
 
-**Le sang ottilien** *(validé : on le garde)* : Ottilie est un vrai prénom (sainte Odile) et notre dynastie a sa propre histoire. Je propose de garder **« le sang ottilien »**, issu d'une impératrice inventée, **Ottilie Iʳᵉ d'Eldwald**, qui s'est proclamée impératrice contre Kaltenburg il y a quatre siècles. Le risque est faible et ça évite de réécrire le Livre I. Option plus prudente : renommer la dynastie (par exemple « le sang d'Adelinde ») et ne garder Ottilie que comme prénom.
+**Le sang ottilien** *(validé : on le garde)* : Ottilie est un vrai prénom (sainte Odile) et notre dynastie a sa propre histoire, issue d'une impératrice inventée, **Ottilie Iʳᵉ d'Eldwald**, qui s'est proclamée impératrice contre Kaltenburg en 412.
 
 **Bonus narratif** : la déesse de la mort est la Gardienne du *Seuil*, et Ottokar reste toujours *sur les seuils*. Le symbole visuel est déjà dans les images du prêtre (la porte et le corbeau).
 
@@ -88,7 +108,9 @@ Climat continental humide, sous un ciel bas presque toute l'année.
 | Été | court, orageux, lourd | orages sur les collines, foins, insectes, lumière dorée rare |
 | Automne | long, brumeux, pluvieux | brume au ras des champs, feuilles de chêne rousses, glands, champignons |
 
-**Règle visuelle** : en Nebelmark, il y a de la brume dans au moins une image sur deux. C'est le pays du Courant Gris.
+**Règle visuelle** : en Nebelmark, il y a de la brume dans au moins une image sur deux. C'est un pays où l'Ombre se cache bien : la brume naturelle et la brume de Wolfram se confondent.
+
+**Le mana** : la Nebelmark en est pauvre, sauf dans les vieilles chênaies et les tombes. L'Eldwald, au contraire, en est saturé : on y voit des particules dorées dans la lumière.
 
 ### Flore
 - **Arbres** : chênes (partout, l'arbre du domaine), hêtres, aulnes et saules le long des rivières, bouleaux sur les tourbières, quelques sapins vers l'est.
@@ -101,31 +123,31 @@ Climat continental humide, sous un ciel bas presque toute l'année.
 - **Gibier et chasse** : sangliers (Ottokar), cerfs, chevreuils, lièvres.
 - **Prédateurs** : loups (plus nombreux vers les Monts Cendrés et l'Aschenland), renards, quelques ours très rares.
 - **Oiseaux** : corbeaux et choucas (oiseaux de la Gardienne), chouettes, hérons sur la Nebel, buses.
-- **Rivières** : brochets, truites, loutres (le cousin Lorenz « nageait comme une loutre »).
+- **Rivières** : brochets, truites, loutres (le cousin Lorenz, lié à une loutre par le Vif).
 - **Domestiques** : moutons, porcs dans les chênaies à la saison des glands, chevaux de trait, chiens de chasse au château, abeilles (Brunhild).
 
 ---
 
 ## 3. Bestiaire
 
-Le bestiaire puise dans le folklore germanique, libre de droits, et dans nos propres inventions. Règle : les créatures sont rares et à moitié crues. La plupart des gens n'en ont jamais vu, ce qui les rend inquiétantes.
+Le bestiaire puise dans le folklore germanique, libre de droits, et dans nos propres inventions. Règle : les créatures sont rares et à moitié crues. La plupart des gens n'en ont jamais vu, ce qui les rend inquiétantes. La version complète est au Tome I du Codex.
 
 ### 3.1 Les Feux-Follets des tourbières (*Irrlichter*)
 - **Quoi** : petites lueurs bleu-vert qui flottent au-dessus des tourbières la nuit et attirent les voyageurs vers l'eau noire.
 - **Où** : Torfmoor, les marais vers l'Aschenland.
-- **Dans le récit** : près de Torfmoor, ils se sont multipliés depuis que la Lie y coule. Leur lumière est devenue violacée.
+- **Dans le récit** : près de Torfmoor, ils se sont multipliés depuis que l'Obscur y coule. Leur lumière est devenue violacée.
 - **Prompt** : `Small hovering will-o'-the-wisp lights over a black peat bog at night, pale blue-green glows, some tinted sickly violet, reeds and cotton grass, low mist, a narrow plank path leading into dark water, eerie and beautiful`
 
 ### 3.2 Les Gens de mousse (*Moosleute*)
 - **Quoi** : petits êtres de la taille d'un enfant de deux ans, couverts de mousse et d'écorce, très timides. Ils échangent des services contre du miel ou du pain laissé sur une souche.
 - **Où** : les vieilles chênaies d'Eichenwald (Moosbach leur doit son nom).
-- **Dans le récit** : Mathilde leur laisse du miel ; enfant, Konrad croit les voir dans les coins. Ce peut être les premiers signes de la Seconde vue, ou de vrais petits gens.
+- **Dans le récit** : Mathilde leur laisse du miel ; enfant, Konrad croit les voir dans les coins. Ce peut être les premiers signes de l'Œil des Limbes, ou de vrais petits gens.
 - **Prompt** : `Tiny shy forest folk the size of a toddler, bodies covered in thick green moss and oak bark, large dark glinting eyes, peeking from behind an old oak root at a small pot of honey left on a stump, soft morning mist, whimsical but wild`
 
 ### 3.3 La Nixe de la Nebel
-- **Quoi** : esprit de la rivière. On ne voit que des cheveux pâles comme des algues et des mains sous l'eau. On dit qu'elle prend un noyé par crue.
+- **Quoi** : esprit de la rivière, peut-être un dieu mineur. On ne voit que des cheveux pâles comme des algues et des mains sous l'eau. On dit qu'elle prend un noyé par crue.
 - **Où** : les eaux profondes et les crues de la Nebel.
-- **Dans le récit** : en 806, quand Lothar pousse Konrad dans la crue, la brume grise qui le protège peut aussi être lue comme la Nixe qui le refuse.
+- **Dans le récit** : en 806, quand Lothar pousse Konrad dans la crue, la brume grise de l'Ombre qui le protège peut aussi être lue comme la Nixe qui le refuse.
 - **Prompt** : `Under the surface of a swollen brown river, a pale feminine water spirit barely visible, long hair drifting like river weed, thin pale hands reaching upward, ghostly translucent face, murky green-brown water, rays of light from above, mysterious not monstrous`
 
 ### 3.4 Le Nachtkrapp (le corbeau de nuit)
@@ -147,13 +169,13 @@ Le bestiaire puise dans le folklore germanique, libre de droits, et dans nos pro
 - **Prompt** : `Gaunt pale dead villagers in rotted burial linen wandering through a misty marsh at dusk, slow and hollow-eyed, distant ruined chapel, cold desaturated palette, dread without gore`
 
 ### 3.7 Les Envasés
-- **Quoi** : humains ou bêtes touchés par la Lie. La peau « n'a plus tout à fait la forme d'une peau », la voix parle une langue qui ressemble à peine à la Langue Tordue, les ombres coulent mal autour d'eux. C'est le mal central de la série.
+- **Quoi** : des êtres devenus portes de l'Envers, le dernier stade de la corruption par l'Obscur. La peau « n'a plus tout à fait la forme d'une peau », la voix parle une langue qui ressemble à peine à la Langue Tordue, les ombres coulent mal autour d'eux. C'est le mal central de la série.
 - **Où** : là où quelqu'un a voulu plus que ce qu'on lui permettait (Torfmoor).
 - **Règle de mise en scène** : jamais montrés en entier ni en gros plan. Silhouette, déformation suggérée, courant noir à reflet violet.
 - **Prompt** : `A human silhouette in a dark reed hut whose outline warps and ripples unnaturally, oily black mist with a violet sheen pooling at its feet, a few twisted animal shapes in the shadows, horror by suggestion, details hidden`
 
 ### 3.8 La Dame Voilée
-- **Quoi** : le spectre qui donne son nom au col. Une femme grande et immobile, voilée de gris, qu'on aperçoit dans la tourmente. On dit qu'elle montre le bon chemin à ceux qui n'ont plus personne.
+- **Quoi** : le spectre qui donne son nom au col, peut-être un dieu mineur. Une femme grande et immobile, voilée de gris, qu'on aperçoit dans la tourmente. On dit qu'elle montre le bon chemin à ceux qui n'ont plus personne.
 - **Où** : le col, près de la chapelle noire.
 - **Dans le récit** : un lien possible avec l'Ordre du Voile, et un écho à Ottilie. Konrad la croise peut-être en franchissant le col seul (début de la campagne).
 - **Prompt** : `A tall motionless ghostly woman veiled in grey standing in a mountain blizzard near a small black stone chapel, face hidden, veil and snow blending, pointing silently toward a narrow path, melancholic and protective`
@@ -167,14 +189,21 @@ Le bestiaire puise dans le folklore germanique, libre de droits, et dans nos pro
 
 ## 4. Ce qui change dans les fichiers existants
 
-- **Le Livre I** : une passe « rechercher-remplacer » suffit grâce à la table. Les passages qui demandent une vraie réécriture sont : les huit vents (chapitre 6, « Les huit vents » devient « Les sept Courants »), le Dhar (chapitre 6), le Collège (chapitres 1, 4, 6), les pégases (chapitre 7) et le contexte historique de chapitre-00 (Ottilia, Magnus, Karl Franz).
-- **La bible visuelle et la bible des décors** : les prompts sont déjà neutres. Les seuls changements sont dans les noms et les notes.
-- **Les images déjà générées** : à garder. Seul le col (croix chrétiennes) et Parravon / Hautepierre (fleurs de lys, à remplacer par le soleil d'or) sont à refaire.
+- **Le Livre I** : il sera réécrit en v2 (décision du 15/11), pas seulement corrigé. Les passages qui demandent une vraie réécriture :
+  - les huit vents et la Seconde vue (chapitre 6) : Wolfram enseigne le mana, le Noyau, les Sentes et l'Ombre ; ce que Konrad voit entre les chênes, ce sont des **flux de mana**, plus des « vents » ;
+  - le Dhar (chapitre 6) devient l'Obscur ;
+  - le Collège (chapitres 1, 4, 6) devient l'Ordre du Voile ;
+  - les pégases (chapitre 7) deviennent les aigles ;
+  - le contexte historique de chapitre-00 (Ottilia, Magnus, Karl Franz).
+- **La bible visuelle et la bible des décors** : passées en monde original le 16/11.
+- **Les images déjà générées** : à garder. Seul le col (croix chrétiennes) et Hautepierre (fleurs de lys, à remplacer par le soleil d'or) sont à refaire.
 - **Le JDR et le site de Konrad** restent en Warhammer : la table de transposition sert de pont entre les deux.
 
-## 5. Décisions validées (14/11/2026)
-- Tous les noms de la table de transposition.
-- Le sang ottilien est conservé : Ottilie Iʳᵉ d'Eldwald, impératrice inventée.
-- Le calendrier : an 812 de la Couronne (années Warhammer moins 1700).
-- Le titre de la série : « La Lame-Grise ».
-- Le webtoon vertical est le format de la BD.
+## 5. Décisions validées
+- **14/11/2026** :
+  - tous les noms de lieux de la table ;
+  - le sang ottilien est conservé : Ottilie Iʳᵉ d'Eldwald, impératrice inventée ;
+  - le calendrier : an 812 de la Couronne (années Warhammer moins 1700) ;
+  - le titre de la série : « La Lame-Grise » ;
+  - le webtoon vertical est le format de la BD.
+- **15/11/2026** : la magie devient le mana, le Noyau et les cinq voies (Codex v2) ; les sept Courants planétaires, « l'oreille » et le Courant Gris sont abandonnés.
