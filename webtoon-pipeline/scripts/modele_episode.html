@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__TITRE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Comic+Neue:wght@700&family=Bangers&family=Inter:wght@400;500;600&display=swap">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;background:#0b0c0e;color:#e9e6df;font:14px/1.45 Inter,system-ui,sans-serif}
+.strip{max-width:560px;margin:0 auto;overflow:hidden}
+.legend{max-width:560px;margin:0 auto;padding:12px 16px;font-size:12px;color:#8c8f95;background:#101114}
+.cover{padding:70px 24px 50px;text-align:center;background:#06070a}
+.cover .s{font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:#b8963e}
+.cover h1{font:700 42px/1.05 "Cormorant Garamond",serif;margin:12px 0 6px}
+.cover h2{font:500 20px/1.2 "Cormorant Garamond",serif;margin:0;color:#c9c5bb}
+.seq{padding:22px 0}
+.fade{height:220px}
+.gap{height:22px}.gap.m{height:110px}.gap.l{height:260px}
+.panel{position:relative;margin:0 auto}
+.panel.CASE{width:calc(100% - 28px)}
+.panel.INSERT{width:76%}
+.panel.INSERT.off-l{margin-left:7%}.panel.INSERT.off-r{margin-right:7%;margin-left:auto}
+.panel.LARGE,.panel.VERT,.panel.BANDE{width:100%}
+.panel img{display:block;width:100%;height:auto}
+.light .panel img{outline:2px solid #15161a}
+.panel svg.tails{position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none;z-index:2}
+.bub{position:absolute;z-index:3;background:#fff;color:#141414;border:.13em solid #111;border-radius:1.4em;padding:.55em .8em;font:700 1em/1.18 "Comic Neue",Inter,sans-serif;text-transform:uppercase;text-align:center;letter-spacing:.01em}
+.bub.round{border-radius:50%/50%;padding:.9em 1em}
+.bub.th{border-radius:2em;border-style:solid}
+.bub.off{border-radius:.25em}
+.bub.cri{font-family:Bangers,"Comic Neue",sans-serif;font-size:1.25em;letter-spacing:.04em;border:none;background:none;padding:1.1em 1.2em}
+.bub.cri::before{content:"";position:absolute;inset:0;background:#111;z-index:-2;clip-path:polygon(0 18%,9% 4%,20% 15%,33% 0,46% 13%,60% 1%,72% 14%,86% 2%,95% 16%,100% 40%,94% 55%,100% 78%,90% 96%,76% 86%,62% 100%,48% 88%,34% 100%,22% 87%,8% 98%,3% 76%,0 58%,6% 42%)}
+.bub.cri::after{content:"";position:absolute;inset:.18em;background:#fff;z-index:-1;clip-path:polygon(0 18%,9% 4%,20% 15%,33% 0,46% 13%,60% 1%,72% 14%,86% 2%,95% 16%,100% 40%,94% 55%,100% 78%,90% 96%,76% 86%,62% 100%,48% 88%,34% 100%,22% 87%,8% 98%,3% 76%,0 58%,6% 42%)}
+.cap{position:absolute;z-index:3;background:#16171b;color:#efe9dc;border:.08em solid #b8963e;padding:.5em .75em;font:italic 500 1.12em/1.25 "Cormorant Garamond",serif}
+.fiche{position:absolute;z-index:3;background:#fbf8f2;color:#1a1a1a;border:.08em solid #cfc6b3;padding:.5em .75em;font:500 .85em/1.3 Inter,sans-serif;box-shadow:0 .2em .6em rgba(0,0,0,.35)}
+.fiche b{display:block;font:700 1.35em/1.1 "Cormorant Garamond",serif;color:#5a1f28}
+.sfx{position:absolute;z-index:3;font-family:Bangers,sans-serif;color:#fff;-webkit-text-stroke:.09em #111;paint-order:stroke fill;letter-spacing:.05em;transform:rotate(-9deg);text-shadow:.06em .06em 0 #111;pointer-events:none}
+.capout{width:calc(100% - 28px);margin:0 auto;background:#16171b;border-left:3px solid #b8963e;padding:10px 14px;font:italic 500 17px/1.35 "Cormorant Garamond",serif;color:#efe9dc}
+.ficheout{width:calc(100% - 28px);margin:0 auto 8px;background:#fbf8f2;color:#1a1a1a;padding:9px 13px;font-size:12.5px;box-shadow:0 3px 10px rgba(0,0,0,.35)}
+.ficheout b{display:block;font:700 18px/1.1 "Cormorant Garamond",serif;color:#5a1f28}
+.noir{width:100%;background:#000;min-height:440px;display:flex;align-items:center;justify-content:center;padding:40px 34px;text-align:center;font:500 23px/1.35 "Cormorant Garamond",serif;color:#f1ede4}
+.todo{width:calc(100% - 28px);margin:0 auto;border:1.5px dashed rgba(127,127,127,.6);padding:20px 16px;text-align:center;font-size:12.5px;color:#8c8f95;background:rgba(0,0,0,.25)}
+.todo .id{font-weight:700;color:#d6d1c6;letter-spacing:.06em}
+.todo .d{margin-top:6px;color:#bdb8ad}
+.todo .tl{margin-top:10px;text-align:left;font:700 13px/1.35 "Comic Neue",sans-serif;text-transform:uppercase;color:#e9e6df}
+.todo .tl span{display:block;margin-top:4px}
+.tag{position:absolute;z-index:4;top:6px;left:6px;background:rgba(0,0,0,.6);color:#ddd;font-size:10px;padding:2px 6px;border-radius:4px;display:none}
+body.ids .tag{display:block}
+.end{text-align:center;padding:70px 20px 90px;color:#8c8f95;background:#000}
+.end b{display:block;font:600 26px "Cormorant Garamond",serif;color:#e9e6df;margin-bottom:6px}
+.tool{position:fixed;right:12px;bottom:12px;z-index:9;background:#26282c;border:1px solid #3a3d42;color:#ddd;border-radius:999px;padding:8px 14px;font-size:12px;cursor:pointer}
+.ttl{position:absolute;z-index:3;text-align:center;color:#fff;text-shadow:0 .08em .5em rgba(0,0,0,.75)}
+.ttl .a{font:600 .8em/1 Inter,sans-serif;letter-spacing:.35em;text-transform:uppercase;color:#f3d98a}
+.ttl .b{font:700 2.6em/1 "Cormorant Garamond",serif;margin:.15em 0}
+.ttl .c{font:italic 500 1.3em/1.2 "Cormorant Garamond",serif}
+</style>
+</head>
+<body>
+<div class="legend">__LEGENDE__</div>
+<div class="strip" id="strip"></div>
+<button class="tool" id="tool">Numéros de case</button>
+<script>
+const SEQ = __SEQ__;
+const esc = s => String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let html = '', prev = null;
+for (const s of SEQ){
+  if (prev) html += `<div class="fade" style="background:linear-gradient(${prev},${s.bg})"></div>`;
+  html += `<div class="seq ${s.light?'light':''}" style="background:${s.bg}">`;
+  for (const e of s.items){
+    if (e.t==='gap'){ html += `<div class="gap ${e.s||''}"></div>`; continue; }
+    if (e.t==='N'){ html += `<div class="noir">${esc(e.txt)}</div>`; continue; }
+    if (e.t==='fiche'){ html += `<div class="ficheout"><b>${esc(e.n)}</b>${esc(e.x)}</div>`; continue; }
+    if (e.t==='T'){ html += `<div class="todo"><div class="id">${e.id} · à générer</div><div class="d">${esc(e.d)}</div>${e.tl?`<div class="tl">${e.tl.map(x=>`<span>${esc(x)}</span>`).join('')}</div>`:''}</div>`; continue; }
+    const off = e.off ? ' off-'+e.off : '';
+    let inner = `<img src="img/${e.img}.jpg" alt="${e.id}"><svg class="tails"></svg><span class="tag">${e.id}</span>`;
+    (e.b||[]).forEach((b,i)=>{
+      inner += `<div class="bub ${b.k||''}" data-i="${i}" data-tx="${b.tx??''}" data-ty="${b.ty??''}" data-k="${b.k||''}" style="left:${b.x}%;top:${b.y}%;width:${b.w}%">${esc(b.t)}</div>`;
+    });
+    (e.caps||[]).forEach(c=>{ inner += `<div class="cap" style="left:${c.x}%;top:${c.y}%;width:${c.w}%">${esc(c.t)}</div>`; });
+    if (e.fiche){ const f=e.fiche; inner += `<div class="fiche" style="left:${f.x}%;top:${f.y}%;width:${f.w}%"><b>${esc(f.n)}</b>${esc(f.t)}</div>`; }
+    if (e.title){ const q=e.title; inner += `<div class="ttl" style="left:${q.x}%;top:${q.y}%;width:${q.w}%"><div class="a">__TITRE_SERIE__</div><div class="b">__TITRE_EP__</div><div class="c">__NUM_EP__</div></div>`; }
+    if (e.sfx){ const L = Array.isArray(e.sfx[0]) ? e.sfx : [e.sfx]; L.forEach(q=>{ inner += `<div class="sfx" style="left:${q[1]}%;top:${q[2]}%;font-size:${q[3]}em">${esc(q[0])}</div>`; }); }
+    html += `<div class="panel ${e.f}${off}">${inner}</div>`;
+  }
+  html += `</div>`;
+  prev = s.bg;
+}
+html += `<div class="end">__FIN__</div>`;
+document.getElementById('strip').insertAdjacentHTML('beforeend', html);
+
+function layout(){
+  document.querySelectorAll('.panel').forEach(p=>{
+    const W = p.clientWidth, H = p.clientHeight;
+    if (!H) return;
+    // taille du texte proportionnelle à la largeur de la case (référence : case pleine largeur)
+    const ref = p.classList.contains('INSERT') ? W/0.76 : W;
+    p.style.fontSize = Math.max(10, ref*0.03) + 'px';
+    const svg = p.querySelector('svg.tails'); let out = '';
+    const bubs = [...p.querySelectorAll('.bub')];
+    bubs.forEach((b,i)=>{ if (b.dataset.k==='link' && i>0){ const a=bubs[i-1]; b.style.top=(a.offsetTop+a.offsetHeight+Math.max(6,W*.012))+'px'; } });
+    bubs.forEach((b,i)=>{
+      const bx = b.offsetLeft, by = b.offsetTop, bw = b.offsetWidth, bh = b.offsetHeight;
+      const cx = bx+bw/2, cy = by+bh/2;
+      if (b.dataset.k==='link' && i>0){
+        const a = bubs[i-1]; const ax = a.offsetLeft+a.offsetWidth/2, ay = a.offsetTop+a.offsetHeight;
+        out += `<path d="M${ax-6},${ay-6} L${cx-6},${by+6} L${cx+6},${by+6} L${ax+6},${ay-6} Z" fill="#fff" stroke="#111" stroke-width="2.2"/>`;
+        return;
+      }
+      if (b.dataset.tx==='') return;
+      const tx = +b.dataset.tx/100*W, ty = +b.dataset.ty/100*H;
+      const dx = tx-cx, dy = ty-cy, d = Math.hypot(dx,dy)||1;
+      if (b.dataset.k==='th'){
+        for (const [f,r] of [[.62,5],[.78,3.5],[.9,2.3]]){
+          const px = cx+dx*f, py = cy+dy*f;
+          out += `<circle cx="${px}" cy="${py}" r="${r}" fill="#fff" stroke="#111" stroke-width="1.8"/>`;
+        }
+        return;
+      }
+      const nx = -dy/d, ny = dx/d, half = Math.min(9, bw*.12);
+      const x1 = cx+nx*half, y1 = cy+ny*half, x2 = cx-nx*half, y2 = cy-ny*half;
+      if (b.dataset.k==='off'){
+        const mx = cx+dx*.55, my = cy+dy*.55;
+        out += `<path d="M${x1},${y1} L${mx+nx*10},${my+ny*10} L${mx-nx*4},${my-ny*4} L${tx},${ty} L${mx-nx*12},${my-ny*12} L${mx+nx*2},${my+ny*2} L${x2},${y2} Z" fill="#fff" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>`;
+      } else {
+        out += `<path d="M${x1},${y1} Q${cx+dx*.55+nx*4},${cy+dy*.55+ny*4} ${tx},${ty} Q${cx+dx*.55-nx*4},${cy+dy*.55-ny*4} ${x2},${y2} Z" fill="#fff" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>`;
+      }
+    });
+    svg.setAttribute('viewBox',`0 0 ${W} ${H}`);
+    svg.innerHTML = out;
+  });
+}
+let pending = 0;
+document.querySelectorAll('.panel img').forEach(im=>{ if(!im.complete){ pending++; im.addEventListener('load',()=>{ layout(); }); } });
+window.addEventListener('resize', layout);
+document.fonts && document.fonts.ready.then(layout);
+layout();
+document.getElementById('tool').onclick = () => document.body.classList.toggle('ids');
+</script>
+</body>
+</html>

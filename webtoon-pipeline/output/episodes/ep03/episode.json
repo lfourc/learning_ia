@@ -1,0 +1,755 @@
+{
+ "numero": 3,
+ "titre_page": "La Lame-Grise — Épisode 3 : La dernière journée (test)",
+ "legende": "Épisode 3 — test de production automatique. 31 cases : 16 de la v2, 15 générées. Le bouton en bas à droite affiche les numéros de case.",
+ "titre_case": {
+  "a": "La Lame-Grise",
+  "b": "La dernière journée",
+  "c": "Épisode 3"
+ },
+ "fin": "<b>Fin de l’épisode 3</b>À suivre — Épisode 4 : Le feu sans cris.",
+ "seq": [
+  {
+   "bg": "#e9eef2",
+   "light": true,
+   "items": [
+    {
+     "t": "gap",
+     "s": "m"
+    },
+    {
+     "t": "P",
+     "id": "3.01",
+     "f": "LARGE",
+     "img": "n301",
+     "caps": [
+      {
+       "x": 3,
+       "y": 4,
+       "w": 34,
+       "t": "Un an plus tard."
+      }
+     ],
+     "sfx": [
+      [
+       "plouf",
+       70,
+       62,
+       2
+      ]
+     ],
+     "gen": {
+      "prompt": "Wide shot at the spring thaw, a fast clear river in a green forest valley with the last snow melting on the banks, a broad cheerful young man with wet tousled light brown hair diving into the water side by side with a sleek brown otter, warm amber glow in the eyes of the man and of the otter, a small silver coin spinning in the air above the river catching the morning light, joyful",
+      "refs": [
+       "codex/references/c21_ref.jpg",
+       "output/episodes/ep03/img/e121.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.02",
+     "f": "CASE",
+     "img": "n302",
+     "b": [
+      {
+       "x": 58,
+       "y": 6,
+       "w": 30,
+       "k": "cri",
+       "t": "Ne lâche pas !"
+      }
+     ],
+     "gen": {
+      "prompt": "Medium shot in shallow river water in spring, the same broad laughing young man with wet light brown hair holding up a frightened young blonde noblewoman who is learning to swim, her hands gripping his shoulders, her long wet blonde hair, modest linen shift with a high neckline, a brown otter circling them, splashes, bright warm light",
+      "refs": [
+       "codex/references/c21_ref.jpg",
+       "codex/references/c3_ref.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap",
+     "s": "m"
+    },
+    {
+     "t": "P",
+     "id": "3.03",
+     "f": "LARGE",
+     "img": "n303",
+     "b": [
+      {
+       "x": 4,
+       "y": 6,
+       "w": 26,
+       "tx": 20,
+       "ty": 40,
+       "t": "… huit, neuf, dix."
+      }
+     ],
+     "gen": {
+      "prompt": "Spring forest glade with dappled sunlight, in the background a tall upright nobleman about 52 with a short greying blond beard standing with one hand over his eyes, counting like in a children's game, in the foreground a young blonde woman hiding perfectly still between ferns and a mossy oak trunk, a finger on her lips, a small secret smile, playful and secret mood",
+      "refs": [
+       "codex/references/c17_ref.jpg",
+       "codex/references/c3_ref.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap",
+     "s": "m"
+    },
+    {
+     "t": "P",
+     "id": "3.04",
+     "f": "CASE",
+     "img": "n304",
+     "b": [
+      {
+       "x": 4,
+       "y": 4,
+       "w": 34,
+       "k": "th",
+       "tx": 24,
+       "ty": 30,
+       "t": "♪ Ferme l’œil, la brume passe… ♪"
+      }
+     ],
+     "gen": {
+      "prompt": "Harvest evening in a warm manor kitchen, sheaves of wheat by the hearth, a small round old nursemaid in a white linen coif softly singing while braiding the long blonde hair of a young woman sitting on a stool in front of her, warm golden firelight, tender quiet mood",
+      "refs": [
+       "codex/references/c22_ref.jpg",
+       "codex/references/c3_ref.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap",
+     "s": "m"
+    },
+    {
+     "t": "P",
+     "id": "3.05",
+     "f": "LARGE",
+     "img": "n305",
+     "caps": [
+      {
+       "x": 56,
+       "y": 80,
+       "w": 40,
+       "t": "Plus personne ne rôda."
+      }
+     ],
+     "gen": {
+      "prompt": "Night corridor of a stone manor, a sharp lean noblewoman about 50 with a greying blond bun under a simple veil and a ring of keys at her waist, holding a lantern and touching a carved round wooden sigil above a door showing an anchor, a key, antlers and an open hand, the sigil glowing faintly gold under her fingers, a row of doors behind her each with a softly glowing gold sigil, she does not seem to notice the glow, calm and protective",
+      "refs": [
+       "codex/references/c19_ref.jpg",
+       "output/panels/chapitre_02/final/case_31.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap",
+     "s": "l"
+    }
+   ]
+  },
+  {
+   "bg": "#efe8da",
+   "light": true,
+   "items": [
+    {
+     "t": "P",
+     "id": "3.06",
+     "f": "LARGE",
+     "img": "e104",
+     "caps": [
+      {
+       "x": 3,
+       "y": 4,
+       "w": 46,
+       "t": "L’Eldwald, automne 791. Le dernier jour d’Arnsfeld."
+      }
+     ],
+     "title": {
+      "x": 44,
+      "y": 40,
+      "w": 54
+     }
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.07",
+     "f": "VERT",
+     "img": "e105"
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.08",
+     "f": "CASE",
+     "img": "e108",
+     "b": [
+      {
+       "x": 12,
+       "y": -22,
+       "w": 40,
+       "tx": 57,
+       "ty": 14,
+       "k": "cri",
+       "t": "J’ai traversé l’Elda à la nage ! Deux fois !"
+      },
+      {
+       "x": 2,
+       "y": 42,
+       "w": 27,
+       "tx": 21,
+       "ty": 30,
+       "t": "Il a perdu une botte. Deux fois."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bg": "#1a2130",
+   "light": false,
+   "items": [
+    {
+     "t": "fiche",
+     "n": "Albrecht von Weissenau",
+     "x": "Comte d’Eldenheim. Toujours poli."
+    },
+    {
+     "t": "P",
+     "id": "3.09",
+     "f": "CASE",
+     "img": "e111",
+     "b": [
+      {
+       "x": 2,
+       "y": -8,
+       "w": 34,
+       "tx": 22,
+       "ty": 9,
+       "t": "Père ne vous attendait pas, comte."
+      },
+      {
+       "x": 33,
+       "y": 3,
+       "w": 26,
+       "tx": 70,
+       "ty": 14,
+       "t": "Il ne m’attend jamais. C’est pour ça que je viens."
+      }
+     ]
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.10",
+     "f": "VERT",
+     "img": "e112",
+     "b": [
+      {
+       "x": 4,
+       "y": 9,
+       "w": 40,
+       "tx": 55,
+       "ty": 12,
+       "t": "Albrecht. Entre. Et dis-le vite."
+      }
+     ]
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.11",
+     "f": "CASE",
+     "img": "e113",
+     "b": [
+      {
+       "x": 2,
+       "y": 2,
+       "w": 26,
+       "tx": 36,
+       "ty": 12,
+       "t": "Douze familles, Ruprecht. Elles n’attendent qu’un nom."
+      },
+      {
+       "x": 72,
+       "y": 4,
+       "w": 26,
+       "tx": 72,
+       "ty": 28,
+       "t": "Elles attendront longtemps."
+      }
+     ]
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.12",
+     "f": "CASE",
+     "img": "e114",
+     "b": [
+      {
+       "x": 2,
+       "y": -9,
+       "w": 46,
+       "tx": 20,
+       "ty": 16,
+       "k": "off",
+       "t": "Le sang n’est pas un fardeau. C’est une couronne qu’on a posée de côté."
+      },
+      {
+       "x": 16,
+       "y": 72,
+       "w": 26,
+       "tx": 62,
+       "ty": 38,
+       "k": "th",
+       "t": "… le sang ?"
+      }
+     ]
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.13",
+     "f": "VERT",
+     "img": "e115",
+     "b": [
+      {
+       "x": 2,
+       "y": 2,
+       "w": 42,
+       "tx": 55,
+       "ty": 11,
+       "t": "Nous sommes des Arnsfeld. Des gens de la forêt."
+      }
+     ],
+     "sfx": [
+      "FFWOUF",
+      44,
+      66,
+      3.4
+     ]
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.14",
+     "f": "CASE",
+     "img": "e116",
+     "b": [
+      {
+       "x": 40,
+       "y": 2,
+       "w": 34,
+       "tx": 33,
+       "ty": 20,
+       "t": "Ce n’est pas moi qu’il faut craindre, Ruprecht."
+      },
+      {
+       "x": 44,
+       "y": 0,
+       "w": 32,
+       "k": "link",
+       "t": "Ce sont ceux qui savent compter aussi bien que moi."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bg": "#f1e3c4",
+   "light": true,
+   "items": [
+    {
+     "t": "P",
+     "id": "3.15",
+     "f": "CASE",
+     "img": "e117",
+     "b": [
+      {
+       "x": 1,
+       "y": 3,
+       "w": 27,
+       "tx": 37,
+       "ty": 14,
+       "t": "Tu écoutes aux portes, maintenant ?"
+      },
+      {
+       "x": 50,
+       "y": 12,
+       "w": 22,
+       "tx": 67,
+       "ty": 40,
+       "t": "Seulement celles qui parlent de moi."
+      }
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "m"
+    },
+    {
+     "t": "P",
+     "id": "3.16",
+     "f": "CASE",
+     "img": "e118"
+    },
+    {
+     "t": "gap",
+     "s": "m"
+    },
+    {
+     "t": "P",
+     "id": "3.17",
+     "f": "INSERT",
+     "img": "e119",
+     "off": "l"
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.18",
+     "f": "INSERT",
+     "img": "e120",
+     "off": "r",
+     "caps": [
+      {
+       "x": 4,
+       "y": 84,
+       "w": 44,
+       "t": "Les armes d’avant."
+      }
+     ]
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.19",
+     "f": "CASE",
+     "img": "e121",
+     "b": [
+      {
+       "x": 38,
+       "y": -12,
+       "w": 38,
+       "tx": 41,
+       "ty": 24,
+       "t": "C’était celle de ta mère. Elle ne la montrait jamais."
+      },
+      {
+       "x": 40,
+       "y": 0,
+       "w": 22,
+       "k": "link",
+       "t": "Toi non plus. Promets."
+      },
+      {
+       "x": 43,
+       "y": 48,
+       "w": 15,
+       "tx": 62,
+       "ty": 38,
+       "t": "… Je promets."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "bg": "#000",
+   "light": false,
+   "items": [
+    {
+     "t": "N",
+     "id": "3.20",
+     "txt": "Elle tiendrait cette promesse onze ans."
+    }
+   ]
+  },
+  {
+   "bg": "#e6c995",
+   "light": true,
+   "items": [
+    {
+     "t": "P",
+     "id": "3.21",
+     "f": "LARGE",
+     "img": "e123"
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.22",
+     "f": "CASE",
+     "img": "e124",
+     "b": [
+      {
+       "x": 57,
+       "y": -22,
+       "w": 32,
+       "tx": 55,
+       "ty": 14,
+       "t": "« Avec les excuses du comte von Weissenau. »"
+      },
+      {
+       "x": 2,
+       "y": -8,
+       "w": 24,
+       "tx": 20,
+       "ty": 12,
+       "t": "Il s’excuse avec du vin, au moins."
+      }
+     ]
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.23",
+     "f": "INSERT",
+     "img": "n323",
+     "off": "r",
+     "gen": {
+      "prompt": "Extreme close-up of a small folded note with a broken red wax seal, the seal shows a linden tree with a small crown in its branches but drawn crude and imprecise, clumsy lines like a forgery, late afternoon golden light on a wooden cart plank",
+      "refs": [
+       "output/episodes/ep03/img/e103.jpg"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "bg": "#26314a",
+   "light": false,
+   "items": [
+    {
+     "t": "P",
+     "id": "3.24",
+     "f": "VERT",
+     "img": "n324",
+     "caps": [
+      {
+       "x": 4,
+       "y": 4,
+       "w": 52,
+       "t": "Elle se retourna une dernière fois. Elle ne savait pas pourquoi."
+      }
+     ],
+     "gen": {
+      "prompt": "Full shot from behind at dusk, a young blonde noblewoman in a dark green gown and burgundy hooded cloak standing at the open gate of a pale stone manor holding a lit lantern and a basket, turning her head back to look at the warmly lit manor windows, blue evening falling, the dark forest ahead of her",
+      "refs": [
+       "codex/references/c3_ref.jpg",
+       "output/episodes/ep03/img/e104.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.25",
+     "f": "CASE",
+     "img": "n325",
+     "b": [
+      {
+       "x": 4,
+       "y": 4,
+       "w": 34,
+       "tx": 40,
+       "ty": 30,
+       "t": "Ne laisse pas Brunhild te garder jusqu’à minuit !"
+      },
+      {
+       "x": 60,
+       "y": 66,
+       "w": 30,
+       "k": "off",
+       "t": "Gardez-moi un verre !"
+      }
+     ],
+     "gen": {
+      "prompt": "Low-angle medium shot, a tall pretty young blonde noblewoman with her honey-blond hair braided in a crown, leaning out of a lit upper window of a stone manor, waving and laughing with a pewter wine cup in her hand, warm window light against the blue dusk",
+      "refs": [
+       "codex/references/c20_ref.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.26",
+     "f": "BANDE",
+     "img": "n326",
+     "gen": {
+      "prompt": "Very wide shot, a tiny warm lantern light disappearing into a vast dark ancient forest at blue dusk, huge black tree trunks, the light is only a small point",
+      "refs": [
+       "output/episodes/ep03/img/e104.jpg"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "bg": "#05060a",
+   "light": false,
+   "items": [
+    {
+     "t": "gap",
+     "s": "m"
+    },
+    {
+     "t": "P",
+     "id": "3.27",
+     "f": "LARGE",
+     "img": "n327",
+     "b": [
+      {
+       "x": 4,
+       "y": 4,
+       "w": 26,
+       "tx": 24,
+       "ty": 34,
+       "t": "À la maison d’Arnsfeld."
+      },
+      {
+       "x": 60,
+       "y": 6,
+       "w": 26,
+       "k": "cri",
+       "t": "À Arnsfeld !"
+      }
+     ],
+     "gen": {
+      "prompt": "Wide warm interior at night, a noble family and their servants feasting at a long oak table in a candlelit great hall, a tall nobleman with a greying blond beard at the head raising a pewter cup in a toast, everyone raising their cups and laughing, one empty chair, an antique linden tree tapestry on the wall behind them",
+      "refs": [
+       "codex/references/c17_ref.jpg",
+       "output/episodes/ep03/img/e107.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.28",
+     "f": "INSERT",
+     "img": "n328",
+     "off": "l",
+     "gen": {
+      "prompt": "Close-up of an empty wooden chair at a feast table with a full untouched pewter cup of dark red wine in front of it, candlelight",
+      "refs": [
+       "output/episodes/ep03/img/e107.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap",
+     "s": "l"
+    },
+    {
+     "t": "P",
+     "id": "3.29",
+     "f": "INSERT",
+     "img": "n329",
+     "off": "r",
+     "sfx": [
+      [
+       "tonk",
+       62,
+       70,
+       2
+      ]
+     ],
+     "gen": {
+      "prompt": "Close-up of a pewter wine cup slipping from a limp sleeping hand onto an oak table, dark red wine spilling across the wood, candlelight, silence",
+      "refs": [
+       "output/episodes/ep03/img/e107.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap"
+    },
+    {
+     "t": "P",
+     "id": "3.30",
+     "f": "CASE",
+     "img": "n330",
+     "b": [
+      {
+       "x": 60,
+       "y": 6,
+       "w": 30,
+       "k": "th",
+       "tx": 44,
+       "ty": 30,
+       "t": "… le vin."
+      }
+     ],
+     "gen": {
+      "prompt": "Medium shot, a tall nobleman with a greying blond beard slumped at the head of a candlelit feast table, fighting to keep his eyes open, one hand gripping the table, all around him family and servants asleep with their heads on the table, spilled cups, dread",
+      "refs": [
+       "codex/references/c17_ref.jpg",
+       "output/episodes/ep03/img/e113.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap",
+     "s": "l"
+    },
+    {
+     "t": "P",
+     "id": "3.31",
+     "f": "VERT",
+     "img": "n331",
+     "gen": {
+      "prompt": "Cliffhanger, tall vertical night shot, cold blue, two motionless faceless figures in long dark grey hooded cloaks standing at the dark edge of a park below a pale stone manor whose windows glow warm, one of them lighting a torch, the new flame the only warm light on their side, utterly calm, ominous",
+      "refs": [
+       "output/episodes/ep03/img/e104.jpg"
+      ]
+     }
+    },
+    {
+     "t": "gap",
+     "s": "l"
+    }
+   ]
+  }
+ ]
+}

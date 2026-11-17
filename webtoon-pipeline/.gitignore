@@ -6,3 +6,4 @@ output/panels/**/*.png
 output/strips/**/*.png
 output/strips/**/*.jpg
 output/pages/**/*.png
+output/episodes/**/brut/
