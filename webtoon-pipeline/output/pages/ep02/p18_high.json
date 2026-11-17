@@ -1,0 +1,30 @@
+{
+  "created": 1794912963,
+  "background": "opaque",
+  "output_format": "png",
+  "quality": "high",
+  "safety_identifier": null,
+  "size": "1024x1536",
+  "usage": {
+    "input_tokens": 1428,
+    "input_tokens_details": {
+      "image_tokens": 969,
+      "text_tokens": 459
+    },
+    "output_tokens": 7171,
+    "output_tokens_details": {
+      "image_tokens": 6240,
+      "text_tokens": 931
+    },
+    "total_tokens": 8599
+  },
+  "model": "chatgpt-image-latest",
+  "refs": [
+    "codex/references/c3_ref.jpg",
+    "codex/references/moustache_ref.jpg",
+    "codex/references/style_page_ep01_p03.jpg"
+  ],
+  "secondes": 48.9,
+  "fichier": "output/pages/ep02/p18_high.png",
+  "prompt": "Using the attached images as exact references for the young blonde woman (Ottilie) and the old hunting dog (Moustache). Vertical webtoon page, portrait 2:3, three stacked panels. Panel 1 (top, thin strip): the old dog stopping dead in the snow, hackles up, the young woman stopping behind him. Panel 2 (middle, tallest): a silent snowy clearing among huge ancient oaks, a single line of boot prints crossing the snow and ending abruptly in the middle of the clearing, a few small drops of red blood beside the last print, grey mist between the trunks, nobody there, wide high-angle shot. Panel 3 (bottom, square, impact): close-up of the young woman looking over her shoulder, her breath visible in the cold, wary eyes; far behind her between two trunks, the mist is slightly greyer in the vague shape of a standing man, barely visible. The young blonde woman always wears a modest high square neckline with no cleavage, as on her reference sheet, under a winter cloak. Korean action-fantasy webtoon page, vertical scroll layout, panels stacked from top to bottom with clean white gutters and thin black panel borders, semi-realistic proportions, clean sharp ink lineart, hard-edged cel shading, cold white and blue winter forest, muted palette, the red blood as the only saturated color, full detail on panels 2 and 3, no text, no letters, no speech bubbles\n\nAvoid: oil painting, painterly brushstrokes, photorealism, soft airbrushed gradients, pastel shoujo style, western cartoon style, thick outlines, busy textures, ornate embroidery detail, cluttered foliage, overly detailed background, grain, christian cross, crucifix, fleur-de-lis, text, letters, watermark, speech bubbles, extra fingers\n"
+}
