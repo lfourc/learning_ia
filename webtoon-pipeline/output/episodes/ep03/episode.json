@@ -82,11 +82,11 @@
      "img": "n303",
      "b": [
       {
-       "x": 4,
-       "y": 6,
+       "x": 48,
+       "y": -14,
        "w": 26,
-       "tx": 20,
-       "ty": 40,
+       "tx": 66,
+       "ty": 14,
        "t": "… huit, neuf, dix."
       }
      ],
@@ -144,7 +144,7 @@
       }
      ],
      "gen": {
-      "prompt": "Night corridor of a stone manor, a sharp lean noblewoman about 50 with a greying blond bun under a simple veil and a ring of keys at her waist, holding a lantern and touching a carved round wooden sigil above a door showing an anchor, a key, antlers and an open hand, the sigil glowing faintly gold under her fingers, a row of doors behind her each with a softly glowing gold sigil, she does not seem to notice the glow, calm and protective",
+      "prompt": "Night corridor of a stone manor, a sharp lean noblewoman about 50, her greying blond hair pulled into a tight bun fully covered by a plain white linen veil, keen blue eyes, long burgundy gown, a ring of household keys at her waist, holding a lantern and touching a carved round wooden sigil above a door showing an anchor, a key, antlers and an open hand, the sigil glowing faintly gold under her fingers, a row of doors behind her each with a softly glowing gold sigil, she does not notice the glow, calm and protective",
       "refs": [
        "codex/references/c19_ref.jpg",
        "output/panels/chapitre_02/final/case_31.jpg"
@@ -541,7 +541,7 @@
      "img": "n323",
      "off": "r",
      "gen": {
-      "prompt": "Extreme close-up of a small folded note with a broken red wax seal, the seal shows a linden tree with a small crown in its branches but drawn crude and imprecise, clumsy lines like a forgery, late afternoon golden light on a wooden cart plank",
+      "prompt": "Extreme close-up still life, no people, no faces, no hands: a small folded note lying alone on a rough wooden cart plank, its red wax seal broken in two, the seal shows a linden tree with a small crown in its branches but stamped clumsily, blurred off-center imprint with smeared uneven edges like a cheap forgery, late afternoon golden light",
       "refs": [
        "output/episodes/ep03/img/e103.jpg"
       ]
@@ -584,11 +584,11 @@
      "img": "n325",
      "b": [
       {
-       "x": 4,
-       "y": 4,
-       "w": 34,
-       "tx": 40,
-       "ty": 30,
+       "x": 2,
+       "y": -20,
+       "w": 38,
+       "tx": 34,
+       "ty": 12,
        "t": "Ne laisse pas Brunhild te garder jusqu’à minuit !"
       },
       {
@@ -615,10 +615,8 @@
      "f": "BANDE",
      "img": "n326",
      "gen": {
-      "prompt": "Very wide shot, a tiny warm lantern light disappearing into a vast dark ancient forest at blue dusk, huge black tree trunks, the light is only a small point",
-      "refs": [
-       "output/episodes/ep03/img/e104.jpg"
-      ]
+      "prompt": "Empty landscape, no people in the frame: very wide shot of a vast dark ancient forest at blue dusk, huge black tree trunks framing a narrow path, far away in the depth a single tiny warm lantern light disappearing between the trees, the light is only a small point, silence",
+      "refs": []
      }
     }
    ]
@@ -638,16 +636,16 @@
      "img": "n327",
      "b": [
       {
-       "x": 4,
-       "y": 4,
-       "w": 26,
-       "tx": 24,
-       "ty": 34,
+       "x": 22,
+       "y": -16,
+       "w": 28,
+       "tx": 42,
+       "ty": 10,
        "t": "À la maison d’Arnsfeld."
       },
       {
-       "x": 60,
-       "y": 6,
+       "x": 62,
+       "y": -14,
        "w": 26,
        "k": "cri",
        "t": "À Arnsfeld !"

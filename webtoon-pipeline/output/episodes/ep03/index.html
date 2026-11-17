@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>La Lame-Grise — Épisode 3 : La dernière journée (test)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Comic+Neue:wght@700&family=Bangers&family=Inter:wght@400;500;600&display=swap">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;background:#0b0c0e;color:#e9e6df;font:14px/1.45 Inter,system-ui,sans-serif}
+.strip{max-width:560px;margin:0 auto;overflow:hidden}
+.legend{max-width:560px;margin:0 auto;padding:12px 16px;font-size:12px;color:#8c8f95;background:#101114}
+.cover{padding:70px 24px 50px;text-align:center;background:#06070a}
+.cover .s{font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:#b8963e}
+.cover h1{font:700 42px/1.05 "Cormorant Garamond",serif;margin:12px 0 6px}
+.cover h2{font:500 20px/1.2 "Cormorant Garamond",serif;margin:0;color:#c9c5bb}
+.seq{padding:22px 0}
+.fade{height:220px}
+.gap{height:22px}.gap.m{height:110px}.gap.l{height:260px}
+.panel{position:relative;margin:0 auto}
+.panel.CASE{width:calc(100% - 28px)}
+.panel.INSERT{width:76%}
+.panel.INSERT.off-l{margin-left:7%}.panel.INSERT.off-r{margin-right:7%;margin-left:auto}
+.panel.LARGE,.panel.VERT,.panel.BANDE{width:100%}
+.panel img{display:block;width:100%;height:auto}
+.light .panel img{outline:2px solid #15161a}
+.panel svg.tails{position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none;z-index:2}
+.bub{position:absolute;z-index:3;background:#fff;color:#141414;border:.13em solid #111;border-radius:1.4em;padding:.55em .8em;font:700 1em/1.18 "Comic Neue",Inter,sans-serif;text-transform:uppercase;text-align:center;letter-spacing:.01em}
+.bub.round{border-radius:50%/50%;padding:.9em 1em}
+.bub.th{border-radius:2em;border-style:solid}
+.bub.off{border-radius:.25em}
+.bub.cri{font-family:Bangers,"Comic Neue",sans-serif;font-size:1.25em;letter-spacing:.04em;border:none;background:none;padding:1.1em 1.2em}
+.bub.cri::before{content:"";position:absolute;inset:0;background:#111;z-index:-2;clip-path:polygon(0 18%,9% 4%,20% 15%,33% 0,46% 13%,60% 1%,72% 14%,86% 2%,95% 16%,100% 40%,94% 55%,100% 78%,90% 96%,76% 86%,62% 100%,48% 88%,34% 100%,22% 87%,8% 98%,3% 76%,0 58%,6% 42%)}
+.bub.cri::after{content:"";position:absolute;inset:.18em;background:#fff;z-index:-1;clip-path:polygon(0 18%,9% 4%,20% 15%,33% 0,46% 13%,60% 1%,72% 14%,86% 2%,95% 16%,100% 40%,94% 55%,100% 78%,90% 96%,76% 86%,62% 100%,48% 88%,34% 100%,22% 87%,8% 98%,3% 76%,0 58%,6% 42%)}
+.cap{position:absolute;z-index:3;background:#16171b;color:#efe9dc;border:.08em solid #b8963e;padding:.5em .75em;font:italic 500 1.12em/1.25 "Cormorant Garamond",serif}
+.fiche{position:absolute;z-index:3;background:#fbf8f2;color:#1a1a1a;border:.08em solid #cfc6b3;padding:.5em .75em;font:500 .85em/1.3 Inter,sans-serif;box-shadow:0 .2em .6em rgba(0,0,0,.35)}
+.fiche b{display:block;font:700 1.35em/1.1 "Cormorant Garamond",serif;color:#5a1f28}
+.sfx{position:absolute;z-index:3;font-family:Bangers,sans-serif;color:#fff;-webkit-text-stroke:.09em #111;paint-order:stroke fill;letter-spacing:.05em;transform:rotate(-9deg);text-shadow:.06em .06em 0 #111;pointer-events:none}
+.capout{width:calc(100% - 28px);margin:0 auto;background:#16171b;border-left:3px solid #b8963e;padding:10px 14px;font:italic 500 17px/1.35 "Cormorant Garamond",serif;color:#efe9dc}
+.ficheout{width:calc(100% - 28px);margin:0 auto 8px;background:#fbf8f2;color:#1a1a1a;padding:9px 13px;font-size:12.5px;box-shadow:0 3px 10px rgba(0,0,0,.35)}
+.ficheout b{display:block;font:700 18px/1.1 "Cormorant Garamond",serif;color:#5a1f28}
+.noir{width:100%;background:#000;min-height:440px;display:flex;align-items:center;justify-content:center;padding:40px 34px;text-align:center;font:500 23px/1.35 "Cormorant Garamond",serif;color:#f1ede4}
+.todo{width:calc(100% - 28px);margin:0 auto;border:1.5px dashed rgba(127,127,127,.6);padding:20px 16px;text-align:center;font-size:12.5px;color:#8c8f95;background:rgba(0,0,0,.25)}
+.todo .id{font-weight:700;color:#d6d1c6;letter-spacing:.06em}
+.todo .d{margin-top:6px;color:#bdb8ad}
+.todo .tl{margin-top:10px;text-align:left;font:700 13px/1.35 "Comic Neue",sans-serif;text-transform:uppercase;color:#e9e6df}
+.todo .tl span{display:block;margin-top:4px}
+.tag{position:absolute;z-index:4;top:6px;left:6px;background:rgba(0,0,0,.6);color:#ddd;font-size:10px;padding:2px 6px;border-radius:4px;display:none}
+body.ids .tag{display:block}
+.end{text-align:center;padding:70px 20px 90px;color:#8c8f95;background:#000}
+.end b{display:block;font:600 26px "Cormorant Garamond",serif;color:#e9e6df;margin-bottom:6px}
+.tool{position:fixed;right:12px;bottom:12px;z-index:9;background:#26282c;border:1px solid #3a3d42;color:#ddd;border-radius:999px;padding:8px 14px;font-size:12px;cursor:pointer}
+.ttl{position:absolute;z-index:3;text-align:center;color:#fff;text-shadow:0 .08em .5em rgba(0,0,0,.75)}
+.ttl .a{font:600 .8em/1 Inter,sans-serif;letter-spacing:.35em;text-transform:uppercase;color:#f3d98a}
+.ttl .b{font:700 2.6em/1 "Cormorant Garamond",serif;margin:.15em 0}
+.ttl .c{font:italic 500 1.3em/1.2 "Cormorant Garamond",serif}
+</style>
+</head>
+<body>
+<div class="legend">Épisode 3 — test de production automatique. 31 cases : 16 de la v2, 15 générées. Le bouton en bas à droite affiche les numéros de case.</div>
+<div class="strip" id="strip"></div>
+<button class="tool" id="tool">Numéros de case</button>
+<script>
+const SEQ = [{"bg": "#e9eef2", "light": true, "items": [{"t": "gap", "s": "m"}, {"t": "P", "id": "3.01", "f": "LARGE", "img": "n301", "caps": [{"x": 3, "y": 4, "w": 34, "t": "Un an plus tard."}], "sfx": [["plouf", 70, 62, 2]], "gen": {"prompt": "Wide shot at the spring thaw, a fast clear river in a green forest valley with the last snow melting on the banks, a broad cheerful young man with wet tousled light brown hair diving into the water side by side with a sleek brown otter, warm amber glow in the eyes of the man and of the otter, a small silver coin spinning in the air above the river catching the morning light, joyful", "refs": ["codex/references/c21_ref.jpg", "output/episodes/ep03/img/e121.jpg"]}}, {"t": "gap"}, {"t": "P", "id": "3.02", "f": "CASE", "img": "n302", "b": [{"x": 58, "y": 6, "w": 30, "k": "cri", "t": "Ne lâche pas !"}], "gen": {"prompt": "Medium shot in shallow river water in spring, the same broad laughing young man with wet light brown hair holding up a frightened young blonde noblewoman who is learning to swim, her hands gripping his shoulders, her long wet blonde hair, modest linen shift with a high neckline, a brown otter circling them, splashes, bright warm light", "refs": ["codex/references/c21_ref.jpg", "codex/references/c3_ref.jpg"]}}, {"t": "gap", "s": "m"}, {"t": "P", "id": "3.03", "f": "LARGE", "img": "n303", "b": [{"x": 48, "y": -14, "w": 26, "tx": 66, "ty": 14, "t": "… huit, neuf, dix."}], "gen": {"prompt": "Spring forest glade with dappled sunlight, in the background a tall upright nobleman about 52 with a short greying blond beard standing with one hand over his eyes, counting like in a children's game, in the foreground a young blonde woman hiding perfectly still between ferns and a mossy oak trunk, a finger on her lips, a small secret smile, playful and secret mood", "refs": ["codex/references/c17_ref.jpg", "codex/references/c3_ref.jpg"]}}, {"t": "gap", "s": "m"}, {"t": "P", "id": "3.04", "f": "CASE", "img": "n304", "b": [{"x": 4, "y": 4, "w": 34, "k": "th", "tx": 24, "ty": 30, "t": "♪ Ferme l’œil, la brume passe… ♪"}], "gen": {"prompt": "Harvest evening in a warm manor kitchen, sheaves of wheat by the hearth, a small round old nursemaid in a white linen coif softly singing while braiding the long blonde hair of a young woman sitting on a stool in front of her, warm golden firelight, tender quiet mood", "refs": ["codex/references/c22_ref.jpg", "codex/references/c3_ref.jpg"]}}, {"t": "gap", "s": "m"}, {"t": "P", "id": "3.05", "f": "LARGE", "img": "n305", "caps": [{"x": 56, "y": 80, "w": 40, "t": "Plus personne ne rôda."}], "gen": {"prompt": "Night corridor of a stone manor, a sharp lean noblewoman about 50, her greying blond hair pulled into a tight bun fully covered by a plain white linen veil, keen blue eyes, long burgundy gown, a ring of household keys at her waist, holding a lantern and touching a carved round wooden sigil above a door showing an anchor, a key, antlers and an open hand, the sigil glowing faintly gold under her fingers, a row of doors behind her each with a softly glowing gold sigil, she does not notice the glow, calm and protective", "refs": ["codex/references/c19_ref.jpg", "output/panels/chapitre_02/final/case_31.jpg"]}}, {"t": "gap", "s": "l"}]}, {"bg": "#efe8da", "light": true, "items": [{"t": "P", "id": "3.06", "f": "LARGE", "img": "e104", "caps": [{"x": 3, "y": 4, "w": 46, "t": "L’Eldwald, automne 791. Le dernier jour d’Arnsfeld."}], "title": {"x": 44, "y": 40, "w": 54}}, {"t": "gap"}, {"t": "P", "id": "3.07", "f": "VERT", "img": "e105"}, {"t": "gap"}, {"t": "P", "id": "3.08", "f": "CASE", "img": "e108", "b": [{"x": 12, "y": -22, "w": 40, "tx": 57, "ty": 14, "k": "cri", "t": "J’ai traversé l’Elda à la nage ! Deux fois !"}, {"x": 2, "y": 42, "w": 27, "tx": 21, "ty": 30, "t": "Il a perdu une botte. Deux fois."}]}]}, {"bg": "#1a2130", "light": false, "items": [{"t": "fiche", "n": "Albrecht von Weissenau", "x": "Comte d’Eldenheim. Toujours poli."}, {"t": "P", "id": "3.09", "f": "CASE", "img": "e111", "b": [{"x": 2, "y": -8, "w": 34, "tx": 22, "ty": 9, "t": "Père ne vous attendait pas, comte."}, {"x": 33, "y": 3, "w": 26, "tx": 70, "ty": 14, "t": "Il ne m’attend jamais. C’est pour ça que je viens."}]}, {"t": "gap"}, {"t": "P", "id": "3.10", "f": "VERT", "img": "e112", "b": [{"x": 4, "y": 9, "w": 40, "tx": 55, "ty": 12, "t": "Albrecht. Entre. Et dis-le vite."}]}, {"t": "gap"}, {"t": "P", "id": "3.11", "f": "CASE", "img": "e113", "b": [{"x": 2, "y": 2, "w": 26, "tx": 36, "ty": 12, "t": "Douze familles, Ruprecht. Elles n’attendent qu’un nom."}, {"x": 72, "y": 4, "w": 26, "tx": 72, "ty": 28, "t": "Elles attendront longtemps."}]}, {"t": "gap"}, {"t": "P", "id": "3.12", "f": "CASE", "img": "e114", "b": [{"x": 2, "y": -9, "w": 46, "tx": 20, "ty": 16, "k": "off", "t": "Le sang n’est pas un fardeau. C’est une couronne qu’on a posée de côté."}, {"x": 16, "y": 72, "w": 26, "tx": 62, "ty": 38, "k": "th", "t": "… le sang ?"}]}, {"t": "gap"}, {"t": "P", "id": "3.13", "f": "VERT", "img": "e115", "b": [{"x": 2, "y": 2, "w": 42, "tx": 55, "ty": 11, "t": "Nous sommes des Arnsfeld. Des gens de la forêt."}], "sfx": ["FFWOUF", 44, 66, 3.4]}, {"t": "gap"}, {"t": "P", "id": "3.14", "f": "CASE", "img": "e116", "b": [{"x": 40, "y": 2, "w": 34, "tx": 33, "ty": 20, "t": "Ce n’est pas moi qu’il faut craindre, Ruprecht."}, {"x": 44, "y": 0, "w": 32, "k": "link", "t": "Ce sont ceux qui savent compter aussi bien que moi."}]}]}, {"bg": "#f1e3c4", "light": true, "items": [{"t": "P", "id": "3.15", "f": "CASE", "img": "e117", "b": [{"x": 1, "y": 3, "w": 27, "tx": 37, "ty": 14, "t": "Tu écoutes aux portes, maintenant ?"}, {"x": 50, "y": 12, "w": 22, "tx": 67, "ty": 40, "t": "Seulement celles qui parlent de moi."}]}, {"t": "gap", "s": "m"}, {"t": "P", "id": "3.16", "f": "CASE", "img": "e118"}, {"t": "gap", "s": "m"}, {"t": "P", "id": "3.17", "f": "INSERT", "img": "e119", "off": "l"}, {"t": "gap"}, {"t": "P", "id": "3.18", "f": "INSERT", "img": "e120", "off": "r", "caps": [{"x": 4, "y": 84, "w": 44, "t": "Les armes d’avant."}]}, {"t": "gap"}, {"t": "P", "id": "3.19", "f": "CASE", "img": "e121", "b": [{"x": 38, "y": -12, "w": 38, "tx": 41, "ty": 24, "t": "C’était celle de ta mère. Elle ne la montrait jamais."}, {"x": 40, "y": 0, "w": 22, "k": "link", "t": "Toi non plus. Promets."}, {"x": 43, "y": 48, "w": 15, "tx": 62, "ty": 38, "t": "… Je promets."}]}]}, {"bg": "#000", "light": false, "items": [{"t": "N", "id": "3.20", "txt": "Elle tiendrait cette promesse onze ans."}]}, {"bg": "#e6c995", "light": true, "items": [{"t": "P", "id": "3.21", "f": "LARGE", "img": "e123"}, {"t": "gap"}, {"t": "P", "id": "3.22", "f": "CASE", "img": "e124", "b": [{"x": 57, "y": -22, "w": 32, "tx": 55, "ty": 14, "t": "« Avec les excuses du comte von Weissenau. »"}, {"x": 2, "y": -8, "w": 24, "tx": 20, "ty": 12, "t": "Il s’excuse avec du vin, au moins."}]}, {"t": "gap"}, {"t": "P", "id": "3.23", "f": "INSERT", "img": "n323", "off": "r", "gen": {"prompt": "Extreme close-up still life, no people, no faces, no hands: a small folded note lying alone on a rough wooden cart plank, its red wax seal broken in two, the seal shows a linden tree with a small crown in its branches but stamped clumsily, blurred off-center imprint with smeared uneven edges like a cheap forgery, late afternoon golden light", "refs": ["output/episodes/ep03/img/e103.jpg"]}}]}, {"bg": "#26314a", "light": false, "items": [{"t": "P", "id": "3.24", "f": "VERT", "img": "n324", "caps": [{"x": 4, "y": 4, "w": 52, "t": "Elle se retourna une dernière fois. Elle ne savait pas pourquoi."}], "gen": {"prompt": "Full shot from behind at dusk, a young blonde noblewoman in a dark green gown and burgundy hooded cloak standing at the open gate of a pale stone manor holding a lit lantern and a basket, turning her head back to look at the warmly lit manor windows, blue evening falling, the dark forest ahead of her", "refs": ["codex/references/c3_ref.jpg", "output/episodes/ep03/img/e104.jpg"]}}, {"t": "gap"}, {"t": "P", "id": "3.25", "f": "CASE", "img": "n325", "b": [{"x": 2, "y": -20, "w": 38, "tx": 34, "ty": 12, "t": "Ne laisse pas Brunhild te garder jusqu’à minuit !"}, {"x": 60, "y": 66, "w": 30, "k": "off", "t": "Gardez-moi un verre !"}], "gen": {"prompt": "Low-angle medium shot, a tall pretty young blonde noblewoman with her honey-blond hair braided in a crown, leaning out of a lit upper window of a stone manor, waving and laughing with a pewter wine cup in her hand, warm window light against the blue dusk", "refs": ["codex/references/c20_ref.jpg"]}}, {"t": "gap"}, {"t": "P", "id": "3.26", "f": "BANDE", "img": "n326", "gen": {"prompt": "Empty landscape, no people in the frame: very wide shot of a vast dark ancient forest at blue dusk, huge black tree trunks framing a narrow path, far away in the depth a single tiny warm lantern light disappearing between the trees, the light is only a small point, silence", "refs": []}}]}, {"bg": "#05060a", "light": false, "items": [{"t": "gap", "s": "m"}, {"t": "P", "id": "3.27", "f": "LARGE", "img": "n327", "b": [{"x": 22, "y": -16, "w": 28, "tx": 42, "ty": 10, "t": "À la maison d’Arnsfeld."}, {"x": 62, "y": -14, "w": 26, "k": "cri", "t": "À Arnsfeld !"}], "gen": {"prompt": "Wide warm interior at night, a noble family and their servants feasting at a long oak table in a candlelit great hall, a tall nobleman with a greying blond beard at the head raising a pewter cup in a toast, everyone raising their cups and laughing, one empty chair, an antique linden tree tapestry on the wall behind them", "refs": ["codex/references/c17_ref.jpg", "output/episodes/ep03/img/e107.jpg"]}}, {"t": "gap"}, {"t": "P", "id": "3.28", "f": "INSERT", "img": "n328", "off": "l", "gen": {"prompt": "Close-up of an empty wooden chair at a feast table with a full untouched pewter cup of dark red wine in front of it, candlelight", "refs": ["output/episodes/ep03/img/e107.jpg"]}}, {"t": "gap", "s": "l"}, {"t": "P", "id": "3.29", "f": "INSERT", "img": "n329", "off": "r", "sfx": [["tonk", 62, 70, 2]], "gen": {"prompt": "Close-up of a pewter wine cup slipping from a limp sleeping hand onto an oak table, dark red wine spilling across the wood, candlelight, silence", "refs": ["output/episodes/ep03/img/e107.jpg"]}}, {"t": "gap"}, {"t": "P", "id": "3.30", "f": "CASE", "img": "n330", "b": [{"x": 60, "y": 6, "w": 30, "k": "th", "tx": 44, "ty": 30, "t": "… le vin."}], "gen": {"prompt": "Medium shot, a tall nobleman with a greying blond beard slumped at the head of a candlelit feast table, fighting to keep his eyes open, one hand gripping the table, all around him family and servants asleep with their heads on the table, spilled cups, dread", "refs": ["codex/references/c17_ref.jpg", "output/episodes/ep03/img/e113.jpg"]}}, {"t": "gap", "s": "l"}, {"t": "P", "id": "3.31", "f": "VERT", "img": "n331", "gen": {"prompt": "Cliffhanger, tall vertical night shot, cold blue, two motionless faceless figures in long dark grey hooded cloaks standing at the dark edge of a park below a pale stone manor whose windows glow warm, one of them lighting a torch, the new flame the only warm light on their side, utterly calm, ominous", "refs": ["output/episodes/ep03/img/e104.jpg"]}}, {"t": "gap", "s": "l"}]}];
+const esc = s => String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let html = '', prev = null;
+for (const s of SEQ){
+  if (prev) html += `<div class="fade" style="background:linear-gradient(${prev},${s.bg})"></div>`;
+  html += `<div class="seq ${s.light?'light':''}" style="background:${s.bg}">`;
+  for (const e of s.items){
+    if (e.t==='gap'){ html += `<div class="gap ${e.s||''}"></div>`; continue; }
+    if (e.t==='N'){ html += `<div class="noir">${esc(e.txt)}</div>`; continue; }
+    if (e.t==='fiche'){ html += `<div class="ficheout"><b>${esc(e.n)}</b>${esc(e.x)}</div>`; continue; }
+    if (e.t==='T'){ html += `<div class="todo"><div class="id">${e.id} · à générer</div><div class="d">${esc(e.d)}</div>${e.tl?`<div class="tl">${e.tl.map(x=>`<span>${esc(x)}</span>`).join('')}</div>`:''}</div>`; continue; }
+    const off = e.off ? ' off-'+e.off : '';
+    let inner = `<img src="img/${e.img}.jpg" alt="${e.id}"><svg class="tails"></svg><span class="tag">${e.id}</span>`;
+    (e.b||[]).forEach((b,i)=>{
+      inner += `<div class="bub ${b.k||''}" data-i="${i}" data-tx="${b.tx??''}" data-ty="${b.ty??''}" data-k="${b.k||''}" style="left:${b.x}%;top:${b.y}%;width:${b.w}%">${esc(b.t)}</div>`;
+    });
+    (e.caps||[]).forEach(c=>{ inner += `<div class="cap" style="left:${c.x}%;top:${c.y}%;width:${c.w}%">${esc(c.t)}</div>`; });
+    if (e.fiche){ const f=e.fiche; inner += `<div class="fiche" style="left:${f.x}%;top:${f.y}%;width:${f.w}%"><b>${esc(f.n)}</b>${esc(f.t)}</div>`; }
+    if (e.title){ const q=e.title; inner += `<div class="ttl" style="left:${q.x}%;top:${q.y}%;width:${q.w}%"><div class="a">La Lame-Grise</div><div class="b">La dernière journée</div><div class="c">Épisode 3</div></div>`; }
+    if (e.sfx){ const L = Array.isArray(e.sfx[0]) ? e.sfx : [e.sfx]; L.forEach(q=>{ inner += `<div class="sfx" style="left:${q[1]}%;top:${q[2]}%;font-size:${q[3]}em">${esc(q[0])}</div>`; }); }
+    html += `<div class="panel ${e.f}${off}">${inner}</div>`;
+  }
+  html += `</div>`;
+  prev = s.bg;
+}
+html += `<div class="end"><b>Fin de l’épisode 3</b>À suivre — Épisode 4 : Le feu sans cris.</div>`;
+document.getElementById('strip').insertAdjacentHTML('beforeend', html);
+
+function layout(){
+  document.querySelectorAll('.panel').forEach(p=>{
+    const W = p.clientWidth, H = p.clientHeight;
+    if (!H) return;
+    // taille du texte proportionnelle à la largeur de la case (référence : case pleine largeur)
+    const ref = p.classList.contains('INSERT') ? W/0.76 : W;
+    p.style.fontSize = Math.max(10, ref*0.03) + 'px';
+    const svg = p.querySelector('svg.tails'); let out = '';
+    const bubs = [...p.querySelectorAll('.bub')];
+    bubs.forEach((b,i)=>{ if (b.dataset.k==='link' && i>0){ const a=bubs[i-1]; b.style.top=(a.offsetTop+a.offsetHeight+Math.max(6,W*.012))+'px'; } });
+    bubs.forEach((b,i)=>{
+      const bx = b.offsetLeft, by = b.offsetTop, bw = b.offsetWidth, bh = b.offsetHeight;
+      const cx = bx+bw/2, cy = by+bh/2;
+      if (b.dataset.k==='link' && i>0){
+        const a = bubs[i-1]; const ax = a.offsetLeft+a.offsetWidth/2, ay = a.offsetTop+a.offsetHeight;
+        out += `<path d="M${ax-6},${ay-6} L${cx-6},${by+6} L${cx+6},${by+6} L${ax+6},${ay-6} Z" fill="#fff" stroke="#111" stroke-width="2.2"/>`;
+        return;
+      }
+      if (b.dataset.tx==='') return;
+      const tx = +b.dataset.tx/100*W, ty = +b.dataset.ty/100*H;
+      const dx = tx-cx, dy = ty-cy, d = Math.hypot(dx,dy)||1;
+      if (b.dataset.k==='th'){
+        for (const [f,r] of [[.62,5],[.78,3.5],[.9,2.3]]){
+          const px = cx+dx*f, py = cy+dy*f;
+          out += `<circle cx="${px}" cy="${py}" r="${r}" fill="#fff" stroke="#111" stroke-width="1.8"/>`;
+        }
+        return;
+      }
+      const nx = -dy/d, ny = dx/d, half = Math.min(9, bw*.12);
+      const x1 = cx+nx*half, y1 = cy+ny*half, x2 = cx-nx*half, y2 = cy-ny*half;
+      if (b.dataset.k==='off'){
+        const mx = cx+dx*.55, my = cy+dy*.55;
+        out += `<path d="M${x1},${y1} L${mx+nx*10},${my+ny*10} L${mx-nx*4},${my-ny*4} L${tx},${ty} L${mx-nx*12},${my-ny*12} L${mx+nx*2},${my+ny*2} L${x2},${y2} Z" fill="#fff" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>`;
+      } else {
+        out += `<path d="M${x1},${y1} Q${cx+dx*.55+nx*4},${cy+dy*.55+ny*4} ${tx},${ty} Q${cx+dx*.55-nx*4},${cy+dy*.55-ny*4} ${x2},${y2} Z" fill="#fff" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>`;
+      }
+    });
+    svg.setAttribute('viewBox',`0 0 ${W} ${H}`);
+    svg.innerHTML = out;
+  });
+}
+let pending = 0;
+document.querySelectorAll('.panel img').forEach(im=>{ if(!im.complete){ pending++; im.addEventListener('load',()=>{ layout(); }); } });
+window.addEventListener('resize', layout);
+document.fonts && document.fonts.ready.then(layout);
+layout();
+document.getElementById('tool').onclick = () => document.body.classList.toggle('ids');
+</script>
+</body>
+</html>
